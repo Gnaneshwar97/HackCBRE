@@ -1,0 +1,1301 @@
+Property Address,Insight 1,Insight 2,Driver,Account,Criticality
+"2483 Olson Via St, Houston",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,High
+"8389 Chad Village St, Houston",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Critical
+"3427 James Shoal St, Boston",Energy Usage,Off-Hours,High energy usage during peak hours,StreamView Media,Low
+"9659 Angela Estates St, New York",Energy Usage,Energy Efficiency,High energy usage during peak hours,NexaRetail,Low
+"6752 Cameron Extension St, Atlanta",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,Critical
+"9460 Laura Forks St, Boston",Work Orders,Preventative,High number of reactive work orders,Bank of ACME,Medium
+"2364 Rodriguez Plains St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,Medium
+"3803 Bruce Light St, Seattle",Energy Usage,Energy Efficiency,Low energy efficiency,GreenLeaf Co.,Medium
+"5885 Charles Trail St, Chicago",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,Critical
+"5655 Ian Meadows St, Boston",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,High
+"4756 Henry Knolls St, Chicago",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,Medium
+"9204 Lisa Oval St, Chicago",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Bank of ACME,Medium
+"4921 Anderson Hill St, Houston",Leases,Occupancy,High number of expiring leases,TechSphere Inc.,Critical
+"2432 Clark Isle St, Seattle",Compliance,Compliance Score,Multiple non-compliance incidents,Bank of ACME,High
+"3000 Torres Roads St, New York",Compliance,Regulatory Updates,Upcoming regulatory changes,GreenLeaf Co.,Medium
+"3649 William Islands St, Dallas",Work Orders,Completion Rate,Completion Rates below 50%,TechSphere Inc.,Medium
+"2579 Castaneda Ford St, Boston",Leases,Occupancy,High number of expiring leases,EverGrow Farms,High
+"3025 Keith Stravenue St, Los Angeles",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Critical
+"2521 Bradley Vista St, Los Angeles",Leases,Renewal Rate,Low renewal rates,Quantum Dynamics,Medium
+"2646 Chen Drive St, Los Angeles",Budgets,Budget Compliance,Energy Costs above 15% mean,StreamView Media,Low
+"9369 Eric Turnpike St, Houston",Work Orders,Reactive,Completion Rates below 50%,Quantum Dynamics,Medium
+"1412 Wise Burgs St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,Bank of ACME,High
+"3453 Simmons Mills St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Quantum Dynamics,High
+"4113 Morgan Oval St, Miami",Work Orders,Reactive,High number of reactive work orders,GreenLeaf Co.,Medium
+"9723 Kelly Squares St, Houston",Leases,Expiring,Low renewal rates,EverGrow Farms,Medium
+"2540 Joseph Motorway St, San Francisco",Energy Usage,Peak Hours,Low energy efficiency,Bank of ACME,Medium
+"148 Pratt Extensions St, Dallas",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,Medium
+"6692 Nathan Hills St, San Francisco",Energy Usage,Off-Hours,High energy usage during peak hours,Skyline Properties,High
+"6169 Matthew Throughway St, Atlanta",Work Orders,Preventative,Completion Rates below 50%,Skyline Properties,Critical
+"8703 James Ways St, Miami",Work Orders,Reactive,Completion Rates below 50%,Skyline Properties,Low
+"2297 Daniel Parks St, Los Angeles",Work Orders,Preventative,High number of reactive work orders,NexaRetail,Critical
+"2088 Michael Mount St, Houston",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,Low
+"4352 Macdonald Crescent St, Atlanta",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Skyline Properties,Critical
+"3842 Meghan Harbor St, Chicago",Work Orders,Preventative,High number of reactive work orders,Skyline Properties,High
+"2852 Small Inlet St, Seattle",Leases,Expiring,High number of expiring leases,EverGrow Farms,Critical
+"257 William Corner St, Boston",Budgets,Budget Compliance,Energy Costs above 15% mean,GreenLeaf Co.,Critical
+"4937 Rivas Summit St, New York",Leases,Occupancy,High number of expiring leases,Quantum Dynamics,Low
+"801 Thompson Manor St, San Francisco",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Low
+"6017 Hunter Lock St, Chicago",Work Orders,Completion Rate,Completion Rates below 50%,TechSphere Inc.,Critical
+"266 Rachel Harbors St, Atlanta",Leases,Renewal Rate,High number of expiring leases,Bank of ACME,High
+"8718 Cruz Stream St, Seattle",Leases,Occupancy,High number of expiring leases,Skyline Properties,Low
+"6132 Stevenson Dale St, Los Angeles",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,High
+"1802 Yolanda Point St, Seattle",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Medium
+"9642 Joseph Ridge St, Miami",Energy Usage,Energy Efficiency,Low energy efficiency,TechSphere Inc.,Medium
+"4372 Wilkinson Pass St, Chicago",Work Orders,Preventative,Completion Rates below 50%,Quantum Dynamics,Medium
+"7405 Scott Rest St, San Francisco",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,Low
+"4297 Teresa Dam St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,EverGrow Farms,Medium
+"7472 Hill Fall St, Miami",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Medium
+"1960 Sheri Via St, Boston",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Critical
+"4073 Shields Shoals St, Dallas",Leases,Occupancy,High number of expiring leases,Bank of ACME,Medium
+"7016 Richardson Drive St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,Quantum Dynamics,Medium
+"9367 Hoffman Common St, Atlanta",Energy Usage,Energy Efficiency,Low energy efficiency,Quantum Dynamics,Low
+"6579 Edwin Path St, Atlanta",Compliance,Compliance Score,Upcoming regulatory changes,EverGrow Farms,Critical
+"7211 Jennings Canyon St, Miami",Work Orders,Completion Rate,Completion Rates below 50%,Skyline Properties,Critical
+"2632 Jesus Hills St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,Medium
+"3872 Brett River St, Chicago",Leases,Occupancy,High number of expiring leases,Bank of ACME,Critical
+"2844 Allen Junction St, Miami",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Low
+"9108 Henry Underpass St, Seattle",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Skyline Properties,Critical
+"4223 Porter Mount St, Los Angeles",Work Orders,Preventative,High number of reactive work orders,EverGrow Farms,Medium
+"3965 Lori Street St, Houston",Energy Usage,Peak Hours,High energy usage during peak hours,Quantum Dynamics,High
+"4448 Watson Mountains St, Los Angeles",Work Orders,Reactive,Completion Rates below 50%,Skyline Properties,Medium
+"6772 Johnston Ways St, Houston",Energy Usage,Peak Hours,High energy usage during peak hours,TechSphere Inc.,Critical
+"6638 Roberts Hollow St, Chicago",Leases,Renewal Rate,High number of expiring leases,StreamView Media,High
+"7163 Stephanie Pass St, Los Angeles",Energy Usage,Energy Efficiency,High energy usage during peak hours,EverGrow Farms,Critical
+"163 Rodriguez Walk St, Los Angeles",Leases,Expiring,Low renewal rates,EverGrow Farms,Critical
+"1229 Amber Run St, Chicago",Work Orders,Completion Rate,Completion Rates below 50%,Skyline Properties,Medium
+"2835 Jessica Prairie St, Houston",Energy Usage,Off-Hours,High energy usage during peak hours,TechSphere Inc.,Medium
+"5093 Cabrera Points St, New York",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,GreenLeaf Co.,High
+"1008 Cory Grove St, Houston",Energy Usage,Off-Hours,Low energy efficiency,Bank of ACME,Critical
+"1201 Johnson Ridge St, Seattle",Budgets,Budget Compliance,Janitorial Budget above 20% mean,StreamView Media,High
+"435 Stephanie Point St, Miami",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,StreamView Media,Medium
+"8006 Robertson Lakes St, San Francisco",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,High
+"5299 Walton Highway St, Seattle",Work Orders,Preventative,Completion Rates below 50%,Quantum Dynamics,Medium
+"5697 Rivera Run St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,Critical
+"8730 Wells Forge St, Atlanta",Leases,Renewal Rate,Low renewal rates,StreamView Media,Medium
+"9128 Pamela Center St, Chicago",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,StreamView Media,Medium
+"6229 Sandra Row St, Dallas",Energy Usage,Peak Hours,Low energy efficiency,NexaRetail,High
+"8121 Jones Mountains St, Miami",Energy Usage,Energy Efficiency,Low energy efficiency,Bank of ACME,Critical
+"8655 Medina Track St, Chicago",Leases,Occupancy,High number of expiring leases,StreamView Media,Medium
+"8821 Sophia Pines St, Boston",Leases,Occupancy,Low renewal rates,Bank of ACME,High
+"7269 Vickie Shores St, Dallas",Energy Usage,Off-Hours,High energy usage during peak hours,NexaRetail,High
+"6874 Sanchez Manors St, Boston",Leases,Expiring,High number of expiring leases,GreenLeaf Co.,Critical
+"4404 Nixon Lock St, Atlanta",Compliance,Compliance Score,Upcoming regulatory changes,Quantum Dynamics,Medium
+"7823 Jennifer Court St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,Bank of ACME,Critical
+"8908 Pam Ridge St, Boston",Compliance,Compliance Score,Multiple non-compliance incidents,GreenLeaf Co.,Medium
+"4840 Foster Walk St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Skyline Properties,High
+"8307 Dominguez Mall St, Los Angeles",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,Critical
+"1360 Cindy Meadows St, Boston",Leases,Expiring,High number of expiring leases,Skyline Properties,High
+"8369 Yu Summit St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,EverGrow Farms,High
+"7823 Pearson Glen St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,GreenLeaf Co.,Low
+"8866 Dominguez Route St, Dallas",Leases,Renewal Rate,High number of expiring leases,Quantum Dynamics,Medium
+"6943 York Route St, Dallas",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Bank of ACME,Low
+"7888 Shelton Junctions St, New York",Energy Usage,Off-Hours,Low energy efficiency,Skyline Properties,Low
+"1935 Mallory Mountains St, Chicago",Compliance,Compliance Score,Upcoming regulatory changes,Quantum Dynamics,Critical
+"6301 Welch Squares St, Chicago",Work Orders,Preventative,Completion Rates below 50%,EverGrow Farms,High
+"5663 Joseph Centers St, Dallas",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,Low
+"6136 John Greens St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,TechSphere Inc.,Low
+"838 Beth Run St, San Francisco",Budgets,Energy Cost Variance,Energy Costs above 15% mean,EverGrow Farms,High
+"8284 Brown Courts St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,Low
+"7107 Joseph Trail St, Atlanta",Leases,Occupancy,High number of expiring leases,GreenLeaf Co.,Critical
+"2443 Miranda Square St, Chicago",Energy Usage,Off-Hours,Low energy efficiency,Bank of ACME,High
+"9139 Smith Run St, Los Angeles",Energy Usage,Off-Hours,High energy usage during peak hours,Skyline Properties,Low
+"4207 Herman Island St, San Francisco",Energy Usage,Energy Efficiency,Low energy efficiency,TechSphere Inc.,Low
+"4593 Gay Cove St, Chicago",Leases,Renewal Rate,High number of expiring leases,NexaRetail,Low
+"163 Blake Motorway St, Houston",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,GreenLeaf Co.,High
+"7677 Valentine Street St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,Skyline Properties,High
+"6480 Benjamin Glen St, San Francisco",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,EverGrow Farms,High
+"8003 Barbara Flat St, Dallas",Leases,Renewal Rate,Low renewal rates,Quantum Dynamics,High
+"3647 Heather Ranch St, Los Angeles",Work Orders,Reactive,High number of reactive work orders,Quantum Dynamics,Low
+"5451 Amanda Road St, San Francisco",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,High
+"6598 Jackie Mountains St, Miami",Energy Usage,Energy Efficiency,High energy usage during peak hours,TechSphere Inc.,Low
+"3211 Wilkins Ville St, Dallas",Compliance,Regulatory Updates,Upcoming regulatory changes,TechSphere Inc.,Critical
+"7210 Cassandra Burgs St, Dallas",Energy Usage,Energy Efficiency,High energy usage during peak hours,Quantum Dynamics,High
+"1309 Ryan Plains St, Chicago",Leases,Occupancy,High number of expiring leases,NexaRetail,Critical
+"2691 Li Plaza St, Dallas",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,High
+"9874 Gilbert Forge St, Boston",Compliance,Compliance Score,Multiple non-compliance incidents,StreamView Media,Critical
+"2176 Neal Rapid St, Atlanta",Compliance,Compliance Score,Multiple non-compliance incidents,GreenLeaf Co.,Low
+"3556 Smith Lane St, Los Angeles",Energy Usage,Peak Hours,High energy usage during peak hours,TechSphere Inc.,High
+"4805 Susan Hollow St, San Francisco",Leases,Occupancy,Low renewal rates,Skyline Properties,High
+"7200 Page Keys St, Atlanta",Work Orders,Reactive,Completion Rates below 50%,TechSphere Inc.,Critical
+"7592 Richardson Trail St, Chicago",Leases,Occupancy,High number of expiring leases,GreenLeaf Co.,Critical
+"3235 Reed Motorway St, Chicago",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Quantum Dynamics,Medium
+"9615 Deanna Inlet St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,High
+"9493 Jones Drives St, Atlanta",Leases,Occupancy,Low renewal rates,EverGrow Farms,Low
+"5821 Whitney Common St, Los Angeles",Energy Usage,Energy Efficiency,Low energy efficiency,TechSphere Inc.,Low
+"9082 Edwin Pass St, Boston",Budgets,Budget Compliance,Energy Costs above 15% mean,TechSphere Inc.,Critical
+"7036 Taylor Mountains St, Dallas",Budgets,Budget Compliance,Energy Costs above 15% mean,TechSphere Inc.,Low
+"1549 Hunt Knoll St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Skyline Properties,Medium
+"1384 Cruz Causeway St, San Francisco",Energy Usage,Energy Efficiency,High energy usage during peak hours,Bank of ACME,High
+"2143 Kristin Rapids St, Seattle",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,StreamView Media,Low
+"8701 Beverly Field St, Seattle",Work Orders,Preventative,High number of reactive work orders,TechSphere Inc.,Medium
+"5661 Christopher Knoll St, Miami",Energy Usage,Energy Efficiency,High energy usage during peak hours,Skyline Properties,Critical
+"8704 Gibson Green St, Miami",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,Low
+"1606 Shelton Valleys St, San Francisco",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,High
+"1051 Susan Vista St, Atlanta",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,Medium
+"7385 Timothy Route St, Dallas",Leases,Expiring,High number of expiring leases,Quantum Dynamics,Medium
+"6656 Tamara Village St, Atlanta",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Quantum Dynamics,High
+"7081 Mitchell Roads St, Seattle",Leases,Renewal Rate,Low renewal rates,NexaRetail,High
+"8141 Bates Drive St, Miami",Leases,Expiring,High number of expiring leases,Bank of ACME,Low
+"8828 Rogers Meadow St, Los Angeles",Work Orders,Reactive,Completion Rates below 50%,Skyline Properties,Critical
+"5278 Paul Road St, Los Angeles",Work Orders,Preventative,Completion Rates below 50%,EverGrow Farms,Medium
+"3387 Andersen Plaza St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,StreamView Media,High
+"4507 Jackson Crescent St, Chicago",Energy Usage,Peak Hours,High energy usage during peak hours,GreenLeaf Co.,Medium
+"1940 Edwards Ford St, Los Angeles",Budgets,Energy Cost Variance,Energy Costs above 15% mean,EverGrow Farms,Critical
+"1639 Robertson Manor St, Houston",Energy Usage,Peak Hours,High energy usage during peak hours,StreamView Media,Medium
+"206 Jessica Rapids St, San Francisco",Work Orders,Completion Rate,Completion Rates below 50%,Skyline Properties,Medium
+"672 Freeman Mills St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Skyline Properties,Low
+"3425 Erin Squares St, Los Angeles",Work Orders,Completion Rate,Completion Rates below 50%,StreamView Media,Critical
+"1399 Hodges Village St, Houston",Work Orders,Preventative,High number of reactive work orders,TechSphere Inc.,Low
+"1922 Mark Track St, Atlanta",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,Low
+"6280 Austin Squares St, Miami",Leases,Occupancy,Low renewal rates,Skyline Properties,Medium
+"5493 Hunt Divide St, Dallas",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,EverGrow Farms,Medium
+"7966 Dale Canyon St, Los Angeles",Work Orders,Reactive,High number of reactive work orders,GreenLeaf Co.,Critical
+"1438 Angela Lakes St, Chicago",Work Orders,Preventative,High number of reactive work orders,StreamView Media,High
+"9197 Jennifer Place St, Houston",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,High
+"3637 Moore Canyon St, Boston",Energy Usage,Off-Hours,High energy usage during peak hours,GreenLeaf Co.,Medium
+"4324 Graham Estate St, New York",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Critical
+"1273 Edwards Lane St, San Francisco",Energy Usage,Off-Hours,High energy usage during peak hours,NexaRetail,High
+"9646 Johnson Manor St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,Quantum Dynamics,Medium
+"8676 John Fields St, Miami",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,GreenLeaf Co.,Low
+"700 Paul Streets St, San Francisco",Leases,Occupancy,High number of expiring leases,NexaRetail,Critical
+"3128 Bradley Drives St, New York",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,GreenLeaf Co.,Medium
+"8302 Cameron Trace St, Seattle",Leases,Renewal Rate,High number of expiring leases,StreamView Media,High
+"8798 Kirby Courts St, Miami",Leases,Renewal Rate,Low renewal rates,NexaRetail,Low
+"1556 Maxwell Forges St, Atlanta",Work Orders,Completion Rate,High number of reactive work orders,Quantum Dynamics,Critical
+"3943 Warren Spurs St, New York",Leases,Renewal Rate,Low renewal rates,TechSphere Inc.,Low
+"6113 Erin View St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Bank of ACME,Critical
+"3432 Barbara Parks St, New York",Leases,Occupancy,High number of expiring leases,Skyline Properties,Medium
+"9703 Mary Valleys St, Atlanta",Compliance,Compliance Score,Multiple non-compliance incidents,Bank of ACME,Low
+"9499 Sims Village St, Houston",Work Orders,Preventative,High number of reactive work orders,GreenLeaf Co.,Critical
+"9593 Roy Overpass St, Dallas",Work Orders,Completion Rate,Completion Rates below 50%,StreamView Media,High
+"1462 Boyd Mill St, Miami",Leases,Expiring,High number of expiring leases,Skyline Properties,Medium
+"8339 Greer Springs St, New York",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Skyline Properties,Low
+"1199 Ashley Lock St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,Quantum Dynamics,Low
+"3667 Ho Mountain St, Boston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,Critical
+"6225 Stevenson Throughway St, Seattle",Compliance,Compliance Score,Multiple non-compliance incidents,Bank of ACME,Low
+"3130 Patricia Lodge St, Seattle",Leases,Occupancy,Low renewal rates,EverGrow Farms,Low
+"8267 Trujillo Meadow St, New York",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,Medium
+"8149 Anderson Glen St, Miami",Energy Usage,Energy Efficiency,High energy usage during peak hours,GreenLeaf Co.,Low
+"2708 Butler Points St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,NexaRetail,Critical
+"2734 Sara Mountain St, Miami",Energy Usage,Off-Hours,Low energy efficiency,EverGrow Farms,Low
+"1078 Conrad Pass St, Dallas",Budgets,Energy Cost Variance,Energy Costs above 15% mean,NexaRetail,Low
+"5643 Bond Springs St, New York",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,High
+"250 William Lakes St, San Francisco",Leases,Occupancy,Low renewal rates,TechSphere Inc.,Medium
+"5080 Payne Branch St, San Francisco",Leases,Expiring,High number of expiring leases,Quantum Dynamics,Low
+"7717 Kimberly Glen St, Seattle",Leases,Expiring,High number of expiring leases,TechSphere Inc.,Medium
+"7623 Mitchell Street St, New York",Work Orders,Preventative,High number of reactive work orders,Quantum Dynamics,Critical
+"3546 Amanda Glens St, San Francisco",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,EverGrow Farms,High
+"4730 Jonathan Flats St, Boston",Work Orders,Reactive,Completion Rates below 50%,TechSphere Inc.,Critical
+"9454 Elizabeth Curve St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,EverGrow Farms,Critical
+"9158 Jacqueline Estate St, Chicago",Leases,Occupancy,High number of expiring leases,Quantum Dynamics,Medium
+"6064 Dorothy Springs St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,High
+"5308 Terri River St, Miami",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Critical
+"8864 Jennifer Springs St, Dallas",Energy Usage,Energy Efficiency,High energy usage during peak hours,EverGrow Farms,High
+"490 Lindsey Mills St, Atlanta",Leases,Expiring,High number of expiring leases,NexaRetail,Low
+"9798 Roberts Lane St, Houston",Leases,Occupancy,Low renewal rates,NexaRetail,Medium
+"6722 Walter Crossroad St, Houston",Energy Usage,Off-Hours,High energy usage during peak hours,Skyline Properties,Medium
+"6301 Clarke Oval St, Boston",Energy Usage,Off-Hours,Low energy efficiency,Quantum Dynamics,Medium
+"5424 Jensen Expressway St, Atlanta",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,GreenLeaf Co.,High
+"8522 Murphy Lakes St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,Medium
+"9151 Chen Lights St, Chicago",Compliance,Regulatory Updates,Multiple non-compliance incidents,Skyline Properties,High
+"3413 Albert Rest St, Chicago",Energy Usage,Energy Efficiency,Low energy efficiency,EverGrow Farms,Critical
+"2329 Ross Dale St, San Francisco",Energy Usage,Peak Hours,High energy usage during peak hours,GreenLeaf Co.,Medium
+"8439 Allison Drives St, Chicago",Work Orders,Completion Rate,Completion Rates below 50%,NexaRetail,Critical
+"5928 Douglas Fords St, Seattle",Work Orders,Reactive,High number of reactive work orders,GreenLeaf Co.,High
+"2602 Francis Mountains St, Houston",Work Orders,Completion Rate,High number of reactive work orders,NexaRetail,Low
+"8358 Heather Skyway St, Boston",Energy Usage,Off-Hours,High energy usage during peak hours,TechSphere Inc.,Medium
+"2844 Ariana Ports St, Houston",Leases,Occupancy,High number of expiring leases,Skyline Properties,Low
+"2043 Lozano Crest St, Miami",Budgets,Budget Compliance,Energy Costs above 15% mean,Skyline Properties,Critical
+"4795 Morris Plaza St, Houston",Energy Usage,Off-Hours,Low energy efficiency,GreenLeaf Co.,Critical
+"2145 Snyder Views St, Houston",Energy Usage,Peak Hours,High energy usage during peak hours,TechSphere Inc.,Critical
+"8150 Jonathan River St, Miami",Energy Usage,Off-Hours,Low energy efficiency,StreamView Media,Medium
+"2090 Terry Radial St, Los Angeles",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Bank of ACME,Critical
+"8678 Sheppard Trafficway St, Atlanta",Energy Usage,Off-Hours,Low energy efficiency,Quantum Dynamics,Low
+"8436 Smith Streets St, Atlanta",Work Orders,Reactive,Completion Rates below 50%,Bank of ACME,High
+"3381 Foster Canyon St, Dallas",Work Orders,Reactive,High number of reactive work orders,NexaRetail,Medium
+"6614 Tamara Crescent St, Houston",Work Orders,Preventative,High number of reactive work orders,StreamView Media,Medium
+"3916 Barnes Glen St, Houston",Leases,Occupancy,High number of expiring leases,NexaRetail,Medium
+"9083 Yates Shoals St, Miami",Budgets,Budget Compliance,Energy Costs above 15% mean,Quantum Dynamics,High
+"2845 Nichole Ford St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,Low
+"6632 Bridget Motorway St, Seattle",Work Orders,Completion Rate,Completion Rates below 50%,Quantum Dynamics,Low
+"1709 Fisher Crest St, New York",Compliance,Compliance Score,Multiple non-compliance incidents,StreamView Media,Low
+"763 Hurley Centers St, Miami",Leases,Occupancy,High number of expiring leases,Bank of ACME,Low
+"6673 Anthony Via St, Dallas",Energy Usage,Off-Hours,High energy usage during peak hours,StreamView Media,Low
+"6204 Jones Trail St, Boston",Leases,Occupancy,Low renewal rates,StreamView Media,Low
+"6639 Jacob Canyon St, New York",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Bank of ACME,Medium
+"6551 Hutchinson Greens St, Boston",Leases,Expiring,High number of expiring leases,GreenLeaf Co.,Low
+"8583 James Brooks St, Atlanta",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Low
+"1464 Velez Valley St, Los Angeles",Leases,Renewal Rate,High number of expiring leases,Bank of ACME,Medium
+"4470 Crawford Common St, Los Angeles",Leases,Occupancy,High number of expiring leases,GreenLeaf Co.,High
+"9539 Diane Underpass St, San Francisco",Energy Usage,Off-Hours,High energy usage during peak hours,NexaRetail,High
+"9156 Garcia Ramp St, San Francisco",Compliance,Regulatory Updates,Upcoming regulatory changes,StreamView Media,Medium
+"7247 Wheeler Highway St, Miami",Energy Usage,Peak Hours,High energy usage during peak hours,Quantum Dynamics,Critical
+"9528 Teresa Corners St, Atlanta",Energy Usage,Peak Hours,Low energy efficiency,GreenLeaf Co.,Medium
+"8574 Hill Stravenue St, Chicago",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,Critical
+"928 Scott Trail St, Los Angeles",Energy Usage,Energy Efficiency,High energy usage during peak hours,TechSphere Inc.,Critical
+"843 David Ways St, Los Angeles",Energy Usage,Energy Efficiency,High energy usage during peak hours,Skyline Properties,High
+"1722 Whitaker River St, San Francisco",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,High
+"7077 James Trafficway St, Chicago",Leases,Renewal Rate,High number of expiring leases,Bank of ACME,Critical
+"808 Miller Junction St, Seattle",Leases,Occupancy,Low renewal rates,GreenLeaf Co.,High
+"1913 Katelyn Isle St, San Francisco",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,NexaRetail,Medium
+"4336 William Viaduct St, Chicago",Compliance,Compliance Score,Upcoming regulatory changes,StreamView Media,Low
+"8070 Duncan Meadows St, Atlanta",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,GreenLeaf Co.,Critical
+"4260 Wilson Valleys St, San Francisco",Work Orders,Reactive,High number of reactive work orders,Skyline Properties,Critical
+"2502 Kathleen Islands St, Miami",Budgets,Budget Compliance,Energy Costs above 15% mean,StreamView Media,Medium
+"577 Christopher Neck St, San Francisco",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,Medium
+"391 King Spur St, San Francisco",Energy Usage,Energy Efficiency,Low energy efficiency,TechSphere Inc.,Medium
+"3133 Julia Groves St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,StreamView Media,Critical
+"445 Barnes Extensions St, San Francisco",Leases,Expiring,Low renewal rates,TechSphere Inc.,Low
+"8743 Mary Fork St, Boston",Leases,Expiring,Low renewal rates,Quantum Dynamics,Medium
+"9573 Willie Divide St, Los Angeles",Leases,Occupancy,Low renewal rates,Skyline Properties,Medium
+"2900 Campos Lake St, Los Angeles",Work Orders,Reactive,Completion Rates below 50%,NexaRetail,Critical
+"7389 Nelson Plaza St, Los Angeles",Work Orders,Reactive,Completion Rates below 50%,StreamView Media,High
+"245 Cunningham Junction St, New York",Work Orders,Preventative,Completion Rates below 50%,NexaRetail,Critical
+"7068 Robin Pass St, Atlanta",Energy Usage,Off-Hours,High energy usage during peak hours,GreenLeaf Co.,Low
+"7306 Byrd Drives St, Dallas",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,NexaRetail,High
+"6906 Andre Coves St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Medium
+"4205 Mills Valley St, Boston",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Low
+"1996 Jessica Underpass St, Atlanta",Work Orders,Reactive,High number of reactive work orders,NexaRetail,Critical
+"744 Clark Ranch St, Houston",Work Orders,Reactive,High number of reactive work orders,TechSphere Inc.,Critical
+"8640 Estes Ports St, San Francisco",Energy Usage,Peak Hours,Low energy efficiency,GreenLeaf Co.,High
+"5708 Harris Vista St, Boston",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,Critical
+"2507 Michael Parks St, Boston",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,Critical
+"4044 Hunter Squares St, Houston",Leases,Occupancy,Low renewal rates,Bank of ACME,High
+"8369 Scott Meadows St, Dallas",Work Orders,Reactive,High number of reactive work orders,StreamView Media,Critical
+"8744 Beth Drives St, Dallas",Energy Usage,Energy Efficiency,Low energy efficiency,Skyline Properties,High
+"9171 Campbell Points St, Miami",Leases,Expiring,Low renewal rates,TechSphere Inc.,Critical
+"990 Guerra Hills St, Miami",Leases,Renewal Rate,High number of expiring leases,EverGrow Farms,Critical
+"9235 Foster Summit St, Houston",Work Orders,Preventative,High number of reactive work orders,StreamView Media,Low
+"3283 Juarez Place St, Chicago",Compliance,Regulatory Updates,Upcoming regulatory changes,Skyline Properties,Low
+"8799 Warner Circle St, Boston",Compliance,Compliance Score,Multiple non-compliance incidents,TechSphere Inc.,Low
+"5881 Pitts Isle St, Atlanta",Leases,Occupancy,High number of expiring leases,StreamView Media,High
+"6105 Kline Streets St, San Francisco",Leases,Expiring,High number of expiring leases,StreamView Media,Critical
+"6273 Jeremy Ridge St, Boston",Leases,Renewal Rate,High number of expiring leases,Quantum Dynamics,Low
+"7982 Ramos Fields St, Los Angeles",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,Low
+"5970 Brittany Glen St, Atlanta",Work Orders,Completion Rate,Completion Rates below 50%,EverGrow Farms,Critical
+"3295 David Valleys St, Atlanta",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Critical
+"7552 Carroll Alley St, Chicago",Leases,Renewal Rate,High number of expiring leases,Quantum Dynamics,Low
+"1868 Mathis Pine St, Los Angeles",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,StreamView Media,High
+"753 Edward Island St, San Francisco",Work Orders,Preventative,High number of reactive work orders,Quantum Dynamics,Low
+"3474 Wood Wells St, Los Angeles",Compliance,Compliance Score,Upcoming regulatory changes,StreamView Media,Low
+"6410 Juan Lock St, Seattle",Energy Usage,Peak Hours,Low energy efficiency,TechSphere Inc.,Medium
+"5888 Robertson Hills St, Chicago",Work Orders,Completion Rate,High number of reactive work orders,Skyline Properties,Medium
+"6522 Hatfield Passage St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,Skyline Properties,Critical
+"8447 Troy Grove St, Houston",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Skyline Properties,Medium
+"8189 Andrews Heights St, New York",Leases,Occupancy,Low renewal rates,NexaRetail,Low
+"2118 Carter Walk St, Los Angeles",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Bank of ACME,High
+"5136 Haas Mission St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,StreamView Media,Critical
+"405 Bailey Court St, Seattle",Budgets,Budget Compliance,Energy Costs above 15% mean,Quantum Dynamics,Critical
+"4250 Blankenship Pine St, Los Angeles",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Quantum Dynamics,High
+"5176 Jennifer Island St, Miami",Budgets,Budget Compliance,Energy Costs above 15% mean,Quantum Dynamics,High
+"6174 Oliver Corners St, New York",Leases,Renewal Rate,High number of expiring leases,StreamView Media,High
+"6960 Christina Causeway St, Chicago",Compliance,Regulatory Updates,Upcoming regulatory changes,GreenLeaf Co.,High
+"5153 Morrison Keys St, Boston",Work Orders,Completion Rate,Completion Rates below 50%,EverGrow Farms,Low
+"6028 Robert Way St, Miami",Energy Usage,Peak Hours,High energy usage during peak hours,NexaRetail,Medium
+"7338 Gregory Lake St, Houston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,NexaRetail,Medium
+"148 Jackson Wells St, Dallas",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Critical
+"1582 Matthew Common St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Quantum Dynamics,Medium
+"7575 Romero Mountain St, Atlanta",Work Orders,Completion Rate,Completion Rates below 50%,StreamView Media,Critical
+"6252 Norman Forges St, Seattle",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,GreenLeaf Co.,High
+"3258 Justin Plaza St, Seattle",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,Medium
+"9362 Denise Run St, Los Angeles",Work Orders,Preventative,High number of reactive work orders,TechSphere Inc.,Medium
+"2635 Scott Glen St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,Medium
+"4207 James Junctions St, Houston",Work Orders,Completion Rate,Completion Rates below 50%,TechSphere Inc.,High
+"2186 Bradley Rest St, Los Angeles",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,StreamView Media,Medium
+"8098 Reed Ramp St, Boston",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,Low
+"6912 Gregory Overpass St, San Francisco",Compliance,Compliance Score,Multiple non-compliance incidents,NexaRetail,Low
+"8463 Martinez Port St, Dallas",Compliance,Compliance Score,Multiple non-compliance incidents,Bank of ACME,Critical
+"7513 Hobbs Fields St, Los Angeles",Leases,Renewal Rate,High number of expiring leases,EverGrow Farms,High
+"8208 Nicholas Mills St, Boston",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,Critical
+"7339 Kevin Village St, Los Angeles",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,GreenLeaf Co.,Critical
+"7452 Christopher Groves St, Seattle",Compliance,Compliance Score,Multiple non-compliance incidents,TechSphere Inc.,Critical
+"5808 Brian Parkway St, Los Angeles",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Low
+"8948 Jamie Center St, Atlanta",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,StreamView Media,Medium
+"5975 Wheeler Pike St, Miami",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,Critical
+"3241 Morales Rest St, Miami",Leases,Renewal Rate,Low renewal rates,Quantum Dynamics,High
+"5767 Guzman Ferry St, Atlanta",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,Low
+"1314 Amanda Shoal St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Low
+"5367 Kennedy Park St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,Bank of ACME,Low
+"8311 Cole Tunnel St, San Francisco",Energy Usage,Energy Efficiency,High energy usage during peak hours,EverGrow Farms,High
+"9013 Scott Gateway St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Bank of ACME,Critical
+"3765 Jennifer Street St, Boston",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Medium
+"6336 Christine Dale St, Atlanta",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Quantum Dynamics,High
+"6169 Fischer Camp St, Miami",Compliance,Compliance Score,Multiple non-compliance incidents,Skyline Properties,Low
+"6426 Evan Roads St, Houston",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,Low
+"5163 Benjamin Isle St, Miami",Work Orders,Reactive,High number of reactive work orders,EverGrow Farms,Medium
+"2677 Brenda Center St, New York",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,TechSphere Inc.,Medium
+"7240 Bauer Stravenue St, Atlanta",Leases,Expiring,Low renewal rates,GreenLeaf Co.,Low
+"6581 Peters Junction St, Seattle",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,Medium
+"6639 Brian Mountain St, San Francisco",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,High
+"342 Ross Villages St, San Francisco",Compliance,Regulatory Updates,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"6217 Michael Club St, Boston",Leases,Occupancy,Low renewal rates,StreamView Media,Critical
+"4072 Montgomery Extension St, Boston",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,High
+"2434 Kelly Isle St, Miami",Compliance,Regulatory Updates,Upcoming regulatory changes,Bank of ACME,Low
+"5584 Vincent Groves St, Chicago",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,Low
+"6168 Catherine Track St, Houston",Energy Usage,Energy Efficiency,High energy usage during peak hours,Quantum Dynamics,Medium
+"6639 Nathaniel Mall St, Chicago",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Low
+"8437 Cooper Expressway St, Atlanta",Compliance,Compliance Score,Upcoming regulatory changes,GreenLeaf Co.,High
+"2448 Mark Ville St, San Francisco",Energy Usage,Peak Hours,High energy usage during peak hours,GreenLeaf Co.,Low
+"6678 Gross Point St, Boston",Compliance,Regulatory Updates,Upcoming regulatory changes,Skyline Properties,Low
+"3461 Corey Ville St, Seattle",Work Orders,Completion Rate,High number of reactive work orders,EverGrow Farms,High
+"7204 Wilson Parks St, New York",Leases,Renewal Rate,Low renewal rates,TechSphere Inc.,Critical
+"3717 Johnston Groves St, Seattle",Work Orders,Preventative,Completion Rates below 50%,Quantum Dynamics,Medium
+"6726 Jamie Groves St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Low
+"978 Tracie Bypass St, Atlanta",Leases,Renewal Rate,High number of expiring leases,StreamView Media,Critical
+"3298 Charles Lakes St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,NexaRetail,Low
+"5084 Brown Burg St, Chicago",Work Orders,Reactive,Completion Rates below 50%,EverGrow Farms,High
+"7849 Timothy Square St, Boston",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,Medium
+"6114 Christopher Ford St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,TechSphere Inc.,Medium
+"5922 Stewart Rapid St, Chicago",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Quantum Dynamics,Critical
+"1727 Blankenship Greens St, Miami",Leases,Renewal Rate,Low renewal rates,TechSphere Inc.,High
+"2735 Miranda Neck St, Chicago",Energy Usage,Energy Efficiency,High energy usage during peak hours,Bank of ACME,Critical
+"4207 Stephen Hills St, Houston",Leases,Expiring,High number of expiring leases,Skyline Properties,High
+"8592 Rowe Cove St, Houston",Leases,Renewal Rate,High number of expiring leases,GreenLeaf Co.,High
+"8237 Bryant Curve St, Boston",Work Orders,Preventative,High number of reactive work orders,Bank of ACME,Critical
+"2008 Christine Brooks St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Low
+"7182 Ashley Cliffs St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,TechSphere Inc.,High
+"2454 Christine Gardens St, Houston",Leases,Expiring,High number of expiring leases,NexaRetail,Medium
+"9227 Cervantes Dale St, Chicago",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Medium
+"1716 Michelle Fall St, Chicago",Leases,Occupancy,Low renewal rates,EverGrow Farms,Medium
+"8836 Jennifer Mount St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,NexaRetail,High
+"1097 Jacobs Union St, Houston",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,Low
+"4260 Brandon Spurs St, Chicago",Work Orders,Completion Rate,Completion Rates below 50%,NexaRetail,High
+"5004 May Trafficway St, Los Angeles",Work Orders,Completion Rate,High number of reactive work orders,EverGrow Farms,High
+"6633 Hernandez Vista St, Chicago",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,Medium
+"7892 Paige Meadows St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Medium
+"1291 Betty Well St, Chicago",Leases,Expiring,Low renewal rates,StreamView Media,Critical
+"4891 Johnson Expressway St, Boston",Leases,Renewal Rate,Low renewal rates,StreamView Media,Low
+"7963 Le Heights St, Atlanta",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,Medium
+"958 Amber Drives St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,Bank of ACME,Medium
+"6787 Anderson Lights St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,EverGrow Farms,High
+"9101 Jack Cliff St, Houston",Work Orders,Reactive,Completion Rates below 50%,TechSphere Inc.,Critical
+"1363 Laura Ports St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,Medium
+"8353 Cox Spurs St, Houston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,High
+"310 Daniel Ville St, Miami",Work Orders,Completion Rate,High number of reactive work orders,EverGrow Farms,Low
+"2788 Jason Valleys St, Houston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Low
+"3269 Cohen View St, Miami",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,Critical
+"1286 Jones Plains St, Houston",Energy Usage,Energy Efficiency,High energy usage during peak hours,NexaRetail,Critical
+"6229 Banks Parkways St, Los Angeles",Leases,Expiring,Low renewal rates,Skyline Properties,High
+"9185 Heather Plaza St, San Francisco",Compliance,Compliance Score,Upcoming regulatory changes,NexaRetail,Critical
+"2850 David Causeway St, Atlanta",Leases,Expiring,High number of expiring leases,GreenLeaf Co.,Critical
+"4186 Benjamin Branch St, Seattle",Leases,Expiring,High number of expiring leases,StreamView Media,Medium
+"7244 Kimberly Well St, Dallas",Work Orders,Preventative,High number of reactive work orders,Skyline Properties,Critical
+"1990 Reid Mission St, San Francisco",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,Critical
+"4370 Joseph Lodge St, San Francisco",Leases,Occupancy,Low renewal rates,Quantum Dynamics,High
+"6595 Chad Centers St, Boston",Leases,Expiring,High number of expiring leases,GreenLeaf Co.,Medium
+"950 Timothy Street St, New York",Budgets,Budget Compliance,Energy Costs above 15% mean,Skyline Properties,Critical
+"3178 John Mews St, Boston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Skyline Properties,High
+"8203 Joseph Ville St, Seattle",Work Orders,Preventative,High number of reactive work orders,TechSphere Inc.,Critical
+"6813 Shelton Mills St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,GreenLeaf Co.,Medium
+"813 Douglas Points St, Los Angeles",Energy Usage,Energy Efficiency,Low energy efficiency,Skyline Properties,Critical
+"4321 Houston Manor St, Atlanta",Compliance,Compliance Score,Upcoming regulatory changes,Skyline Properties,Medium
+"5490 Bell Road St, Houston",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,StreamView Media,Medium
+"6042 Daniel Spring St, Chicago",Energy Usage,Energy Efficiency,High energy usage during peak hours,GreenLeaf Co.,Critical
+"3823 Lee Square St, San Francisco",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,Low
+"9828 Smith Oval St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,GreenLeaf Co.,High
+"5347 Tracy Forges St, New York",Work Orders,Reactive,Completion Rates below 50%,Quantum Dynamics,Medium
+"676 Lewis Greens St, New York",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Bank of ACME,Critical
+"5664 Sarah Islands St, Chicago",Energy Usage,Off-Hours,High energy usage during peak hours,EverGrow Farms,Low
+"3056 Amy Canyon St, Atlanta",Energy Usage,Off-Hours,Low energy efficiency,GreenLeaf Co.,Low
+"2446 Ford Roads St, Dallas",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,Low
+"136 Benjamin Light St, Houston",Compliance,Compliance Score,Multiple non-compliance incidents,Bank of ACME,Critical
+"3884 Mary Run St, Atlanta",Work Orders,Completion Rate,High number of reactive work orders,NexaRetail,High
+"3196 Wilcox Plains St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,Skyline Properties,High
+"5382 Little Crest St, Los Angeles",Energy Usage,Energy Efficiency,Low energy efficiency,GreenLeaf Co.,Critical
+"183 Combs Pass St, Los Angeles",Leases,Expiring,Low renewal rates,Skyline Properties,Medium
+"5813 David Point St, New York",Work Orders,Reactive,Completion Rates below 50%,Skyline Properties,High
+"9963 Taylor Garden St, Houston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Skyline Properties,High
+"8255 Michael Club St, Miami",Compliance,Compliance Score,Upcoming regulatory changes,EverGrow Farms,Critical
+"8247 Lawrence Ranch St, Atlanta",Work Orders,Preventative,Completion Rates below 50%,TechSphere Inc.,Medium
+"2461 Nathan Divide St, Dallas",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,Critical
+"6609 Morris Mountains St, New York",Leases,Renewal Rate,High number of expiring leases,StreamView Media,Critical
+"4663 Hoffman Harbors St, Chicago",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,EverGrow Farms,Low
+"5669 Andrew Light St, Miami",Compliance,Compliance Score,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"1902 Tina Forge St, Boston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,High
+"5795 David Ridge St, Dallas",Work Orders,Preventative,High number of reactive work orders,NexaRetail,Low
+"8300 Jones Village St, Miami",Work Orders,Completion Rate,Completion Rates below 50%,Skyline Properties,Low
+"186 Tamara Estates St, New York",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,NexaRetail,High
+"7364 Anderson Islands St, Los Angeles",Leases,Renewal Rate,High number of expiring leases,NexaRetail,High
+"6928 Conley Wall St, Dallas",Compliance,Regulatory Updates,Upcoming regulatory changes,TechSphere Inc.,Low
+"339 Ochoa Roads St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,StreamView Media,Low
+"7958 Coleman Islands St, Seattle",Leases,Expiring,Low renewal rates,EverGrow Farms,Critical
+"2843 Hoover Divide St, Dallas",Work Orders,Completion Rate,Completion Rates below 50%,TechSphere Inc.,High
+"5704 Angelica Port St, Seattle",Work Orders,Preventative,Completion Rates below 50%,GreenLeaf Co.,High
+"7094 Jessica Underpass St, Atlanta",Energy Usage,Peak Hours,High energy usage during peak hours,Bank of ACME,Critical
+"406 Torres Cliffs St, Miami",Work Orders,Reactive,Completion Rates below 50%,Bank of ACME,Low
+"3297 Chad Common St, Houston",Energy Usage,Peak Hours,High energy usage during peak hours,Bank of ACME,Medium
+"2039 Jacqueline Springs St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,TechSphere Inc.,High
+"2122 Jacqueline Crest St, San Francisco",Work Orders,Preventative,Completion Rates below 50%,Skyline Properties,High
+"3369 Goodman Fords St, Dallas",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Critical
+"3563 Merritt Camp St, Miami",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,High
+"2236 Eric Passage St, Houston",Work Orders,Reactive,Completion Rates below 50%,StreamView Media,Low
+"9472 Edward Flat St, Miami",Work Orders,Preventative,Completion Rates below 50%,GreenLeaf Co.,High
+"8409 Craig Branch St, San Francisco",Leases,Occupancy,High number of expiring leases,Quantum Dynamics,Critical
+"4469 Scott Motorway St, Miami",Work Orders,Reactive,High number of reactive work orders,TechSphere Inc.,High
+"324 Jennifer Ridge St, Miami",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Medium
+"4095 Bryan Burg St, New York",Energy Usage,Energy Efficiency,High energy usage during peak hours,GreenLeaf Co.,Low
+"7570 Ortiz Manors St, Houston",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,High
+"9452 Natalie Stravenue St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Critical
+"9346 Rivera Shoals St, Seattle",Energy Usage,Energy Efficiency,Low energy efficiency,NexaRetail,Low
+"3562 Powell Glens St, New York",Leases,Expiring,High number of expiring leases,NexaRetail,High
+"3541 Gonzales Street St, Dallas",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,Low
+"7849 Joshua Trail St, Houston",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Critical
+"9569 Ashley Crest St, Miami",Leases,Renewal Rate,Low renewal rates,GreenLeaf Co.,Medium
+"5719 Melissa Flat St, Atlanta",Energy Usage,Energy Efficiency,Low energy efficiency,Bank of ACME,Critical
+"3709 Erica Wells St, New York",Work Orders,Reactive,Completion Rates below 50%,Quantum Dynamics,High
+"9071 James Path St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,Bank of ACME,High
+"5257 Timothy Island St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,GreenLeaf Co.,Medium
+"7503 Travis Bridge St, New York",Leases,Expiring,High number of expiring leases,NexaRetail,Medium
+"5992 Knight Hills St, Seattle",Leases,Expiring,Low renewal rates,Quantum Dynamics,High
+"6583 Theresa Stravenue St, Boston",Leases,Renewal Rate,High number of expiring leases,GreenLeaf Co.,High
+"4592 Ashley Land St, Miami",Leases,Renewal Rate,Low renewal rates,EverGrow Farms,Low
+"4608 Brown Springs St, Dallas",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,NexaRetail,Medium
+"8288 Regina Branch St, Houston",Compliance,Compliance Score,Multiple non-compliance incidents,Skyline Properties,High
+"7830 Dickerson Views St, San Francisco",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Skyline Properties,Medium
+"2504 Richard Cliff St, Miami",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Skyline Properties,Critical
+"9327 Ian Islands St, Los Angeles",Leases,Occupancy,High number of expiring leases,TechSphere Inc.,Critical
+"9668 Fuller Harbors St, Boston",Work Orders,Completion Rate,High number of reactive work orders,NexaRetail,Critical
+"3688 Murphy Lodge St, Seattle",Leases,Renewal Rate,High number of expiring leases,EverGrow Farms,Medium
+"4314 Tammy Valley St, Boston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,StreamView Media,Medium
+"1408 Tucker Crescent St, Miami",Energy Usage,Peak Hours,Low energy efficiency,NexaRetail,Low
+"7299 Owen Burgs St, Miami",Compliance,Compliance Score,Upcoming regulatory changes,TechSphere Inc.,High
+"2070 Michael Square St, Chicago",Energy Usage,Off-Hours,High energy usage during peak hours,Skyline Properties,Critical
+"9307 Osborne Course St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,Medium
+"4799 David Throughway St, Miami",Leases,Renewal Rate,Low renewal rates,Skyline Properties,High
+"1518 Sims Fields St, Dallas",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,Medium
+"2695 Hernandez Viaduct St, San Francisco",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,Medium
+"1674 John View St, New York",Work Orders,Reactive,High number of reactive work orders,Bank of ACME,High
+"6075 Jenkins Loaf St, Boston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,Medium
+"1268 Joy Road St, Houston",Energy Usage,Off-Hours,High energy usage during peak hours,TechSphere Inc.,Low
+"7821 Hill Club St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Quantum Dynamics,High
+"6475 Carlos Bypass St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,GreenLeaf Co.,High
+"8566 Hernandez Plains St, New York",Energy Usage,Peak Hours,High energy usage during peak hours,Quantum Dynamics,Low
+"8080 Christopher Prairie St, Miami",Work Orders,Reactive,Completion Rates below 50%,NexaRetail,Low
+"3508 David Neck St, San Francisco",Leases,Renewal Rate,High number of expiring leases,Bank of ACME,Critical
+"1302 Martin Road St, Houston",Budgets,Budget Compliance,Energy Costs above 15% mean,Skyline Properties,High
+"7802 Brenda Tunnel St, Dallas",Compliance,Regulatory Updates,Multiple non-compliance incidents,StreamView Media,Low
+"2671 Connie View St, Chicago",Leases,Occupancy,Low renewal rates,EverGrow Farms,High
+"7168 Diana Branch St, New York",Energy Usage,Off-Hours,Low energy efficiency,Quantum Dynamics,Medium
+"412 Paul Mountain St, New York",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,High
+"5899 Smith Orchard St, Miami",Work Orders,Reactive,High number of reactive work orders,StreamView Media,High
+"6323 Caldwell Trail St, Los Angeles",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Critical
+"2714 Vincent Summit St, Boston",Leases,Occupancy,Low renewal rates,GreenLeaf Co.,Critical
+"5668 Boyd Points St, Dallas",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Skyline Properties,High
+"6645 Adams Well St, Miami",Energy Usage,Off-Hours,High energy usage during peak hours,StreamView Media,Critical
+"7718 Tyler Avenue St, New York",Work Orders,Preventative,Completion Rates below 50%,NexaRetail,Medium
+"8269 Mendoza Fork St, New York",Work Orders,Preventative,High number of reactive work orders,Skyline Properties,Medium
+"3580 Isaiah Lakes St, Chicago",Work Orders,Preventative,Completion Rates below 50%,EverGrow Farms,High
+"3530 Hubbard Throughway St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Bank of ACME,Low
+"433 Carter Curve St, Atlanta",Energy Usage,Off-Hours,Low energy efficiency,Quantum Dynamics,Low
+"3806 Perez Summit St, Boston",Work Orders,Reactive,Completion Rates below 50%,StreamView Media,Low
+"7214 Wilson Freeway St, New York",Energy Usage,Off-Hours,Low energy efficiency,Skyline Properties,High
+"1822 Alexis Spurs St, San Francisco",Leases,Renewal Rate,Low renewal rates,GreenLeaf Co.,High
+"2208 Michael Crossing St, Boston",Energy Usage,Energy Efficiency,High energy usage during peak hours,Skyline Properties,High
+"3912 Webb Fields St, Boston",Leases,Renewal Rate,Low renewal rates,NexaRetail,Medium
+"7763 Edward Underpass St, Atlanta",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,EverGrow Farms,Low
+"3571 Kevin Mills St, Atlanta",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,EverGrow Farms,High
+"2523 Billy Glens St, Dallas",Compliance,Compliance Score,Upcoming regulatory changes,GreenLeaf Co.,High
+"7580 Christopher Knolls St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,High
+"6963 Wesley Summit St, Los Angeles",Work Orders,Reactive,Completion Rates below 50%,Quantum Dynamics,Low
+"6752 Sean Inlet St, Houston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Low
+"128 Cooper Island St, Dallas",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,Critical
+"7167 Michael Key St, San Francisco",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Critical
+"1300 Donna Loaf St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,StreamView Media,Medium
+"7580 Daniel Corners St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,NexaRetail,Medium
+"7205 Natalie Stream St, Seattle",Work Orders,Completion Rate,High number of reactive work orders,Quantum Dynamics,Medium
+"5853 William Port St, Los Angeles",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,High
+"9369 Williams Spring St, Dallas",Budgets,Budget Compliance,Energy Costs above 15% mean,StreamView Media,Critical
+"8528 Sarah Rapid St, San Francisco",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,Critical
+"6403 Dickerson Points St, Atlanta",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,NexaRetail,Critical
+"9087 Pamela Meadow St, Dallas",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,StreamView Media,High
+"1222 Jennifer Heights St, Dallas",Budgets,Budget Compliance,Energy Costs above 15% mean,EverGrow Farms,High
+"6483 Dixon Hills St, Boston",Energy Usage,Peak Hours,Low energy efficiency,NexaRetail,Low
+"4404 Robinson Radial St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Critical
+"2715 Stacy Circles St, Miami",Energy Usage,Energy Efficiency,Low energy efficiency,NexaRetail,Low
+"3133 Webster Fork St, Seattle",Work Orders,Preventative,High number of reactive work orders,NexaRetail,High
+"3136 Samuel Union St, Miami",Work Orders,Reactive,High number of reactive work orders,Quantum Dynamics,Low
+"4153 Alejandro Way St, Boston",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Quantum Dynamics,Low
+"3711 Thompson Flats St, Atlanta",Energy Usage,Peak Hours,High energy usage during peak hours,StreamView Media,Low
+"9376 Anita Overpass St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,EverGrow Farms,Medium
+"7262 Johnston Highway St, Chicago",Compliance,Compliance Score,Upcoming regulatory changes,TechSphere Inc.,High
+"9705 Jamie Overpass St, Atlanta",Compliance,Regulatory Updates,Multiple non-compliance incidents,Skyline Properties,Medium
+"3929 Day Islands St, Houston",Compliance,Compliance Score,Multiple non-compliance incidents,GreenLeaf Co.,Critical
+"1411 Roberto Mill St, Dallas",Leases,Occupancy,High number of expiring leases,StreamView Media,Low
+"1240 Michael Lock St, Miami",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,StreamView Media,Critical
+"6477 Hahn Crest St, Miami",Energy Usage,Energy Efficiency,High energy usage during peak hours,StreamView Media,Medium
+"7851 Diana Bridge St, New York",Compliance,Compliance Score,Upcoming regulatory changes,Bank of ACME,Medium
+"9829 Joe Key St, Chicago",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,Medium
+"3086 Reginald Crossing St, Los Angeles",Energy Usage,Energy Efficiency,Low energy efficiency,EverGrow Farms,High
+"5741 Tracy Plains St, Chicago",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,Critical
+"6313 Fritz Valleys St, Atlanta",Energy Usage,Peak Hours,Low energy efficiency,Skyline Properties,Critical
+"4874 Anderson Ridges St, Los Angeles",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Critical
+"4188 James Branch St, Atlanta",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,High
+"8072 Bennett Lake St, Dallas",Work Orders,Reactive,High number of reactive work orders,StreamView Media,Critical
+"3340 Brandon Extension St, Atlanta",Energy Usage,Energy Efficiency,Low energy efficiency,StreamView Media,Low
+"5106 Ramirez Fords St, Houston",Energy Usage,Energy Efficiency,Low energy efficiency,NexaRetail,High
+"950 Madison Rapid St, New York",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Quantum Dynamics,Medium
+"696 Marcia Fork St, Boston",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,NexaRetail,Critical
+"8908 Nicholas Ridge St, Atlanta",Budgets,Budget Compliance,Janitorial Budget above 20% mean,TechSphere Inc.,Critical
+"495 Ferguson Via St, Los Angeles",Leases,Renewal Rate,High number of expiring leases,GreenLeaf Co.,Medium
+"8165 James Orchard St, Miami",Work Orders,Completion Rate,Completion Rates below 50%,NexaRetail,Low
+"7061 Anthony Canyon St, San Francisco",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,Critical
+"5154 Soto Canyon St, Dallas",Work Orders,Reactive,High number of reactive work orders,StreamView Media,High
+"5477 Robert Cliffs St, Chicago",Leases,Renewal Rate,Low renewal rates,Skyline Properties,Critical
+"3470 Cindy Plain St, Houston",Energy Usage,Energy Efficiency,High energy usage during peak hours,Bank of ACME,High
+"4332 Bailey Rest St, Chicago",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Critical
+"9677 Johnson Causeway St, Boston",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,EverGrow Farms,Critical
+"1815 Dawn Valley St, Dallas",Energy Usage,Peak Hours,Low energy efficiency,Quantum Dynamics,Medium
+"1668 Duarte Heights St, Dallas",Work Orders,Preventative,High number of reactive work orders,Quantum Dynamics,Low
+"109 Joshua Cliff St, Chicago",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,Low
+"6370 Matthew Streets St, Houston",Energy Usage,Energy Efficiency,High energy usage during peak hours,Bank of ACME,High
+"8937 Payne Meadows St, Atlanta",Leases,Expiring,Low renewal rates,GreenLeaf Co.,Medium
+"7535 Colleen Course St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,Skyline Properties,High
+"7046 Holly Road St, San Francisco",Work Orders,Preventative,Completion Rates below 50%,NexaRetail,High
+"6619 Jason Coves St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,Quantum Dynamics,High
+"2696 Watkins Fall St, Miami",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,Low
+"137 Bryce Ridge St, Chicago",Budgets,Budget Compliance,Energy Costs above 15% mean,TechSphere Inc.,Medium
+"8859 Griffin Parkways St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,Medium
+"5216 Connor Junction St, Miami",Energy Usage,Off-Hours,Low energy efficiency,GreenLeaf Co.,Low
+"8161 Walsh Valley St, Boston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,Medium
+"4689 Howard Wells St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,EverGrow Farms,Medium
+"1319 Wesley Causeway St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Quantum Dynamics,Medium
+"8710 Nicholas Skyway St, Dallas",Budgets,Budget Compliance,Energy Costs above 15% mean,TechSphere Inc.,Medium
+"3057 Kim Place St, New York",Work Orders,Completion Rate,High number of reactive work orders,StreamView Media,Medium
+"8891 Laurie Roads St, Seattle",Leases,Expiring,Low renewal rates,Skyline Properties,High
+"3686 Richards Green St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,Bank of ACME,Critical
+"6497 Amber Curve St, Los Angeles",Leases,Expiring,Low renewal rates,GreenLeaf Co.,Critical
+"1107 Brown Locks St, Miami",Leases,Expiring,Low renewal rates,Quantum Dynamics,Medium
+"7978 Barajas Bypass St, New York",Work Orders,Reactive,High number of reactive work orders,Quantum Dynamics,Low
+"2364 Clark Port St, Dallas",Work Orders,Preventative,High number of reactive work orders,GreenLeaf Co.,High
+"8790 Justin Tunnel St, Boston",Energy Usage,Peak Hours,High energy usage during peak hours,EverGrow Farms,Medium
+"3883 Knight Mountain St, Atlanta",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Quantum Dynamics,Medium
+"9852 Phillip Grove St, Atlanta",Compliance,Compliance Score,Multiple non-compliance incidents,Quantum Dynamics,Low
+"2197 Munoz Creek St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,NexaRetail,Medium
+"7580 Robert Fords St, Miami",Leases,Expiring,Low renewal rates,EverGrow Farms,Medium
+"8112 Hardy Mission St, Dallas",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,Critical
+"5843 Cindy Glen St, New York",Compliance,Regulatory Updates,Upcoming regulatory changes,EverGrow Farms,Low
+"5669 Horn Manors St, Seattle",Work Orders,Completion Rate,High number of reactive work orders,StreamView Media,High
+"8814 Brittney Bypass St, Boston",Compliance,Regulatory Updates,Upcoming regulatory changes,TechSphere Inc.,Low
+"1170 Long Drive St, Dallas",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,Medium
+"1285 Alexander Roads St, San Francisco",Energy Usage,Peak Hours,Low energy efficiency,Quantum Dynamics,Low
+"4201 Peterson Center St, San Francisco",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Critical
+"3847 Ashley Trafficway St, Dallas",Energy Usage,Energy Efficiency,Low energy efficiency,GreenLeaf Co.,Low
+"1767 Newton Avenue St, Miami",Work Orders,Reactive,High number of reactive work orders,Bank of ACME,Medium
+"9063 Griffin Inlet St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Quantum Dynamics,High
+"635 Joshua Valleys St, Houston",Energy Usage,Peak Hours,Low energy efficiency,GreenLeaf Co.,Critical
+"6634 Amanda Stream St, Los Angeles",Leases,Occupancy,High number of expiring leases,NexaRetail,Low
+"909 Jason Junction St, Boston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Quantum Dynamics,Critical
+"226 Amanda Park St, Dallas",Energy Usage,Energy Efficiency,High energy usage during peak hours,StreamView Media,Low
+"1210 Levy Streets St, Seattle",Leases,Occupancy,Low renewal rates,GreenLeaf Co.,High
+"2805 May Turnpike St, Miami",Leases,Renewal Rate,Low renewal rates,GreenLeaf Co.,High
+"6022 Russell Plain St, Chicago",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,Critical
+"6493 Sherman Points St, New York",Leases,Expiring,Low renewal rates,Bank of ACME,High
+"3762 Melinda Club St, Dallas",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,Low
+"1777 Long Stravenue St, San Francisco",Leases,Expiring,High number of expiring leases,NexaRetail,Critical
+"6934 Alexandra Crossing St, Atlanta",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,High
+"7850 Mario Harbor St, Chicago",Work Orders,Completion Rate,Completion Rates below 50%,GreenLeaf Co.,Critical
+"3081 Hahn Mission St, Seattle",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Low
+"8758 Johnson Throughway St, Boston",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Critical
+"9923 Carter Fort St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,Critical
+"6455 Thomas Via St, New York",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,Critical
+"854 David Lake St, Chicago",Budgets,Budget Compliance,Energy Costs above 15% mean,StreamView Media,Critical
+"4963 Heather Rapids St, Chicago",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,High
+"7152 Vasquez Junctions St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,TechSphere Inc.,Medium
+"8991 Cindy Plaza St, San Francisco",Leases,Renewal Rate,Low renewal rates,EverGrow Farms,Critical
+"9043 Pearson Dam St, New York",Energy Usage,Peak Hours,Low energy efficiency,Bank of ACME,Medium
+"7706 Mercado Parkway St, Dallas",Work Orders,Reactive,Completion Rates below 50%,EverGrow Farms,High
+"8556 Matthew Freeway St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,NexaRetail,Low
+"4263 Fisher Mountain St, Dallas",Energy Usage,Energy Efficiency,Low energy efficiency,GreenLeaf Co.,Medium
+"9918 Solis Divide St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,StreamView Media,Critical
+"8993 Robert Ferry St, Seattle",Work Orders,Completion Rate,Completion Rates below 50%,Skyline Properties,Low
+"5412 Eric Green St, Miami",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Bank of ACME,Critical
+"8108 Mccann Rue St, Chicago",Compliance,Regulatory Updates,Multiple non-compliance incidents,Bank of ACME,Low
+"7823 Wright Run St, Chicago",Energy Usage,Peak Hours,High energy usage during peak hours,TechSphere Inc.,Medium
+"212 Gabriel Fall St, Los Angeles",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"1013 Butler Locks St, Miami",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,Low
+"6558 Harrell Summit St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,High
+"314 Campbell Summit St, Los Angeles",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,Medium
+"4265 Rebecca Drive St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,Critical
+"8937 Yates River St, Atlanta",Leases,Expiring,High number of expiring leases,GreenLeaf Co.,High
+"5314 Crosby Island St, New York",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,High
+"4946 Rose Points St, Dallas",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,NexaRetail,Critical
+"1532 Wood Land St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Bank of ACME,High
+"1827 Parker Wall St, Seattle",Work Orders,Preventative,High number of reactive work orders,Skyline Properties,Medium
+"994 Barker Square St, Seattle",Leases,Expiring,Low renewal rates,GreenLeaf Co.,Medium
+"3740 Tammy Cliff St, Dallas",Leases,Expiring,Low renewal rates,Quantum Dynamics,Critical
+"6170 Rojas Stream St, Dallas",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,Low
+"6725 David Passage St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,Low
+"1503 Williams Manors St, Los Angeles",Leases,Occupancy,Low renewal rates,StreamView Media,Medium
+"1142 Eaton Oval St, San Francisco",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,StreamView Media,Low
+"2754 Blanchard Falls St, Chicago",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,NexaRetail,High
+"9944 Amy Hills St, Boston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Bank of ACME,Critical
+"5760 Brian Lights St, Los Angeles",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,NexaRetail,High
+"2729 Whitney Light St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,Skyline Properties,Critical
+"2137 Lowery Ridge St, Atlanta",Work Orders,Reactive,High number of reactive work orders,GreenLeaf Co.,Critical
+"3128 Kristina Ranch St, Seattle",Energy Usage,Energy Efficiency,Low energy efficiency,EverGrow Farms,High
+"4391 Walter Centers St, Atlanta",Leases,Expiring,Low renewal rates,GreenLeaf Co.,High
+"9997 Reyes Brook St, Miami",Energy Usage,Peak Hours,High energy usage during peak hours,EverGrow Farms,Low
+"2061 Tony Greens St, Dallas",Leases,Expiring,High number of expiring leases,Quantum Dynamics,Low
+"9351 Lynn Trace St, Boston",Energy Usage,Energy Efficiency,High energy usage during peak hours,StreamView Media,Critical
+"8478 Paul Road St, Atlanta",Energy Usage,Energy Efficiency,High energy usage during peak hours,StreamView Media,Critical
+"5215 Ellis Gardens St, Boston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,High
+"5788 Monica Place St, Miami",Energy Usage,Off-Hours,Low energy efficiency,GreenLeaf Co.,Medium
+"639 Zimmerman Estates St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,High
+"1676 Nicole Loop St, New York",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,High
+"3120 Atkins Forges St, Boston",Leases,Occupancy,Low renewal rates,StreamView Media,Medium
+"8474 Elizabeth Squares St, New York",Work Orders,Reactive,Completion Rates below 50%,EverGrow Farms,Critical
+"7218 Michael Mountains St, Seattle",Leases,Expiring,Low renewal rates,Bank of ACME,High
+"1649 Paul Branch St, Atlanta",Work Orders,Preventative,High number of reactive work orders,Quantum Dynamics,Low
+"7148 Hernandez Tunnel St, Atlanta",Energy Usage,Peak Hours,High energy usage during peak hours,GreenLeaf Co.,Critical
+"5021 Carrillo Meadow St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,StreamView Media,High
+"6631 Hobbs Rue St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,GreenLeaf Co.,Low
+"4125 Clark Forges St, Houston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Skyline Properties,Critical
+"9232 Martinez Dam St, Dallas",Leases,Expiring,Low renewal rates,Skyline Properties,Critical
+"2505 James Neck St, Seattle",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,Critical
+"7495 Lopez Trail St, Houston",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Medium
+"7573 Mendoza Extension St, Houston",Work Orders,Completion Rate,High number of reactive work orders,Quantum Dynamics,Critical
+"6086 Kevin Spurs St, Atlanta",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,Medium
+"3621 Macdonald Harbors St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,TechSphere Inc.,High
+"5356 Todd Plaza St, San Francisco",Leases,Occupancy,Low renewal rates,Bank of ACME,High
+"3180 Proctor Trail St, Boston",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,TechSphere Inc.,High
+"8915 Lewis Cape St, Los Angeles",Compliance,Regulatory Updates,Multiple non-compliance incidents,Skyline Properties,High
+"4043 Hernandez Course St, Chicago",Leases,Expiring,High number of expiring leases,Bank of ACME,High
+"7598 Alan Viaduct St, Chicago",Leases,Expiring,High number of expiring leases,StreamView Media,Medium
+"7906 Phillips Valley St, Boston",Energy Usage,Energy Efficiency,Low energy efficiency,Skyline Properties,High
+"6312 Rivera Divide St, Dallas",Energy Usage,Peak Hours,Low energy efficiency,TechSphere Inc.,Medium
+"3974 Corey Burg St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,High
+"6015 Cody Run St, San Francisco",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,Medium
+"4059 Evans Islands St, Dallas",Energy Usage,Energy Efficiency,Low energy efficiency,NexaRetail,Critical
+"9309 Rachel Mills St, Los Angeles",Compliance,Regulatory Updates,Upcoming regulatory changes,TechSphere Inc.,Medium
+"7332 Gabriela Turnpike St, Chicago",Energy Usage,Energy Efficiency,High energy usage during peak hours,StreamView Media,Medium
+"3103 Nicholas Stream St, San Francisco",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,Low
+"8358 Hatfield Dale St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,GreenLeaf Co.,High
+"4939 Sullivan Shore St, San Francisco",Energy Usage,Off-Hours,Low energy efficiency,Quantum Dynamics,Low
+"5107 Powell Mountains St, Dallas",Energy Usage,Peak Hours,High energy usage during peak hours,GreenLeaf Co.,High
+"2615 Evans Stream St, Atlanta",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Bank of ACME,High
+"7975 Brown Streets St, San Francisco",Leases,Renewal Rate,Low renewal rates,NexaRetail,Critical
+"9750 Young Lakes St, Houston",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,Low
+"9186 Paul Coves St, Boston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Skyline Properties,Low
+"5416 Spears Run St, Miami",Compliance,Regulatory Updates,Multiple non-compliance incidents,GreenLeaf Co.,High
+"1461 Mark Squares St, Seattle",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,High
+"2750 Brian Corners St, San Francisco",Energy Usage,Energy Efficiency,High energy usage during peak hours,GreenLeaf Co.,High
+"8585 Stephen Court St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,Bank of ACME,Critical
+"1623 Escobar Via St, Los Angeles",Compliance,Regulatory Updates,Multiple non-compliance incidents,TechSphere Inc.,Critical
+"1745 Wilson Well St, San Francisco",Energy Usage,Peak Hours,Low energy efficiency,GreenLeaf Co.,Medium
+"5206 Sandra Falls St, Dallas",Leases,Occupancy,Low renewal rates,Quantum Dynamics,Critical
+"1767 Bryce Coves St, Chicago",Work Orders,Reactive,High number of reactive work orders,Quantum Dynamics,Medium
+"255 Ford Inlet St, Los Angeles",Work Orders,Preventative,Completion Rates below 50%,GreenLeaf Co.,Low
+"8968 James Club St, Houston",Leases,Expiring,Low renewal rates,Quantum Dynamics,Medium
+"9320 Cynthia Center St, Houston",Energy Usage,Off-Hours,High energy usage during peak hours,GreenLeaf Co.,Medium
+"3153 Marissa Row St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,Low
+"8972 Ramirez Forges St, San Francisco",Energy Usage,Energy Efficiency,High energy usage during peak hours,NexaRetail,Low
+"1190 Steven Route St, Atlanta",Leases,Occupancy,High number of expiring leases,TechSphere Inc.,High
+"7047 Gary Square St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,StreamView Media,Medium
+"5053 Jeremy Place St, Miami",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,GreenLeaf Co.,Low
+"5901 Little Valleys St, New York",Leases,Occupancy,Low renewal rates,TechSphere Inc.,High
+"6972 William Mountains St, San Francisco",Leases,Occupancy,High number of expiring leases,StreamView Media,Medium
+"3203 Shawn Points St, Los Angeles",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,Low
+"3592 Tammy Garden St, Seattle",Energy Usage,Energy Efficiency,High energy usage during peak hours,TechSphere Inc.,Critical
+"4768 Matthew Plains St, San Francisco",Budgets,Budget Compliance,Energy Costs above 15% mean,Skyline Properties,Low
+"5645 Hess Islands St, Chicago",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,High
+"1142 Jasmine Union St, Los Angeles",Budgets,Energy Cost Variance,Energy Costs above 15% mean,EverGrow Farms,Critical
+"7451 Stephen Parkway St, Miami",Work Orders,Completion Rate,High number of reactive work orders,Quantum Dynamics,Critical
+"9558 Gonzales Underpass St, Seattle",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Critical
+"7805 Liu Extensions St, San Francisco",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,GreenLeaf Co.,Critical
+"9727 Brian Haven St, Atlanta",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Low
+"6040 Gilbert Loop St, Chicago",Leases,Renewal Rate,High number of expiring leases,StreamView Media,Medium
+"5015 Rogers Unions St, Los Angeles",Work Orders,Completion Rate,High number of reactive work orders,Quantum Dynamics,Medium
+"4045 Vincent Flat St, San Francisco",Leases,Renewal Rate,High number of expiring leases,GreenLeaf Co.,Low
+"9487 Abbott Stravenue St, Seattle",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,Critical
+"5272 Parks Grove St, Miami",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,Low
+"545 Larson Cliffs St, Seattle",Leases,Renewal Rate,Low renewal rates,GreenLeaf Co.,Critical
+"171 Kevin Station St, Dallas",Energy Usage,Peak Hours,Low energy efficiency,Bank of ACME,Low
+"4060 Callahan Hills St, Miami",Energy Usage,Off-Hours,High energy usage during peak hours,Bank of ACME,Medium
+"7473 Kane Drive St, Atlanta",Leases,Expiring,Low renewal rates,StreamView Media,Low
+"3549 Gonzalez Summit St, Seattle",Work Orders,Preventative,Completion Rates below 50%,StreamView Media,Medium
+"8278 Courtney Canyon St, Houston",Work Orders,Reactive,High number of reactive work orders,Skyline Properties,High
+"2202 Tyler Harbor St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,Critical
+"4100 Haynes Green St, Los Angeles",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,Low
+"5749 Daniel Locks St, Atlanta",Leases,Occupancy,High number of expiring leases,Quantum Dynamics,High
+"6888 Darren Heights St, Seattle",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"366 Riley Cliffs St, Seattle",Work Orders,Reactive,Completion Rates below 50%,StreamView Media,Critical
+"613 Mcmahon Row St, Miami",Budgets,Budget Compliance,Energy Costs above 15% mean,EverGrow Farms,Critical
+"7265 Randall Green St, Dallas",Leases,Renewal Rate,Low renewal rates,TechSphere Inc.,Low
+"7121 Joseph Junction St, Miami",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,NexaRetail,Low
+"1023 Michael Mount St, Los Angeles",Leases,Expiring,High number of expiring leases,Bank of ACME,Medium
+"5495 Chad Trail St, Chicago",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,Low
+"8689 Klein Lake St, San Francisco",Compliance,Compliance Score,Upcoming regulatory changes,GreenLeaf Co.,Critical
+"6056 Rowland Isle St, New York",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Bank of ACME,Low
+"5349 Dougherty Viaduct St, Los Angeles",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,Critical
+"1464 Tiffany Springs St, Los Angeles",Work Orders,Reactive,High number of reactive work orders,Skyline Properties,Medium
+"7427 Fuller Place St, Seattle",Compliance,Compliance Score,Upcoming regulatory changes,EverGrow Farms,High
+"8349 Erika Wall St, Miami",Compliance,Compliance Score,Upcoming regulatory changes,Bank of ACME,Critical
+"1186 Crane Corner St, Chicago",Energy Usage,Peak Hours,High energy usage during peak hours,EverGrow Farms,Low
+"3102 Richmond Fall St, Atlanta",Compliance,Compliance Score,Multiple non-compliance incidents,GreenLeaf Co.,Low
+"4101 Hancock Gardens St, Boston",Work Orders,Reactive,High number of reactive work orders,StreamView Media,High
+"8966 Ryan Lights St, San Francisco",Energy Usage,Peak Hours,Low energy efficiency,Bank of ACME,Critical
+"2187 Ross Land St, New York",Leases,Renewal Rate,High number of expiring leases,NexaRetail,Medium
+"2732 Gabriel Valleys St, Dallas",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Skyline Properties,Medium
+"1496 Pena Row St, San Francisco",Work Orders,Preventative,Completion Rates below 50%,Quantum Dynamics,Low
+"4675 Rivers Squares St, Atlanta",Energy Usage,Energy Efficiency,Low energy efficiency,Bank of ACME,High
+"3902 Ball Corners St, Miami",Leases,Expiring,Low renewal rates,Skyline Properties,Low
+"3598 Wong Fort St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,Skyline Properties,Low
+"5698 Johnson Crescent St, Seattle",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Critical
+"974 Matthew Fields St, Dallas",Leases,Renewal Rate,High number of expiring leases,Bank of ACME,Medium
+"9584 Benjamin Rue St, New York",Leases,Renewal Rate,Low renewal rates,Quantum Dynamics,Low
+"6601 Danielle Field St, Chicago",Work Orders,Reactive,Completion Rates below 50%,Quantum Dynamics,Medium
+"7663 Stephen Gateway St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Quantum Dynamics,Critical
+"3168 Abigail Isle St, Dallas",Energy Usage,Peak Hours,High energy usage during peak hours,EverGrow Farms,Medium
+"3721 Peggy Manor St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,Skyline Properties,Medium
+"6674 Daniel Parkways St, Miami",Compliance,Regulatory Updates,Upcoming regulatory changes,Skyline Properties,Critical
+"9081 Daniel Spring St, Dallas",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,Medium
+"5361 Gilbert Stream St, Miami",Leases,Expiring,Low renewal rates,TechSphere Inc.,Critical
+"7124 Stephanie Meadows St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Quantum Dynamics,Medium
+"9935 Simmons Drive St, Miami",Energy Usage,Energy Efficiency,Low energy efficiency,StreamView Media,Low
+"7693 Stephen Course St, Atlanta",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,Low
+"3709 Chris Glen St, Miami",Energy Usage,Energy Efficiency,High energy usage during peak hours,Skyline Properties,High
+"8363 Catherine Pines St, New York",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,High
+"5747 James Garden St, Miami",Compliance,Regulatory Updates,Upcoming regulatory changes,StreamView Media,Critical
+"8750 Linda Bypass St, Houston",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,EverGrow Farms,Low
+"8074 Timothy Falls St, Houston",Compliance,Compliance Score,Multiple non-compliance incidents,Skyline Properties,Critical
+"3396 Stephanie Courts St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,Quantum Dynamics,Low
+"4203 Marcus Skyway St, Chicago",Leases,Expiring,High number of expiring leases,Skyline Properties,High
+"275 Snyder Oval St, Chicago",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,Critical
+"5780 Robert Knoll St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,StreamView Media,Low
+"6892 Anna Ford St, Boston",Leases,Occupancy,High number of expiring leases,NexaRetail,Medium
+"7642 Smith Plaza St, Houston",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,High
+"679 Mclean Plain St, Los Angeles",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,High
+"8148 Whitaker Views St, Seattle",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Bank of ACME,Medium
+"1498 Mccann Gardens St, Seattle",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Critical
+"948 Pollard Tunnel St, Chicago",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Low
+"5425 Spence Rapid St, Seattle",Compliance,Regulatory Updates,Upcoming regulatory changes,Bank of ACME,Medium
+"3930 Diaz Loaf St, New York",Compliance,Regulatory Updates,Upcoming regulatory changes,EverGrow Farms,Medium
+"3723 Nelson Locks St, Chicago",Leases,Expiring,Low renewal rates,Bank of ACME,Critical
+"6303 Michelle Forge St, Chicago",Leases,Occupancy,Low renewal rates,StreamView Media,High
+"4857 Mendoza Prairie St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,Quantum Dynamics,Critical
+"3726 Valenzuela Tunnel St, Houston",Leases,Expiring,High number of expiring leases,NexaRetail,Critical
+"5862 Cole Villages St, New York",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,EverGrow Farms,Medium
+"4445 Beth Extension St, San Francisco",Compliance,Regulatory Updates,Multiple non-compliance incidents,Skyline Properties,High
+"3364 Vasquez Mountains St, Chicago",Budgets,Budget Compliance,Energy Costs above 15% mean,TechSphere Inc.,Medium
+"4210 Dave Stream St, Chicago",Work Orders,Preventative,High number of reactive work orders,TechSphere Inc.,High
+"7279 Bailey Passage St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,NexaRetail,Low
+"6711 Tyler Dam St, Boston",Work Orders,Preventative,High number of reactive work orders,EverGrow Farms,High
+"2772 Ricky Ramp St, New York",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,GreenLeaf Co.,High
+"8098 Berger Well St, Houston",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,Critical
+"8688 Thompson Islands St, Chicago",Compliance,Regulatory Updates,Multiple non-compliance incidents,TechSphere Inc.,High
+"4735 Gregory Throughway St, Miami",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,Low
+"3541 Joshua Walks St, Boston",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,Medium
+"8237 Robinson Centers St, Boston",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,NexaRetail,Critical
+"9744 Randy Avenue St, San Francisco",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,High
+"8947 Patrick Cove St, Los Angeles",Energy Usage,Peak Hours,High energy usage during peak hours,Bank of ACME,High
+"6754 Linda Course St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,High
+"812 Courtney Mills St, Boston",Energy Usage,Energy Efficiency,High energy usage during peak hours,Skyline Properties,Medium
+"1879 Parsons Pine St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Low
+"383 Schneider Bridge St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,Skyline Properties,Critical
+"1531 Butler Wells St, Atlanta",Work Orders,Reactive,Completion Rates below 50%,EverGrow Farms,High
+"1149 Timothy Fork St, Chicago",Energy Usage,Peak Hours,High energy usage during peak hours,TechSphere Inc.,Critical
+"1320 Harris Villages St, Los Angeles",Energy Usage,Energy Efficiency,High energy usage during peak hours,StreamView Media,Low
+"3453 Kyle Estate St, Los Angeles",Work Orders,Completion Rate,Completion Rates below 50%,Quantum Dynamics,Medium
+"7788 James Greens St, Boston",Energy Usage,Peak Hours,High energy usage during peak hours,Quantum Dynamics,High
+"830 Butler Prairie St, Seattle",Energy Usage,Energy Efficiency,Low energy efficiency,GreenLeaf Co.,Low
+"2133 Victoria Gateway St, Boston",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,Low
+"3461 Cassie Loop St, Atlanta",Compliance,Regulatory Updates,Upcoming regulatory changes,NexaRetail,High
+"7806 Williams Estate St, San Francisco",Energy Usage,Off-Hours,Low energy efficiency,Quantum Dynamics,Medium
+"6472 Brandon Grove St, Los Angeles",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,High
+"5284 Hobbs Motorway St, San Francisco",Leases,Expiring,Low renewal rates,TechSphere Inc.,Medium
+"4483 Blair Lights St, Los Angeles",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,NexaRetail,Critical
+"8401 Gomez Bypass St, Dallas",Work Orders,Reactive,High number of reactive work orders,EverGrow Farms,High
+"2999 Jackson Squares St, Boston",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,Medium
+"7697 Barber Brook St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,EverGrow Farms,Critical
+"4582 Samuel Valley St, Boston",Leases,Occupancy,High number of expiring leases,Bank of ACME,Medium
+"5066 Brown Passage St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,High
+"2080 Jeffery Pike St, Miami",Energy Usage,Peak Hours,High energy usage during peak hours,TechSphere Inc.,Medium
+"2683 Brandy Points St, Seattle",Energy Usage,Energy Efficiency,Low energy efficiency,EverGrow Farms,Critical
+"2044 Carter Prairie St, Dallas",Work Orders,Reactive,Completion Rates below 50%,NexaRetail,Medium
+"6352 Hill Flats St, Dallas",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,High
+"8416 Christine Cape St, Boston",Work Orders,Reactive,Completion Rates below 50%,GreenLeaf Co.,Medium
+"8515 Simpson Ville St, Atlanta",Leases,Occupancy,Low renewal rates,TechSphere Inc.,Medium
+"6324 Moore Field St, Houston",Compliance,Regulatory Updates,Multiple non-compliance incidents,Bank of ACME,Low
+"3461 Mitchell Way St, Dallas",Compliance,Compliance Score,Multiple non-compliance incidents,NexaRetail,Low
+"2271 Mahoney Ranch St, Houston",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,StreamView Media,High
+"7543 Brittany Mission St, Seattle",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,NexaRetail,Low
+"7973 Mccoy Stream St, New York",Leases,Occupancy,High number of expiring leases,EverGrow Farms,Medium
+"9531 Murphy Roads St, New York",Compliance,Compliance Score,Multiple non-compliance incidents,Quantum Dynamics,Low
+"8758 Julie Squares St, Dallas",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Critical
+"4485 Eric Estate St, Miami",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Skyline Properties,Low
+"7483 Matthew Plaza St, Los Angeles",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,StreamView Media,Medium
+"9297 Mckinney Plains St, New York",Leases,Expiring,High number of expiring leases,GreenLeaf Co.,Critical
+"6292 Macias Crescent St, Boston",Leases,Expiring,Low renewal rates,TechSphere Inc.,Medium
+"3725 Strickland Creek St, Boston",Work Orders,Completion Rate,High number of reactive work orders,Skyline Properties,Low
+"2688 Cristian Ridges St, New York",Energy Usage,Energy Efficiency,High energy usage during peak hours,EverGrow Farms,Critical
+"1940 Natalie Avenue St, Boston",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,StreamView Media,Low
+"9692 Andrea Lights St, Miami",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,NexaRetail,Low
+"7509 Kayla Fall St, New York",Work Orders,Preventative,High number of reactive work orders,GreenLeaf Co.,High
+"8869 Phillips Glens St, San Francisco",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,High
+"8400 Howell Street St, Chicago",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,StreamView Media,Medium
+"4322 Fields Stream St, Seattle",Work Orders,Completion Rate,High number of reactive work orders,Skyline Properties,Low
+"5151 Campbell Falls St, Boston",Work Orders,Preventative,Completion Rates below 50%,Skyline Properties,Low
+"8048 Christina Spur St, Miami",Compliance,Compliance Score,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"5251 Petersen Hills St, Atlanta",Compliance,Compliance Score,Multiple non-compliance incidents,NexaRetail,Low
+"7702 Kayla Tunnel St, Seattle",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,Critical
+"5682 Eileen Lodge St, New York",Compliance,Compliance Score,Upcoming regulatory changes,TechSphere Inc.,High
+"8230 Rodriguez Inlet St, Seattle",Work Orders,Reactive,High number of reactive work orders,GreenLeaf Co.,Medium
+"9246 George Court St, Houston",Work Orders,Completion Rate,High number of reactive work orders,NexaRetail,Critical
+"4086 Wesley Manor St, Boston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,High
+"348 Nicholas Village St, Chicago",Budgets,Budget Compliance,Energy Costs above 15% mean,StreamView Media,Low
+"297 Jennifer Camp St, Dallas",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,Low
+"9120 Conrad Light St, Miami",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Quantum Dynamics,Low
+"8438 Adams Trail St, Seattle",Work Orders,Reactive,High number of reactive work orders,Skyline Properties,Critical
+"1224 Rodney Haven St, New York",Work Orders,Reactive,High number of reactive work orders,TechSphere Inc.,Critical
+"6780 Michael Flats St, San Francisco",Compliance,Regulatory Updates,Multiple non-compliance incidents,Bank of ACME,High
+"9855 Ruiz Common St, Miami",Work Orders,Completion Rate,Completion Rates below 50%,NexaRetail,High
+"6793 Contreras Inlet St, Atlanta",Leases,Occupancy,Low renewal rates,Quantum Dynamics,High
+"169 Chaney Avenue St, Atlanta",Work Orders,Preventative,Completion Rates below 50%,GreenLeaf Co.,High
+"7026 Rivera Gateway St, Atlanta",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,Low
+"6973 Julie Mall St, Houston",Budgets,Budget Compliance,Energy Costs above 15% mean,TechSphere Inc.,High
+"8668 John Mall St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,High
+"9803 Tiffany Courts St, San Francisco",Work Orders,Preventative,Completion Rates below 50%,EverGrow Farms,Critical
+"3594 Martin Crossroad St, Houston",Work Orders,Preventative,Completion Rates below 50%,Skyline Properties,Critical
+"2100 Stafford Track St, Los Angeles",Energy Usage,Energy Efficiency,Low energy efficiency,GreenLeaf Co.,High
+"411 Ortega Plains St, Seattle",Leases,Expiring,High number of expiring leases,NexaRetail,High
+"5373 Herrera Fords St, Atlanta",Energy Usage,Energy Efficiency,Low energy efficiency,Quantum Dynamics,Low
+"3404 Carter Parkway St, Atlanta",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Quantum Dynamics,Critical
+"9549 David Mount St, Los Angeles",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Quantum Dynamics,High
+"2137 Solomon Light St, Houston",Leases,Occupancy,High number of expiring leases,GreenLeaf Co.,High
+"4035 Donovan Harbors St, Miami",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Low
+"4013 Catherine Cliffs St, Los Angeles",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,Low
+"131 Marilyn Cape St, Houston",Leases,Renewal Rate,High number of expiring leases,StreamView Media,Medium
+"4836 Coleman Track St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,GreenLeaf Co.,Low
+"9962 Roberts Lodge St, Dallas",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,Low
+"3835 Emily Cliff St, Boston",Compliance,Regulatory Updates,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"9991 Karen Motorway St, Chicago",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,Medium
+"4568 Montgomery Spring St, New York",Compliance,Regulatory Updates,Upcoming regulatory changes,Skyline Properties,High
+"8591 Hill Fall St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,Quantum Dynamics,High
+"6407 Johnson Meadow St, Seattle",Leases,Renewal Rate,High number of expiring leases,NexaRetail,Low
+"3955 Cassandra Wall St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Medium
+"4850 Cochran Pine St, Seattle",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Skyline Properties,Medium
+"4647 Scott Fields St, New York",Leases,Occupancy,Low renewal rates,NexaRetail,High
+"8302 Stacy Mews St, San Francisco",Compliance,Regulatory Updates,Upcoming regulatory changes,EverGrow Farms,Medium
+"4339 Wright Rapids St, Atlanta",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,StreamView Media,Low
+"9885 Dougherty Knoll St, Miami",Leases,Occupancy,Low renewal rates,Quantum Dynamics,Medium
+"7898 Tony Lodge St, Los Angeles",Energy Usage,Energy Efficiency,High energy usage during peak hours,NexaRetail,High
+"3570 Tara Forge St, San Francisco",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Bank of ACME,Medium
+"9761 Ortiz Trail St, Los Angeles",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,High
+"5166 Adrienne Courts St, Miami",Work Orders,Preventative,High number of reactive work orders,Skyline Properties,Low
+"3269 Karen Light St, Los Angeles",Work Orders,Preventative,Completion Rates below 50%,Bank of ACME,High
+"6844 Paul Spring St, Miami",Compliance,Regulatory Updates,Multiple non-compliance incidents,StreamView Media,Low
+"7789 Dawn Light St, Houston",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,StreamView Media,Medium
+"6666 Jones Ways St, Los Angeles",Work Orders,Completion Rate,Completion Rates below 50%,EverGrow Farms,Critical
+"1508 Christopher Landing St, Los Angeles",Energy Usage,Peak Hours,High energy usage during peak hours,GreenLeaf Co.,High
+"253 Edward Common St, San Francisco",Leases,Occupancy,Low renewal rates,EverGrow Farms,High
+"657 Alexander Park St, Chicago",Leases,Occupancy,Low renewal rates,TechSphere Inc.,High
+"2079 Jackson Lakes St, New York",Budgets,Budget Compliance,Energy Costs above 15% mean,StreamView Media,Medium
+"9137 Tracy Camp St, Seattle",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Skyline Properties,Medium
+"3881 Martin Cape St, Houston",Leases,Expiring,Low renewal rates,Quantum Dynamics,Medium
+"8563 Ellen Village St, Houston",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,EverGrow Farms,High
+"2720 Brian Rest St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,TechSphere Inc.,Low
+"8182 Stewart Dale St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Skyline Properties,Low
+"3718 Julie Light St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Quantum Dynamics,High
+"4711 Rodriguez Shoal St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Quantum Dynamics,High
+"8449 Vickie Circles St, San Francisco",Work Orders,Preventative,High number of reactive work orders,Bank of ACME,Medium
+"7090 Wilson Square St, Chicago",Energy Usage,Peak Hours,High energy usage during peak hours,NexaRetail,Medium
+"5666 Gutierrez Trace St, Seattle",Leases,Expiring,High number of expiring leases,EverGrow Farms,High
+"5635 Mark Stravenue St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,GreenLeaf Co.,High
+"9825 James Trafficway St, New York",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Low
+"9631 Anna Port St, New York",Budgets,Energy Cost Variance,Energy Costs above 15% mean,NexaRetail,High
+"3050 Lisa Stravenue St, Los Angeles",Energy Usage,Off-Hours,High energy usage during peak hours,EverGrow Farms,Medium
+"6869 King Street St, Boston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Bank of ACME,Low
+"969 Jennifer Rapids St, Dallas",Leases,Renewal Rate,High number of expiring leases,EverGrow Farms,High
+"9364 Schaefer Point St, Chicago",Energy Usage,Energy Efficiency,High energy usage during peak hours,TechSphere Inc.,High
+"3029 Stephen Port St, San Francisco",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,EverGrow Farms,Critical
+"3349 Taylor Camp St, Chicago",Work Orders,Preventative,Completion Rates below 50%,Skyline Properties,Critical
+"7967 Natalie Stravenue St, Los Angeles",Work Orders,Reactive,Completion Rates below 50%,Skyline Properties,Medium
+"863 Joshua Village St, San Francisco",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,Medium
+"1370 Howard Stream St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,TechSphere Inc.,Low
+"2767 Todd Mountain St, Chicago",Work Orders,Completion Rate,Completion Rates below 50%,GreenLeaf Co.,Medium
+"6617 Lindsay Skyway St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,GreenLeaf Co.,Low
+"6981 Harris Trail St, Los Angeles",Energy Usage,Energy Efficiency,Low energy efficiency,Skyline Properties,Low
+"2877 Jill Street St, Seattle",Leases,Expiring,Low renewal rates,Skyline Properties,High
+"4078 Joseph Row St, Boston",Energy Usage,Energy Efficiency,Low energy efficiency,TechSphere Inc.,Low
+"6359 Ricky Spur St, Dallas",Work Orders,Reactive,High number of reactive work orders,Quantum Dynamics,Critical
+"6806 Janice Summit St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,Bank of ACME,High
+"9698 Brock Motorway St, Houston",Energy Usage,Energy Efficiency,High energy usage during peak hours,NexaRetail,Medium
+"6111 Amanda Center St, Atlanta",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,Critical
+"4387 Jesse Centers St, San Francisco",Compliance,Compliance Score,Upcoming regulatory changes,GreenLeaf Co.,Critical
+"1589 John Greens St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,High
+"7630 Wright Way St, Miami",Energy Usage,Energy Efficiency,Low energy efficiency,StreamView Media,Critical
+"9700 Marquez Heights St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"1038 Ray Curve St, Atlanta",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,NexaRetail,Low
+"7230 Kathryn Springs St, Seattle",Work Orders,Reactive,High number of reactive work orders,GreenLeaf Co.,Medium
+"8743 Dakota Heights St, Houston",Compliance,Regulatory Updates,Upcoming regulatory changes,GreenLeaf Co.,Low
+"676 Vincent Extensions St, Chicago",Leases,Expiring,Low renewal rates,NexaRetail,High
+"332 Maddox Isle St, Chicago",Energy Usage,Peak Hours,Low energy efficiency,EverGrow Farms,High
+"4226 Lauren Crest St, Dallas",Leases,Occupancy,Low renewal rates,EverGrow Farms,Critical
+"3942 Rodriguez Key St, Houston",Work Orders,Completion Rate,Completion Rates below 50%,GreenLeaf Co.,Low
+"7054 Gordon Path St, Miami",Leases,Occupancy,Low renewal rates,Skyline Properties,Medium
+"2642 Susan Creek St, Miami",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Medium
+"9468 Bowman Junction St, Houston",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,Low
+"3090 Laura Glen St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,GreenLeaf Co.,Low
+"2813 Derek Mill St, Boston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,StreamView Media,Medium
+"3628 Sarah Mills St, Chicago",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Low
+"4357 Hogan Gateway St, Dallas",Work Orders,Completion Rate,High number of reactive work orders,StreamView Media,Critical
+"3989 Bernard Field St, Atlanta",Leases,Renewal Rate,Low renewal rates,StreamView Media,Low
+"6155 Rivers Court St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,TechSphere Inc.,Low
+"3081 Elizabeth Mill St, Dallas",Work Orders,Preventative,Completion Rates below 50%,GreenLeaf Co.,High
+"2671 Brown Run St, Chicago",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,High
+"9951 Krista Ports St, Miami",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,Low
+"5242 Melissa Course St, Atlanta",Work Orders,Preventative,High number of reactive work orders,Quantum Dynamics,Medium
+"2194 Adams Light St, Seattle",Work Orders,Reactive,Completion Rates below 50%,EverGrow Farms,Critical
+"6109 Melinda Circles St, Dallas",Work Orders,Preventative,High number of reactive work orders,GreenLeaf Co.,Low
+"3435 Nancy Key St, Houston",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Skyline Properties,Low
+"4522 Shaw Forks St, New York",Leases,Renewal Rate,High number of expiring leases,GreenLeaf Co.,Critical
+"3514 Bruce Stream St, Los Angeles",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,Low
+"9059 Nicole Manors St, Miami",Compliance,Compliance Score,Upcoming regulatory changes,NexaRetail,Critical
+"7110 Rodriguez Centers St, Los Angeles",Energy Usage,Peak Hours,High energy usage during peak hours,StreamView Media,Critical
+"8908 Stevenson Via St, Chicago",Budgets,Budget Compliance,Energy Costs above 15% mean,EverGrow Farms,High
+"6829 Bonilla Highway St, San Francisco",Work Orders,Preventative,High number of reactive work orders,Quantum Dynamics,Low
+"2216 Pamela Manors St, Dallas",Budgets,Budget Compliance,Energy Costs above 15% mean,TechSphere Inc.,High
+"962 Spence Junction St, Boston",Energy Usage,Energy Efficiency,Low energy efficiency,TechSphere Inc.,Critical
+"1688 Lauren Bridge St, Atlanta",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,EverGrow Farms,High
+"6650 Angela Keys St, Houston",Energy Usage,Off-Hours,Low energy efficiency,EverGrow Farms,Critical
+"9429 Pearson Groves St, New York",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Low
+"5047 Ryan Mills St, Los Angeles",Compliance,Compliance Score,Multiple non-compliance incidents,Quantum Dynamics,Low
+"5752 Vickie Park St, Seattle",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,NexaRetail,Medium
+"6723 Barton Green St, Chicago",Leases,Occupancy,Low renewal rates,Quantum Dynamics,Critical
+"7440 Jones Port St, New York",Leases,Renewal Rate,High number of expiring leases,NexaRetail,Critical
+"6672 Angela Ports St, Miami",Energy Usage,Off-Hours,Low energy efficiency,StreamView Media,Medium
+"4698 Douglas Haven St, New York",Work Orders,Reactive,Completion Rates below 50%,Skyline Properties,Medium
+"4103 Hopkins Garden St, Dallas",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,Low
+"7172 Rivers Stravenue St, Miami",Leases,Renewal Rate,High number of expiring leases,TechSphere Inc.,Low
+"6793 Wyatt Forges St, Los Angeles",Budgets,Energy Cost Variance,Energy Costs above 15% mean,StreamView Media,Medium
+"6404 Justin Spring St, Atlanta",Work Orders,Reactive,High number of reactive work orders,StreamView Media,Low
+"7867 Kimberly Valley St, Houston",Work Orders,Completion Rate,High number of reactive work orders,Skyline Properties,Medium
+"4470 Gibbs Throughway St, Atlanta",Compliance,Compliance Score,Upcoming regulatory changes,NexaRetail,Low
+"9595 James Lakes St, New York",Work Orders,Completion Rate,High number of reactive work orders,Skyline Properties,High
+"5931 Daniel Heights St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,NexaRetail,High
+"8894 Grimes Estate St, Atlanta",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Skyline Properties,Critical
+"1653 Douglas Cliffs St, Seattle",Leases,Expiring,High number of expiring leases,Bank of ACME,Low
+"8706 Ryan Mill St, Los Angeles",Leases,Expiring,Low renewal rates,GreenLeaf Co.,Medium
+"1304 Ashley Drive St, Los Angeles",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,Low
+"8352 Carlos Road St, Los Angeles",Work Orders,Completion Rate,High number of reactive work orders,Skyline Properties,Low
+"8979 Beverly Crossing St, Houston",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,EverGrow Farms,Low
+"9358 Webster Bridge St, Seattle",Compliance,Compliance Score,Multiple non-compliance incidents,NexaRetail,Low
+"6726 Nichols Stream St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,Low
+"9689 Bailey Manors St, Seattle",Leases,Occupancy,High number of expiring leases,StreamView Media,Low
+"3349 Callahan Springs St, Los Angeles",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Bank of ACME,Low
+"678 Justin Square St, Miami",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,NexaRetail,Medium
+"8336 Dillon Island St, Houston",Leases,Renewal Rate,High number of expiring leases,Quantum Dynamics,High
+"4218 Washington Shore St, San Francisco",Work Orders,Preventative,Completion Rates below 50%,GreenLeaf Co.,Critical
+"1790 Frost Field St, Miami",Compliance,Compliance Score,Multiple non-compliance incidents,NexaRetail,Medium
+"8581 Schmidt Union St, Dallas",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Critical
+"640 Daniels Fields St, Miami",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Bank of ACME,Critical
+"9815 Walters Shores St, Atlanta",Compliance,Regulatory Updates,Upcoming regulatory changes,Bank of ACME,Medium
+"7866 Hubbard Glen St, Chicago",Leases,Occupancy,High number of expiring leases,Quantum Dynamics,High
+"6836 Gary Highway St, Miami",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,Low
+"1530 Micheal Inlet St, San Francisco",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Critical
+"5776 Christopher Groves St, Miami",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,EverGrow Farms,High
+"2542 Phillip Fork St, Atlanta",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,Medium
+"6646 Pamela Loop St, Seattle",Work Orders,Preventative,High number of reactive work orders,NexaRetail,Medium
+"8387 Harris Courts St, New York",Work Orders,Preventative,Completion Rates below 50%,EverGrow Farms,Medium
+"5100 Yvette Garden St, Atlanta",Accessibility,Elevator Status,Frequent elevator breakdowns,NexaRetail,Critical
+"7034 Smith Causeway St, Miami",Leases,Renewal Rate,Low renewal rates,Quantum Dynamics,Critical
+"3286 Watson Expressway St, Chicago",Compliance,Compliance Score,Upcoming regulatory changes,Skyline Properties,Low
+"3516 Dana Branch St, Seattle",Energy Usage,Peak Hours,High energy usage during peak hours,Bank of ACME,Medium
+"4701 Thomas Summit St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Quantum Dynamics,Low
+"4794 Coleman Knolls St, Houston",Energy Usage,Energy Efficiency,Low energy efficiency,Quantum Dynamics,High
+"934 Sanders Key St, Atlanta",Accessibility,Elevator Status,Lack of nearby public transport,Skyline Properties,High
+"2043 Kyle Alley St, Houston",Accessibility,ADA Compliance,Lack of nearby public transport,NexaRetail,Medium
+"3566 Holmes Mountains St, New York",Compliance,Compliance Score,Upcoming regulatory changes,EverGrow Farms,Critical
+"597 Norris Union St, Atlanta",Energy Usage,Off-Hours,Low energy efficiency,EverGrow Farms,Medium
+"2289 Ashley Points St, Miami",Leases,Expiring,High number of expiring leases,Bank of ACME,Critical
+"9645 Bailey Alley St, Houston",Energy Usage,Energy Efficiency,High energy usage during peak hours,GreenLeaf Co.,Medium
+"836 Harris Flat St, Atlanta",Safety Incidents,Hazardous Materials,Hazardous material spill,StreamView Media,High
+"4340 Jennifer Estates St, Los Angeles",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,Medium
+"1773 Johnson Trace St, Atlanta",Tenant Satisfaction,Lease Satisfaction,Multiple noise complaints,GreenLeaf Co.,High
+"1486 Hayes Extension St, Boston",Tenant Satisfaction,Lease Satisfaction,Low lease satisfaction scores,NexaRetail,Low
+"7947 Schultz Via St, San Francisco",Accessibility,Elevator Status,Non-ADA compliant areas,Skyline Properties,Medium
+"8896 Robinson Forges St, Miami",Budgets,Energy Cost Variance,Energy Costs above 15% mean,StreamView Media,Critical
+"679 Cynthia Rapids St, New York",Tenant Satisfaction,Noise Complaints,Negative amenities feedback,GreenLeaf Co.,Low
+"540 Brittany Walks St, Boston",Safety Incidents,Fire Safety,Multiple electrical faults,Skyline Properties,Low
+"5464 David Burgs St, Houston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Medium
+"8101 Harrell Manor St, Seattle",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,Critical
+"3487 Nancy Roads St, Dallas",Leases,Occupancy,High number of expiring leases,Quantum Dynamics,Low
+"8713 Nolan Path St, Chicago",Accessibility,Elevator Status,Lack of nearby public transport,NexaRetail,Critical
+"516 Rowe Stravenue St, Atlanta",Accessibility,Elevator Status,Frequent elevator breakdowns,NexaRetail,Low
+"8742 Fletcher Route St, Boston",Safety Incidents,Fire Safety,Hazardous material spill,Bank of ACME,High
+"706 Jonathan Union St, Chicago",Compliance,Compliance Score,Upcoming regulatory changes,EverGrow Farms,High
+"2178 Hernandez Ville St, Chicago",Leases,Renewal Rate,High number of expiring leases,StreamView Media,Critical
+"8151 Angela Spur St, Dallas",Work Orders,Reactive,Completion Rates below 50%,NexaRetail,Low
+"3777 Steven Pass St, Boston",Work Orders,Preventative,High number of reactive work orders,TechSphere Inc.,Critical
+"9634 Rivera Inlet St, Seattle",Work Orders,Completion Rate,Completion Rates below 50%,StreamView Media,Medium
+"7043 Timothy Landing St, San Francisco",Leases,Occupancy,High number of expiring leases,Bank of ACME,Medium
+"2063 Ruiz Village St, Seattle",Safety Incidents,Electrical Issues,Recent fire drill failure,GreenLeaf Co.,Low
+"9917 Thomas Locks St, Atlanta",Safety Incidents,Hazardous Materials,Hazardous material spill,GreenLeaf Co.,Critical
+"6635 Thomas Overpass St, Miami",Tenant Satisfaction,Lease Satisfaction,Low lease satisfaction scores,EverGrow Farms,Medium
+"9971 Ashley Crest St, Houston",Tenant Satisfaction,Amenities Feedback,Negative amenities feedback,GreenLeaf Co.,Critical
+"4781 Alexa Fort St, Atlanta",Leases,Expiring,Low renewal rates,TechSphere Inc.,High
+"6765 John Lakes St, Houston",Energy Usage,Peak Hours,High energy usage during peak hours,Quantum Dynamics,Critical
+"9888 Sanchez Valleys St, Boston",Energy Usage,Energy Efficiency,High energy usage during peak hours,Quantum Dynamics,Medium
+"6446 Galvan Brook St, Atlanta",Energy Usage,Peak Hours,Low energy efficiency,TechSphere Inc.,Critical
+"6534 Benjamin Manor St, Miami",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,EverGrow Farms,Medium
+"4121 Barber Forks St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,EverGrow Farms,Medium
+"1862 Thomas Street St, San Francisco",Energy Usage,Energy Efficiency,Low energy efficiency,Bank of ACME,Medium
+"1930 Wong Cliffs St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,NexaRetail,High
+"9918 Shari Green St, San Francisco",Work Orders,Completion Rate,Completion Rates below 50%,EverGrow Farms,Medium
+"1176 Martin Bridge St, Miami",Safety Incidents,Electrical Issues,Recent fire drill failure,Bank of ACME,Low
+"5444 Angela Fort St, Boston",Accessibility,Elevator Status,Lack of nearby public transport,NexaRetail,Medium
+"4333 Garcia Branch St, Miami",Safety Incidents,Hazardous Materials,Recent fire drill failure,GreenLeaf Co.,Critical
+"575 Hines Junctions St, Boston",Work Orders,Preventative,High number of reactive work orders,Quantum Dynamics,Critical
+"8081 Hunt Village St, Chicago",Safety Incidents,Hazardous Materials,Hazardous material spill,TechSphere Inc.,Low
+"2201 Lewis Roads St, Atlanta",Compliance,Compliance Score,Upcoming regulatory changes,Quantum Dynamics,Critical
+"6073 Green Isle St, Seattle",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,Medium
+"8505 Tucker Place St, Los Angeles",Tenant Satisfaction,Lease Satisfaction,Multiple noise complaints,NexaRetail,Critical
+"8956 Kevin Forge St, Seattle",Leases,Occupancy,Low renewal rates,Bank of ACME,Low
+"6444 Ellis Corners St, Houston",Compliance,Regulatory Updates,Multiple non-compliance incidents,Quantum Dynamics,Medium
+"385 Bryant Heights St, New York",Tenant Satisfaction,Lease Satisfaction,Multiple noise complaints,StreamView Media,Medium
+"7536 Melissa Trafficway St, Los Angeles",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,StreamView Media,High
+"7234 Morgan Locks St, Atlanta",Tenant Satisfaction,Amenities Feedback,Low lease satisfaction scores,TechSphere Inc.,Low
+"1735 Andrade Camp St, Los Angeles",Tenant Satisfaction,Noise Complaints,Low lease satisfaction scores,NexaRetail,Critical
+"6131 Tyler Mills St, Atlanta",Compliance,Regulatory Updates,Upcoming regulatory changes,Quantum Dynamics,Critical
+"8175 Barbara Creek St, Boston",Accessibility,Elevator Status,Frequent elevator breakdowns,GreenLeaf Co.,Low
+"2278 Jessica Land St, Houston",Work Orders,Completion Rate,Completion Rates below 50%,Quantum Dynamics,Critical
+"3760 King Points St, New York",Energy Usage,Peak Hours,Low energy efficiency,TechSphere Inc.,High
+"4150 Krista Mission St, San Francisco",Safety Incidents,Electrical Issues,Hazardous material spill,Skyline Properties,Critical
+"9647 Anthony Mountain St, Miami",Energy Usage,Off-Hours,Low energy efficiency,Skyline Properties,Low
+"2400 Ward Mountain St, Dallas",Safety Incidents,Electrical Issues,Multiple electrical faults,GreenLeaf Co.,High
+"5857 Rodgers Manor St, San Francisco",Energy Usage,Peak Hours,High energy usage during peak hours,EverGrow Farms,Critical
+"9051 Nguyen Rapid St, New York",Safety Incidents,Electrical Issues,Multiple electrical faults,GreenLeaf Co.,Medium
+"7604 Anderson Forks St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Skyline Properties,Critical
+"1759 Kathryn Vista St, Houston",Work Orders,Completion Rate,Completion Rates below 50%,Quantum Dynamics,Critical
+"9745 Russo Garden St, New York",Compliance,Regulatory Updates,Multiple non-compliance incidents,StreamView Media,Critical
+"7447 Timothy Trail St, Boston",Accessibility,ADA Compliance,Lack of nearby public transport,Skyline Properties,Medium
+"1827 Allen Throughway St, Seattle",Compliance,Regulatory Updates,Multiple non-compliance incidents,NexaRetail,High
+"3566 Hicks Villages St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,NexaRetail,High
+"2157 Lisa Ridges St, Los Angeles",Leases,Occupancy,High number of expiring leases,TechSphere Inc.,High
+"5828 Montoya Causeway St, Miami",Budgets,Energy Cost Variance,Energy Costs above 15% mean,TechSphere Inc.,Medium
+"9595 Davis Islands St, Atlanta",Safety Incidents,Electrical Issues,Multiple electrical faults,Bank of ACME,High
+"5302 Robinson Bypass St, Los Angeles",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,High
+"2930 Sanchez Plains St, New York",Safety Incidents,Electrical Issues,Hazardous material spill,StreamView Media,Critical
+"435 Jillian Estates St, Atlanta",Leases,Renewal Rate,Low renewal rates,TechSphere Inc.,High
+"7571 Ramirez Canyon St, Houston",Compliance,Compliance Score,Upcoming regulatory changes,Skyline Properties,Low
+"1725 Jennifer Skyway St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Skyline Properties,Medium
+"4666 Harding Village St, Atlanta",Budgets,Energy Cost Variance,Energy Costs above 15% mean,StreamView Media,Medium
+"7524 Tracie Ville St, Houston",Accessibility,Public Transport Access,Non-ADA compliant areas,EverGrow Farms,High
+"927 Vasquez Trail St, Atlanta",Tenant Satisfaction,Amenities Feedback,Negative amenities feedback,StreamView Media,Medium
+"7613 Norris Centers St, Miami",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,NexaRetail,Medium
+"5919 Jesse Harbor St, Miami",Compliance,Compliance Score,Upcoming regulatory changes,Skyline Properties,Critical
+"6136 Tammy Ways St, Seattle",Tenant Satisfaction,Amenities Feedback,Multiple noise complaints,NexaRetail,Critical
+"7707 Anthony Extensions St, Dallas",Tenant Satisfaction,Noise Complaints,Negative amenities feedback,EverGrow Farms,High
+"5848 Joseph Alley St, Houston",Safety Incidents,Electrical Issues,Hazardous material spill,EverGrow Farms,Medium
+"7717 Gonzalez Course St, Miami",Energy Usage,Energy Efficiency,Low energy efficiency,GreenLeaf Co.,Medium
+"5540 Jennifer Grove St, Houston",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,High
+"1300 Marcia Haven St, Houston",Energy Usage,Peak Hours,High energy usage during peak hours,Skyline Properties,Low
+"135 Wilkins Neck St, New York",Leases,Occupancy,Low renewal rates,TechSphere Inc.,Medium
+"3776 Julie Hollow St, Chicago",Compliance,Compliance Score,Multiple non-compliance incidents,TechSphere Inc.,High
+"5205 Rose Radial St, Seattle",Tenant Satisfaction,Lease Satisfaction,Low lease satisfaction scores,GreenLeaf Co.,Critical
+"9574 Romero Terrace St, Boston",Energy Usage,Energy Efficiency,High energy usage during peak hours,NexaRetail,Critical
+"3545 Richardson Track St, Miami",Tenant Satisfaction,Noise Complaints,Multiple noise complaints,TechSphere Inc.,Medium
+"2293 Christopher Summit St, New York",Tenant Satisfaction,Amenities Feedback,Negative amenities feedback,Skyline Properties,Critical
+"5415 Soto Haven St, Houston",Accessibility,Elevator Status,Non-ADA compliant areas,Bank of ACME,High
+"6481 Edwards Bridge St, Chicago",Work Orders,Completion Rate,High number of reactive work orders,TechSphere Inc.,Low
+"9027 Clark Village St, San Francisco",Tenant Satisfaction,Lease Satisfaction,Multiple noise complaints,StreamView Media,Medium
+"9655 Aguirre Ridge St, Chicago",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,Low
+"2391 Williams Bridge St, Miami",Energy Usage,Off-Hours,Low energy efficiency,TechSphere Inc.,Critical
+"209 Rita Knolls St, Dallas",Compliance,Compliance Score,Upcoming regulatory changes,GreenLeaf Co.,Low
+"1155 Cameron Port St, Miami",Tenant Satisfaction,Amenities Feedback,Low lease satisfaction scores,EverGrow Farms,Medium
+"5255 Teresa Avenue St, Dallas",Safety Incidents,Hazardous Materials,Hazardous material spill,NexaRetail,Low
+"424 Rogers Cliff St, San Francisco",Accessibility,Public Transport Access,Lack of nearby public transport,NexaRetail,Critical
+"5328 Jones Streets St, San Francisco",Leases,Renewal Rate,Low renewal rates,Skyline Properties,Critical
+"4775 Jay Lakes St, Boston",Compliance,Compliance Score,Multiple non-compliance incidents,NexaRetail,High
+"755 Christine Creek St, Atlanta",Work Orders,Reactive,High number of reactive work orders,Skyline Properties,High
+"4645 Allen Stravenue St, Dallas",Energy Usage,Energy Efficiency,Low energy efficiency,Quantum Dynamics,Low
+"8193 Hayes Shoal St, Houston",Leases,Expiring,Low renewal rates,StreamView Media,Medium
+"7414 Ashley Brooks St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,NexaRetail,Low
+"4058 Navarro Port St, Los Angeles",Safety Incidents,Electrical Issues,Recent fire drill failure,EverGrow Farms,Medium
+"9157 Adams Haven St, Dallas",Leases,Renewal Rate,Low renewal rates,GreenLeaf Co.,Medium
+"1495 Cox Gardens St, Los Angeles",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Skyline Properties,High
+"1376 Warner Park St, New York",Work Orders,Completion Rate,High number of reactive work orders,GreenLeaf Co.,High
+"3999 Williams Stravenue St, Miami",Energy Usage,Energy Efficiency,High energy usage during peak hours,EverGrow Farms,Critical
+"6262 Palmer Corner St, Atlanta",Energy Usage,Peak Hours,High energy usage during peak hours,StreamView Media,Medium
+"1340 Garcia River St, Houston",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Quantum Dynamics,Medium
+"4580 Young Track St, Seattle",Safety Incidents,Fire Safety,Hazardous material spill,Skyline Properties,Medium
+"8719 Kelley Tunnel St, Chicago",Accessibility,Public Transport Access,Frequent elevator breakdowns,Quantum Dynamics,Low
+"8318 Jones Mills St, San Francisco",Leases,Occupancy,Low renewal rates,TechSphere Inc.,Medium
+"4848 Chen Throughway St, Boston",Energy Usage,Off-Hours,High energy usage during peak hours,GreenLeaf Co.,Low
+"7192 Alexandria Extension St, Houston",Safety Incidents,Fire Safety,Hazardous material spill,Bank of ACME,High
+"7846 Jennifer Lodge St, Boston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,NexaRetail,High
+"8289 Hill Canyon St, San Francisco",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,Quantum Dynamics,Low
+"2264 Matthew Pines St, Boston",Safety Incidents,Fire Safety,Hazardous material spill,TechSphere Inc.,Critical
+"7532 Terry Well St, San Francisco",Leases,Renewal Rate,High number of expiring leases,Skyline Properties,High
+"2633 Hamilton Shoal St, Miami",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,High
+"1078 Deborah Locks St, Boston",Work Orders,Completion Rate,Completion Rates below 50%,Skyline Properties,High
+"6338 Jennifer Mount St, San Francisco",Tenant Satisfaction,Amenities Feedback,Multiple noise complaints,StreamView Media,Medium
+"3818 Brad Cliffs St, Atlanta",Leases,Expiring,High number of expiring leases,Quantum Dynamics,High
+"8208 Ward Prairie St, San Francisco",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,EverGrow Farms,Critical
+"6109 Jones Rapid St, Dallas",Leases,Occupancy,High number of expiring leases,Skyline Properties,High
+"6541 Brittany Trafficway St, New York",Work Orders,Completion Rate,High number of reactive work orders,Bank of ACME,Critical
+"1088 Christopher Estate St, Boston",Energy Usage,Peak Hours,Low energy efficiency,GreenLeaf Co.,Medium
+"3294 Krystal Square St, San Francisco",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Quantum Dynamics,Low
+"3459 Erin Ramp St, Los Angeles",Safety Incidents,Hazardous Materials,Recent fire drill failure,StreamView Media,Critical
+"251 Marie Courts St, Miami",Budgets,Budget Compliance,Janitorial Budget above 20% mean,Quantum Dynamics,Low
+"9094 George Port St, Houston",Tenant Satisfaction,Amenities Feedback,Negative amenities feedback,NexaRetail,Low
+"1570 Smith Station St, Boston",Accessibility,Public Transport Access,Frequent elevator breakdowns,Quantum Dynamics,High
+"8912 Marisa Corners St, Boston",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,High
+"8238 Alexandra Walk St, Boston",Tenant Satisfaction,Noise Complaints,Low lease satisfaction scores,Bank of ACME,Low
+"5919 William Land St, Miami",Safety Incidents,Electrical Issues,Multiple electrical faults,EverGrow Farms,Critical
+"4159 Howell Circle St, Los Angeles",Safety Incidents,Hazardous Materials,Recent fire drill failure,GreenLeaf Co.,High
+"999 Walker Place St, Boston",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Low
+"6820 Barker Springs St, Chicago",Safety Incidents,Electrical Issues,Recent fire drill failure,EverGrow Farms,Medium
+"2935 Janet Mission St, New York",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,High
+"2368 Kathryn Village St, Los Angeles",Leases,Occupancy,High number of expiring leases,GreenLeaf Co.,High
+"1528 Warren Fall St, Chicago",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,High
+"5198 Wilkins Road St, Miami",Leases,Occupancy,High number of expiring leases,GreenLeaf Co.,Medium
+"8239 Bray Mount St, Dallas",Work Orders,Preventative,Completion Rates below 50%,StreamView Media,High
+"5543 Andrews Islands St, Dallas",Energy Usage,Energy Efficiency,Low energy efficiency,Quantum Dynamics,High
+"1429 Michael Dam St, New York",Accessibility,ADA Compliance,Lack of nearby public transport,EverGrow Farms,Critical
+"8729 Christina Square St, Boston",Work Orders,Completion Rate,High number of reactive work orders,StreamView Media,Medium
+"5218 Bailey Vista St, Miami",Compliance,Regulatory Updates,Multiple non-compliance incidents,StreamView Media,High
+"9517 Amanda Burg St, Atlanta",Safety Incidents,Electrical Issues,Hazardous material spill,Bank of ACME,Low
+"5347 Hayden Light St, Houston",Safety Incidents,Hazardous Materials,Multiple electrical faults,StreamView Media,High
+"8196 Catherine Manor St, Dallas",Accessibility,Public Transport Access,Non-ADA compliant areas,StreamView Media,High
+"7004 Rachel Ramp St, New York",Safety Incidents,Fire Safety,Recent fire drill failure,Bank of ACME,High
+"3658 Lauren Wells St, Boston",Compliance,Regulatory Updates,Multiple non-compliance incidents,StreamView Media,Critical
+"7330 Davis Ridges St, Dallas",Tenant Satisfaction,Amenities Feedback,Low lease satisfaction scores,Quantum Dynamics,Medium
+"1378 Luis Isle St, San Francisco",Budgets,Budget Compliance,Energy Costs above 15% mean,NexaRetail,High
+"8980 Preston Oval St, New York",Compliance,Compliance Score,Upcoming regulatory changes,EverGrow Farms,High
+"8979 Leslie Valleys St, Atlanta",Accessibility,Elevator Status,Non-ADA compliant areas,Skyline Properties,Critical
+"8241 Robert Isle St, Houston",Accessibility,Elevator Status,Non-ADA compliant areas,GreenLeaf Co.,Low
+"3485 Rachel Plains St, Boston",Work Orders,Reactive,Completion Rates below 50%,NexaRetail,Low
+"3231 Harold Bridge St, Chicago",Safety Incidents,Electrical Issues,Multiple electrical faults,GreenLeaf Co.,High
+"8011 Robert Mill St, Boston",Energy Usage,Peak Hours,Low energy efficiency,NexaRetail,Critical
+"1593 Osborne Key St, Los Angeles",Safety Incidents,Fire Safety,Recent fire drill failure,StreamView Media,Medium
+"413 Kayla Roads St, San Francisco",Leases,Occupancy,Low renewal rates,TechSphere Inc.,High
+"2225 Nancy Trail St, New York",Safety Incidents,Electrical Issues,Hazardous material spill,GreenLeaf Co.,Low
+"8918 Amanda Expressway St, Atlanta",Accessibility,Elevator Status,Frequent elevator breakdowns,StreamView Media,High
+"293 Samantha Village St, Boston",Work Orders,Reactive,Completion Rates below 50%,TechSphere Inc.,Low
+"8748 Rhonda Streets St, Miami",Energy Usage,Off-Hours,Low energy efficiency,StreamView Media,High
+"5536 Leah Port St, Chicago",Tenant Satisfaction,Lease Satisfaction,Multiple noise complaints,TechSphere Inc.,Medium
+"5754 Lisa Course St, New York",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,NexaRetail,Low
+"175 Kristi Throughway St, Seattle",Safety Incidents,Electrical Issues,Hazardous material spill,Bank of ACME,Critical
+"5266 Timothy Springs St, Seattle",Safety Incidents,Fire Safety,Recent fire drill failure,StreamView Media,Low
+"9880 Gary Plaza St, New York",Budgets,Budget Compliance,Energy Costs above 15% mean,Skyline Properties,High
+"6663 Paul Rue St, Los Angeles",Work Orders,Reactive,High number of reactive work orders,NexaRetail,High
+"6494 Victoria Path St, Chicago",Budgets,Budget Compliance,Janitorial Budget above 20% mean,NexaRetail,Low
+"1164 Howard Crescent St, Miami",Accessibility,Elevator Status,Non-ADA compliant areas,Skyline Properties,Low
+"7807 Jesse Squares St, New York",Leases,Renewal Rate,Low renewal rates,NexaRetail,High
+"5100 Ashley Trail St, Dallas",Work Orders,Completion Rate,High number of reactive work orders,EverGrow Farms,High
+"7135 Stacy Lights St, Atlanta",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Skyline Properties,Medium
+"5104 Olson Mission St, Atlanta",Safety Incidents,Hazardous Materials,Multiple electrical faults,StreamView Media,High
+"7955 Dalton Shore St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,High
+"7881 Alexis Lock St, Seattle",Accessibility,Public Transport Access,Lack of nearby public transport,EverGrow Farms,Low
+"2462 Liu Well St, Houston",Energy Usage,Off-Hours,Low energy efficiency,Skyline Properties,Medium
+"3966 Brandt Wells St, Chicago",Leases,Occupancy,Low renewal rates,GreenLeaf Co.,Medium
+"4922 Scott Ville St, San Francisco",Safety Incidents,Hazardous Materials,Hazardous material spill,TechSphere Inc.,High
+"1970 Stephen Rest St, New York",Work Orders,Preventative,High number of reactive work orders,Skyline Properties,High
+"3844 Wheeler Falls St, Seattle",Leases,Occupancy,Low renewal rates,Skyline Properties,Medium
+"2477 Long Point St, Boston",Accessibility,Elevator Status,Frequent elevator breakdowns,TechSphere Inc.,Medium
+"3261 Sara Wall St, Dallas",Accessibility,Elevator Status,Frequent elevator breakdowns,Skyline Properties,Low
+"6680 Amanda Ridges St, Chicago",Tenant Satisfaction,Lease Satisfaction,Negative amenities feedback,GreenLeaf Co.,Medium
+"3358 Olivia Springs St, Miami",Safety Incidents,Electrical Issues,Recent fire drill failure,StreamView Media,High
+"9877 Cook Vista St, New York",Energy Usage,Off-Hours,High energy usage during peak hours,NexaRetail,Medium
+"6252 Tammie Point St, Dallas",Accessibility,ADA Compliance,Lack of nearby public transport,StreamView Media,High
+"3618 Kennedy Shoal St, Chicago",Leases,Renewal Rate,High number of expiring leases,StreamView Media,Critical
+"2614 Sims Lakes St, Boston",Compliance,Regulatory Updates,Multiple non-compliance incidents,Bank of ACME,Medium
+"2572 Villarreal Parkway St, Miami",Work Orders,Preventative,Completion Rates below 50%,TechSphere Inc.,High
+"3458 Anderson Camp St, Atlanta",Energy Usage,Peak Hours,Low energy efficiency,Bank of ACME,Medium
+"5613 Drake Motorway St, San Francisco",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,Quantum Dynamics,Critical
+"3122 Daniel Plains St, Houston",Leases,Renewal Rate,High number of expiring leases,GreenLeaf Co.,Critical
+"8517 Kelly Station St, San Francisco",Tenant Satisfaction,Noise Complaints,Negative amenities feedback,Quantum Dynamics,Medium
+"281 Dana Shore St, Boston",Budgets,Budget Compliance,Energy Costs above 15% mean,GreenLeaf Co.,High
+"5665 Sherman Park St, Dallas",Leases,Renewal Rate,Low renewal rates,EverGrow Farms,Critical
+"7151 Mercer Radial St, Seattle",Leases,Occupancy,High number of expiring leases,GreenLeaf Co.,Critical
+"214 Kaitlin Locks St, Atlanta",Compliance,Non-Compliance Incidents,Multiple non-compliance incidents,NexaRetail,Critical
+"5575 Casey Crescent St, Atlanta",Tenant Satisfaction,Lease Satisfaction,Multiple noise complaints,Quantum Dynamics,Medium
+"5151 Swanson Inlet St, Los Angeles",Energy Usage,Energy Efficiency,High energy usage during peak hours,NexaRetail,Low
+"297 Jose Terrace St, Chicago",Work Orders,Preventative,Completion Rates below 50%,Quantum Dynamics,High
+"4719 Adrian Manor St, Dallas",Work Orders,Reactive,Completion Rates below 50%,StreamView Media,High
+"9378 Matthew Place St, Los Angeles",Accessibility,ADA Compliance,Non-ADA compliant areas,Quantum Dynamics,Low
+"933 Paul Stream St, Dallas",Tenant Satisfaction,Lease Satisfaction,Negative amenities feedback,NexaRetail,High
+"9336 Murray Terrace St, Dallas",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,EverGrow Farms,Medium
+"7911 Doyle Drive St, Boston",Compliance,Regulatory Updates,Multiple non-compliance incidents,EverGrow Farms,Medium
+"1074 Ramirez Forks St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,TechSphere Inc.,Medium
+"2827 Owen Fort St, Los Angeles",Safety Incidents,Electrical Issues,Hazardous material spill,EverGrow Farms,Low
+"6640 Justin Glen St, Seattle",Accessibility,ADA Compliance,Frequent elevator breakdowns,TechSphere Inc.,Medium
+"6697 Cook Village St, New York",Energy Usage,Energy Efficiency,High energy usage during peak hours,StreamView Media,Critical
+"3961 Mitchell Mews St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,TechSphere Inc.,Low
+"8428 Ronald Port St, San Francisco",Leases,Occupancy,High number of expiring leases,StreamView Media,High
+"8749 Boone Village St, Atlanta",Tenant Satisfaction,Noise Complaints,Multiple noise complaints,NexaRetail,Low
+"6498 Higgins Mission St, Seattle",Safety Incidents,Fire Safety,Multiple electrical faults,Quantum Dynamics,Low
+"6511 Warren Locks St, San Francisco",Energy Usage,Off-Hours,Low energy efficiency,StreamView Media,Low
+"5544 Lowe Locks St, Chicago",Accessibility,ADA Compliance,Lack of nearby public transport,Bank of ACME,High
+"4122 Gerald Groves St, San Francisco",Energy Usage,Peak Hours,Low energy efficiency,TechSphere Inc.,High
+"347 Shelton Keys St, Atlanta",Work Orders,Completion Rate,Completion Rates below 50%,TechSphere Inc.,Medium
+"426 James Roads St, Chicago",Safety Incidents,Electrical Issues,Recent fire drill failure,Bank of ACME,Critical
+"8553 Smith Crest St, Houston",Energy Usage,Peak Hours,Low energy efficiency,Bank of ACME,Medium
+"9784 Johnson Route St, Los Angeles",Tenant Satisfaction,Amenities Feedback,Low lease satisfaction scores,TechSphere Inc.,Medium
+"9778 Arthur Villages St, Chicago",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,Quantum Dynamics,Medium
+"4894 Ryan Rapid St, Houston",Energy Usage,Energy Efficiency,High energy usage during peak hours,TechSphere Inc.,Critical
+"3717 Jenkins Track St, Chicago",Energy Usage,Peak Hours,Low energy efficiency,Skyline Properties,Low
+"3177 Andrew Field St, Miami",Energy Usage,Off-Hours,High energy usage during peak hours,Quantum Dynamics,Critical
+"4515 Aguilar Walks St, New York",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,GreenLeaf Co.,Low
+"4180 Rebecca Square St, Chicago",Energy Usage,Energy Efficiency,High energy usage during peak hours,GreenLeaf Co.,Low
+"1640 Hill Neck St, Chicago",Energy Usage,Energy Efficiency,High energy usage during peak hours,Bank of ACME,Medium
+"1411 Craig Crest St, Atlanta",Accessibility,Elevator Status,Frequent elevator breakdowns,Skyline Properties,High
+"1606 Delgado Heights St, Los Angeles",Leases,Occupancy,High number of expiring leases,NexaRetail,Low
+"9640 Kendra Camp St, Atlanta",Energy Usage,Off-Hours,Low energy efficiency,Bank of ACME,High
+"9270 Scott Forks St, Los Angeles",Leases,Occupancy,High number of expiring leases,Skyline Properties,Low
+"2326 Melissa Gateway St, Miami",Accessibility,Public Transport Access,Non-ADA compliant areas,Bank of ACME,Low
+"7303 Jacqueline Garden St, Miami",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,High
+"2387 Amy Cape St, San Francisco",Work Orders,Reactive,Completion Rates below 50%,Bank of ACME,Low
+"9715 April Points St, Chicago",Leases,Occupancy,High number of expiring leases,EverGrow Farms,Critical
+"732 Kyle Vista St, Los Angeles",Compliance,Compliance Score,Upcoming regulatory changes,Quantum Dynamics,Low
+"6862 Janice Locks St, Dallas",Safety Incidents,Hazardous Materials,Hazardous material spill,NexaRetail,Critical
+"8606 Anderson Spurs St, Chicago",Energy Usage,Peak Hours,High energy usage during peak hours,EverGrow Farms,Low
+"3641 Olsen Motorway St, Miami",Safety Incidents,Fire Safety,Recent fire drill failure,Bank of ACME,Low
+"1488 Nicholson Square St, Seattle",Leases,Occupancy,Low renewal rates,GreenLeaf Co.,High
+"3847 Foster Plains St, Los Angeles",Energy Usage,Off-Hours,Low energy efficiency,Skyline Properties,Low
+"334 Jacob Locks St, Boston",Safety Incidents,Fire Safety,Hazardous material spill,Skyline Properties,Low
+"3327 Barnes Summit St, Miami",Accessibility,ADA Compliance,Lack of nearby public transport,StreamView Media,High
+"9477 Angela Radial St, Boston",Energy Usage,Peak Hours,Low energy efficiency,Bank of ACME,Critical
+"9729 Crystal Trail St, New York",Budgets,Budget Compliance,Energy Costs above 15% mean,StreamView Media,High
+"6476 Jon Alley St, San Francisco",Accessibility,Public Transport Access,Non-ADA compliant areas,Quantum Dynamics,Medium
+"8747 Tammy Manors St, Atlanta",Tenant Satisfaction,Lease Satisfaction,Low lease satisfaction scores,Bank of ACME,High
+"275 Washington Ford St, Miami",Work Orders,Reactive,High number of reactive work orders,Skyline Properties,Critical
+"8230 Kathryn Pike St, Boston",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,Bank of ACME,Low
+"1041 Goodwin Plains St, Seattle",Energy Usage,Off-Hours,High energy usage during peak hours,Skyline Properties,Critical
+"3647 Carrie Branch St, New York",Energy Usage,Energy Efficiency,High energy usage during peak hours,Quantum Dynamics,Critical
+"4276 Mcbride Flats St, Los Angeles",Leases,Expiring,Low renewal rates,Skyline Properties,Low
+"7276 Megan Glens St, Seattle",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Skyline Properties,Critical
+"1953 Warren Creek St, New York",Compliance,Compliance Score,Multiple non-compliance incidents,EverGrow Farms,High
+"5085 Ryan Well St, Boston",Budgets,Energy Cost Variance,Energy Costs above 15% mean,Bank of ACME,Critical
+"9305 Watkins Skyway St, San Francisco",Tenant Satisfaction,Noise Complaints,Negative amenities feedback,StreamView Media,Low
+"4289 Eaton Stravenue St, Houston",Safety Incidents,Hazardous Materials,Recent fire drill failure,StreamView Media,Critical
+"5847 Poole Parkways St, San Francisco",Budgets,Budget Compliance,Janitorial Budget above 20% mean,EverGrow Farms,Low
+"6094 Jay Glens St, Los Angeles",Accessibility,ADA Compliance,Non-ADA compliant areas,GreenLeaf Co.,Medium
+"2822 Casey Ranch St, Los Angeles",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Skyline Properties,Medium
+"1878 Krause Cliff St, New York",Budgets,Janitorial Expenses 10% Over Mean,Energy Costs above 15% mean,StreamView Media,Critical
+"3511 Hansen Gateway St, New York",Accessibility,ADA Compliance,Frequent elevator breakdowns,EverGrow Farms,Medium
+"7788 Steven Falls St, Houston",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,High
+"9083 Jennifer View St, Miami",Leases,Expiring,Low renewal rates,GreenLeaf Co.,Critical
+"7265 Brown Divide St, New York",Work Orders,Completion Rate,Completion Rates below 50%,Bank of ACME,High
+"8830 Bean Glen St, Seattle",Budgets,Janitorial Expenses 10% Over Mean,Janitorial Budget above 20% mean,GreenLeaf Co.,High
+"4422 Rivera Corners St, Atlanta",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,High
+"1365 John Canyon St, New York",Safety Incidents,Hazardous Materials,Recent fire drill failure,GreenLeaf Co.,Critical
+"8862 Marissa Ways St, Dallas",Energy Usage,Energy Efficiency,Low energy efficiency,StreamView Media,Medium
+"4202 Mccarthy Parks St, Los Angeles",Work Orders,Reactive,Completion Rates below 50%,NexaRetail,Medium
+"9544 Walter Rest St, Miami",Compliance,Non-Compliance Incidents,Upcoming regulatory changes,TechSphere Inc.,Medium
+"1645 Alejandra Rest St, New York",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,TechSphere Inc.,High
+"1487 Rhonda Lodge St, Houston",Safety Incidents,Fire Safety,Recent fire drill failure,Skyline Properties,Medium
+"4367 Daniel Expressway St, Chicago",Tenant Satisfaction,Amenities Feedback,Negative amenities feedback,EverGrow Farms,Low
+"6709 Stephanie Brook St, Seattle",Leases,Occupancy,Low renewal rates,EverGrow Farms,Critical
+"6953 Cheryl Walks St, Dallas",Budgets,Budget Compliance,Janitorial Budget above 20% mean,GreenLeaf Co.,Critical
+"7993 Gibson Mills St, Seattle",Energy Usage,Off-Hours,Low energy efficiency,EverGrow Farms,Medium
+"5325 Francis Points St, New York",Tenant Satisfaction,Noise Complaints,Low lease satisfaction scores,StreamView Media,Low
+"8668 Haley Canyon St, Seattle",Leases,Occupancy,Low renewal rates,NexaRetail,Critical
+"2855 Whitney Prairie St, Seattle",Work Orders,Completion Rate,Completion Rates below 50%,NexaRetail,Low
+"2235 Peterson Corner St, Houston",Work Orders,Preventative,High number of reactive work orders,GreenLeaf Co.,High
+"9956 Jonathan Parks St, Seattle",Budgets,Energy Cost Variance,Janitorial Budget above 20% mean,Bank of ACME,High
+"1926 Scott Spring St, Atlanta",Energy Usage,Off-Hours,Low energy efficiency,NexaRetail,High
+"3558 Martin Lane St, Dallas",Accessibility,ADA Compliance,Non-ADA compliant areas,NexaRetail,High

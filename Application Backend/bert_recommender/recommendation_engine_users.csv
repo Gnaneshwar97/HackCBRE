@@ -1,0 +1,521 @@
+Name,Email,Role,Business Line,Location,Client,Dashboard,User Activity
+Charles Potts,amy99@hotmail.com,Facility Coordinator,Energy Management,Boston,TechSphere Inc.,Maintenance Schedules,27
+Charles Potts,amy99@hotmail.com,Facility Coordinator,Energy Management,Boston,TechSphere Inc.,Facility Utilization,38
+Charles Potts,amy99@hotmail.com,Facility Coordinator,Energy Management,Boston,TechSphere Inc.,Maintenance Schedules,69
+Shannon Rose,colemantina@gmail.com,Building Manager,Lease Administration,Atlanta,EverGrow Farms,Occupancy Rate,11
+Shannon Rose,colemantina@gmail.com,Building Manager,Lease Administration,Atlanta,EverGrow Farms,Building Health,32
+Kristen Daugherty,thorntondebbie@bailey.com,Asset Manager,Project Management,Dallas,TechSphere Inc.,Asset Valuation,91
+Michael Patrick,jprice@hotmail.com,Maintenance Supervisor,Energy Management,Los Angeles,TechSphere Inc.,Preventative Maintenance,0
+Derrick Stephenson,wilsonpatrick@wilson.info,Technician,Facilities Management,San Francisco,StreamView Media,Work Order Status,96
+Derrick Stephenson,wilsonpatrick@wilson.info,Technician,Facilities Management,San Francisco,StreamView Media,Work Order Status,75
+Derrick Stephenson,wilsonpatrick@wilson.info,Technician,Facilities Management,San Francisco,StreamView Media,Equipment Monitoring,22
+Mitchell Crawford,gabrielle50@phillips-wiley.com,Technician,Lease Administration,San Francisco,EverGrow Farms,Work Order Status,60
+Mitchell Crawford,gabrielle50@phillips-wiley.com,Technician,Lease Administration,San Francisco,EverGrow Farms,Equipment Monitoring,28
+Mitchell Crawford,gabrielle50@phillips-wiley.com,Technician,Lease Administration,San Francisco,EverGrow Farms,Work Order Status,37
+Mitchell Crawford,gabrielle50@phillips-wiley.com,Technician,Lease Administration,San Francisco,EverGrow Farms,Work Order Status,43
+Dr. Justin Nguyen,dianevelazquez@hall.com,Asset Manager,Project Management,Seattle,Quantum Dynamics,Rent Collection,23
+Dr. Justin Nguyen,dianevelazquez@hall.com,Asset Manager,Project Management,Seattle,Quantum Dynamics,Asset Valuation,81
+Dr. Justin Nguyen,dianevelazquez@hall.com,Asset Manager,Project Management,Seattle,Quantum Dynamics,Rent Collection,82
+Dr. Justin Nguyen,dianevelazquez@hall.com,Asset Manager,Project Management,Seattle,Quantum Dynamics,Rent Collection,4
+Allison Dominguez DVM,baldwintracey@frazier-silva.org,Maintenance Supervisor,Facilities Management,Los Angeles,Skyline Properties,Work Order Completion,92
+Allison Dominguez DVM,baldwintracey@frazier-silva.org,Maintenance Supervisor,Facilities Management,Los Angeles,Skyline Properties,Work Order Completion,63
+Allison Dominguez DVM,baldwintracey@frazier-silva.org,Maintenance Supervisor,Facilities Management,Los Angeles,Skyline Properties,Preventative Maintenance,41
+Susan Simon,anna03@yahoo.com,Technician,Facilities Management,Los Angeles,TechSphere Inc.,Equipment Monitoring,94
+Susan Simon,anna03@yahoo.com,Technician,Facilities Management,Los Angeles,TechSphere Inc.,Equipment Monitoring,100
+Susan Simon,anna03@yahoo.com,Technician,Facilities Management,Los Angeles,TechSphere Inc.,Equipment Monitoring,79
+Susan Simon,anna03@yahoo.com,Technician,Facilities Management,Los Angeles,TechSphere Inc.,Work Order Status,7
+Seth Herrera,pettystephen@gmail.com,Facility Coordinator,Occupancy Management,Seattle,Quantum Dynamics,Maintenance Schedules,34
+Seth Herrera,pettystephen@gmail.com,Facility Coordinator,Occupancy Management,Seattle,Quantum Dynamics,Maintenance Schedules,98
+Seth Herrera,pettystephen@gmail.com,Facility Coordinator,Occupancy Management,Seattle,Quantum Dynamics,Facility Utilization,89
+Seth Herrera,pettystephen@gmail.com,Facility Coordinator,Occupancy Management,Seattle,Quantum Dynamics,Facility Utilization,70
+David James,monica14@mason.com,Portfolio Manager,Project Management,Boston,Skyline Properties,Investment Returns,34
+David James,monica14@mason.com,Portfolio Manager,Project Management,Boston,Skyline Properties,Asset Performance,24
+David James,monica14@mason.com,Portfolio Manager,Project Management,Boston,Skyline Properties,Asset Performance,86
+Robert Valdez,yali@tapia.com,Maintenance Supervisor,Facilities Management,Miami,EverGrow Farms,Work Order Completion,49
+Robert Valdez,yali@tapia.com,Maintenance Supervisor,Facilities Management,Miami,EverGrow Farms,Preventative Maintenance,57
+Carl Ramirez,christinebird@watson.com,Chief Engineer,Facilities Management,Miami,StreamView Media,Equipment Health,40
+Carl Ramirez,christinebird@watson.com,Chief Engineer,Facilities Management,Miami,StreamView Media,Energy Usage,92
+Dillon Wiley,slamb@hotmail.com,Facility Coordinator,Lease Administration,New York,NexaRetail,Facility Utilization,64
+Dillon Wiley,slamb@hotmail.com,Facility Coordinator,Lease Administration,New York,NexaRetail,Maintenance Schedules,36
+Veronica Garza,shericampbell@valenzuela-taylor.biz,Asset Manager,Project Management,Seattle,GreenLeaf Co.,Rent Collection,41
+Veronica Garza,shericampbell@valenzuela-taylor.biz,Asset Manager,Project Management,Seattle,GreenLeaf Co.,Rent Collection,0
+Mrs. Teresa Dorsey MD,nancycopeland@hotmail.com,Account Director,Energy Management,New York,StreamView Media,Revenue Metrics,17
+Mrs. Teresa Dorsey MD,nancycopeland@hotmail.com,Account Director,Energy Management,New York,StreamView Media,Client Accounts,47
+Mrs. Teresa Dorsey MD,nancycopeland@hotmail.com,Account Director,Energy Management,New York,StreamView Media,Revenue Metrics,47
+Patricia Cain,gonzalesrichard@johnson.biz,Chief Engineer,Facilities Management,Dallas,EverGrow Farms,Energy Usage,81
+Patricia Cain,gonzalesrichard@johnson.biz,Chief Engineer,Facilities Management,Dallas,EverGrow Farms,Equipment Health,5
+Patricia Cain,gonzalesrichard@johnson.biz,Chief Engineer,Facilities Management,Dallas,EverGrow Farms,Energy Usage,100
+Zachary Woods,danielevans@gmail.com,Account Director,Project Management,Atlanta,StreamView Media,Revenue Metrics,35
+Zachary Woods,danielevans@gmail.com,Account Director,Project Management,Atlanta,StreamView Media,Client Accounts,14
+Zachary Woods,danielevans@gmail.com,Account Director,Project Management,Atlanta,StreamView Media,Client Accounts,5
+Zachary Woods,danielevans@gmail.com,Account Director,Project Management,Atlanta,StreamView Media,Revenue Metrics,21
+Shannon Perkins,christopherprice@miller-brooks.com,Account Director,Project Management,Miami,Bank of ACME,Client Accounts,61
+Joseph Richardson,sray@moore-jones.com,Asset Manager,Facilities Management,New York,StreamView Media,Rent Collection,17
+Mrs. Julia Carter,michaelbrady@walls.net,Facility Coordinator,Occupancy Management,Houston,TechSphere Inc.,Maintenance Schedules,54
+Mrs. Julia Carter,michaelbrady@walls.net,Facility Coordinator,Occupancy Management,Houston,TechSphere Inc.,Maintenance Schedules,35
+Alexandra Wagner,antonio72@hotmail.com,Account Director,Energy Management,Boston,Skyline Properties,Revenue Metrics,26
+Danielle Davis,martha02@cannon-patterson.com,Portfolio Manager,Facilities Management,Dallas,NexaRetail,Asset Performance,25
+Jason Hill,patrickregina@yahoo.com,Asset Manager,Facilities Management,Seattle,TechSphere Inc.,Rent Collection,89
+Jason Hill,patrickregina@yahoo.com,Asset Manager,Facilities Management,Seattle,TechSphere Inc.,Asset Valuation,55
+Joy Duran,uwilliams@gonzalez-west.info,Building Manager,Occupancy Management,Houston,EverGrow Farms,Occupancy Rate,100
+Joy Duran,uwilliams@gonzalez-west.info,Building Manager,Occupancy Management,Houston,EverGrow Farms,Occupancy Rate,82
+Joy Duran,uwilliams@gonzalez-west.info,Building Manager,Occupancy Management,Houston,EverGrow Farms,Occupancy Rate,65
+Gerald Watson,bonnie82@ross-thompson.com,Maintenance Supervisor,Project Management,Seattle,EverGrow Farms,Work Order Completion,15
+Gerald Watson,bonnie82@ross-thompson.com,Maintenance Supervisor,Project Management,Seattle,EverGrow Farms,Work Order Completion,64
+Gerald Watson,bonnie82@ross-thompson.com,Maintenance Supervisor,Project Management,Seattle,EverGrow Farms,Work Order Completion,65
+Gerald Watson,bonnie82@ross-thompson.com,Maintenance Supervisor,Project Management,Seattle,EverGrow Farms,Preventative Maintenance,26
+William Coleman,sandragreen@christensen.com,Leasing Manager,Project Management,Atlanta,NexaRetail,New Leases,78
+William Coleman,sandragreen@christensen.com,Leasing Manager,Project Management,Atlanta,NexaRetail,Lease Expirations,91
+William Coleman,sandragreen@christensen.com,Leasing Manager,Project Management,Atlanta,NexaRetail,New Leases,16
+Lisa Hoffman,yhenry@williams.com,Portfolio Manager,Project Management,New York,Bank of ACME,Investment Returns,84
+Lisa Hoffman,yhenry@williams.com,Portfolio Manager,Project Management,New York,Bank of ACME,Asset Performance,56
+Lisa Hoffman,yhenry@williams.com,Portfolio Manager,Project Management,New York,Bank of ACME,Investment Returns,42
+Christian Davis,gregorycampbell@sosa-hernandez.biz,Asset Manager,Occupancy Management,Atlanta,TechSphere Inc.,Asset Valuation,19
+Bobby George,edalton@kelly.info,Technician,Lease Administration,Dallas,StreamView Media,Equipment Monitoring,35
+Charles Love,mullinssharon@yahoo.com,Building Manager,Facilities Management,Dallas,Bank of ACME,Occupancy Rate,100
+Charles Love,mullinssharon@yahoo.com,Building Manager,Facilities Management,Dallas,Bank of ACME,Building Health,46
+Charles Love,mullinssharon@yahoo.com,Building Manager,Facilities Management,Dallas,Bank of ACME,Building Health,29
+Eugene Scott,rachelsimmons@yahoo.com,Facility Coordinator,Project Management,San Francisco,Quantum Dynamics,Facility Utilization,58
+Eugene Scott,rachelsimmons@yahoo.com,Facility Coordinator,Project Management,San Francisco,Quantum Dynamics,Facility Utilization,36
+Eugene Scott,rachelsimmons@yahoo.com,Facility Coordinator,Project Management,San Francisco,Quantum Dynamics,Maintenance Schedules,16
+Karen Heath,blackwelljoshua@gmail.com,Maintenance Supervisor,Energy Management,Seattle,TechSphere Inc.,Preventative Maintenance,55
+Karen Heath,blackwelljoshua@gmail.com,Maintenance Supervisor,Energy Management,Seattle,TechSphere Inc.,Work Order Completion,75
+Karen Heath,blackwelljoshua@gmail.com,Maintenance Supervisor,Energy Management,Seattle,TechSphere Inc.,Work Order Completion,47
+Karen Heath,blackwelljoshua@gmail.com,Maintenance Supervisor,Energy Management,Seattle,TechSphere Inc.,Work Order Completion,7
+Andrea Valdez,tholt@lewis.com,Portfolio Manager,Lease Administration,Boston,NexaRetail,Asset Performance,29
+Andrea Valdez,tholt@lewis.com,Portfolio Manager,Lease Administration,Boston,NexaRetail,Investment Returns,80
+Andrea Valdez,tholt@lewis.com,Portfolio Manager,Lease Administration,Boston,NexaRetail,Investment Returns,56
+Andrea Valdez,tholt@lewis.com,Portfolio Manager,Lease Administration,Boston,NexaRetail,Investment Returns,33
+Robin Mclaughlin,beasleyanthony@andersen.org,Portfolio Manager,Energy Management,San Francisco,StreamView Media,Investment Returns,48
+Robin Mclaughlin,beasleyanthony@andersen.org,Portfolio Manager,Energy Management,San Francisco,StreamView Media,Asset Performance,84
+Robin Mclaughlin,beasleyanthony@andersen.org,Portfolio Manager,Energy Management,San Francisco,StreamView Media,Investment Returns,26
+Craig Rogers,wanda60@jackson-ochoa.org,Portfolio Manager,Energy Management,San Francisco,NexaRetail,Asset Performance,35
+Craig Rogers,wanda60@jackson-ochoa.org,Portfolio Manager,Energy Management,San Francisco,NexaRetail,Asset Performance,5
+Jesse Lucas,fflores@wagner-russell.com,Chief Engineer,Occupancy Management,Atlanta,TechSphere Inc.,Energy Usage,89
+Jesse Lucas,fflores@wagner-russell.com,Chief Engineer,Occupancy Management,Atlanta,TechSphere Inc.,Energy Usage,8
+Jesse Lucas,fflores@wagner-russell.com,Chief Engineer,Occupancy Management,Atlanta,TechSphere Inc.,Equipment Health,12
+Anna Gibson,sabrinasellers@lawrence.com,Portfolio Manager,Lease Administration,New York,Skyline Properties,Investment Returns,13
+Anna Gibson,sabrinasellers@lawrence.com,Portfolio Manager,Lease Administration,New York,Skyline Properties,Investment Returns,25
+Anna Gibson,sabrinasellers@lawrence.com,Portfolio Manager,Lease Administration,New York,Skyline Properties,Investment Returns,29
+Anna Gibson,sabrinasellers@lawrence.com,Portfolio Manager,Lease Administration,New York,Skyline Properties,Investment Returns,75
+Micheal Clark,florespatricia@harrington.com,Asset Manager,Occupancy Management,Boston,NexaRetail,Rent Collection,98
+Tiffany Hernandez,sara05@marks.com,Asset Manager,Occupancy Management,Dallas,Bank of ACME,Rent Collection,72
+Tiffany Hernandez,sara05@marks.com,Asset Manager,Occupancy Management,Dallas,Bank of ACME,Asset Valuation,41
+Tiffany Hernandez,sara05@marks.com,Asset Manager,Occupancy Management,Dallas,Bank of ACME,Rent Collection,24
+Tiffany Hernandez,sara05@marks.com,Asset Manager,Occupancy Management,Dallas,Bank of ACME,Asset Valuation,94
+Tammy Anderson,ppeterson@gmail.com,Leasing Manager,Facilities Management,Houston,Bank of ACME,New Leases,92
+Tammy Anderson,ppeterson@gmail.com,Leasing Manager,Facilities Management,Houston,Bank of ACME,New Leases,57
+Ariel Miller,diaztara@hotmail.com,Leasing Manager,Occupancy Management,Atlanta,Quantum Dynamics,Lease Expirations,36
+Ariel Miller,diaztara@hotmail.com,Leasing Manager,Occupancy Management,Atlanta,Quantum Dynamics,New Leases,83
+Ariel Miller,diaztara@hotmail.com,Leasing Manager,Occupancy Management,Atlanta,Quantum Dynamics,Lease Expirations,7
+Ariel Miller,diaztara@hotmail.com,Leasing Manager,Occupancy Management,Atlanta,Quantum Dynamics,Lease Expirations,68
+Mary Yang,linda39@davis.com,Maintenance Supervisor,Lease Administration,New York,StreamView Media,Work Order Completion,52
+Mary Yang,linda39@davis.com,Maintenance Supervisor,Lease Administration,New York,StreamView Media,Preventative Maintenance,26
+Lauren Bryan,wwalters@gmail.com,Account Director,Occupancy Management,Seattle,GreenLeaf Co.,Revenue Metrics,92
+Lauren Bryan,wwalters@gmail.com,Account Director,Occupancy Management,Seattle,GreenLeaf Co.,Revenue Metrics,28
+Lauren Bryan,wwalters@gmail.com,Account Director,Occupancy Management,Seattle,GreenLeaf Co.,Client Accounts,57
+Lauren Bryan,wwalters@gmail.com,Account Director,Occupancy Management,Seattle,GreenLeaf Co.,Client Accounts,92
+Jasmine Johnson,zboyd@haynes-adams.info,Account Director,Facilities Management,Boston,StreamView Media,Client Accounts,41
+Jasmine Johnson,zboyd@haynes-adams.info,Account Director,Facilities Management,Boston,StreamView Media,Client Accounts,50
+Jasmine Johnson,zboyd@haynes-adams.info,Account Director,Facilities Management,Boston,StreamView Media,Revenue Metrics,75
+Joshua Williams,bfuentes@hotmail.com,Asset Manager,Project Management,San Francisco,TechSphere Inc.,Asset Valuation,37
+Joshua Williams,bfuentes@hotmail.com,Asset Manager,Project Management,San Francisco,TechSphere Inc.,Rent Collection,49
+Joshua Williams,bfuentes@hotmail.com,Asset Manager,Project Management,San Francisco,TechSphere Inc.,Asset Valuation,79
+Scott Palmer,jamestaylor@yahoo.com,Asset Manager,Facilities Management,New York,TechSphere Inc.,Asset Valuation,54
+Christian Harmon,dariusgonzalez@ibarra.info,Maintenance Supervisor,Project Management,New York,TechSphere Inc.,Work Order Completion,98
+Joseph Stout,taramartin@cunningham.com,Portfolio Manager,Occupancy Management,New York,StreamView Media,Asset Performance,30
+Joseph Stout,taramartin@cunningham.com,Portfolio Manager,Occupancy Management,New York,StreamView Media,Investment Returns,48
+Joseph Stout,taramartin@cunningham.com,Portfolio Manager,Occupancy Management,New York,StreamView Media,Asset Performance,29
+Joseph Stout,taramartin@cunningham.com,Portfolio Manager,Occupancy Management,New York,StreamView Media,Investment Returns,90
+Jody Martinez,alexis55@garrett.net,Leasing Manager,Energy Management,Los Angeles,GreenLeaf Co.,New Leases,47
+Jody Martinez,alexis55@garrett.net,Leasing Manager,Energy Management,Los Angeles,GreenLeaf Co.,Lease Expirations,60
+Jody Martinez,alexis55@garrett.net,Leasing Manager,Energy Management,Los Angeles,GreenLeaf Co.,Lease Expirations,49
+Jody Martinez,alexis55@garrett.net,Leasing Manager,Energy Management,Los Angeles,GreenLeaf Co.,Lease Expirations,50
+Shannon Forbes MD,rhonda17@hotmail.com,Technician,Energy Management,Atlanta,TechSphere Inc.,Equipment Monitoring,93
+Shannon Forbes MD,rhonda17@hotmail.com,Technician,Energy Management,Atlanta,TechSphere Inc.,Equipment Monitoring,56
+Dennis Gibson,wgeorge@rose.com,Asset Manager,Facilities Management,Houston,EverGrow Farms,Asset Valuation,66
+Dennis Gibson,wgeorge@rose.com,Asset Manager,Facilities Management,Houston,EverGrow Farms,Asset Valuation,57
+Dennis Gibson,wgeorge@rose.com,Asset Manager,Facilities Management,Houston,EverGrow Farms,Asset Valuation,33
+Dennis Gibson,wgeorge@rose.com,Asset Manager,Facilities Management,Houston,EverGrow Farms,Rent Collection,80
+Scott Hicks,carsonscott@hotmail.com,Leasing Manager,Energy Management,Miami,Skyline Properties,Lease Expirations,56
+Scott Hicks,carsonscott@hotmail.com,Leasing Manager,Energy Management,Miami,Skyline Properties,Lease Expirations,29
+Heather Woodward,monicaosborne@yahoo.com,Chief Engineer,Occupancy Management,Boston,StreamView Media,Energy Usage,54
+Heather Woodward,monicaosborne@yahoo.com,Chief Engineer,Occupancy Management,Boston,StreamView Media,Energy Usage,7
+Heather Woodward,monicaosborne@yahoo.com,Chief Engineer,Occupancy Management,Boston,StreamView Media,Energy Usage,30
+Valerie Jones,staceyhale@fernandez-martinez.com,Facility Coordinator,Occupancy Management,Boston,Skyline Properties,Maintenance Schedules,73
+Valerie Jones,staceyhale@fernandez-martinez.com,Facility Coordinator,Occupancy Management,Boston,Skyline Properties,Facility Utilization,42
+Valerie Jones,staceyhale@fernandez-martinez.com,Facility Coordinator,Occupancy Management,Boston,Skyline Properties,Maintenance Schedules,24
+Brian Hansen,martinezthomas@hotmail.com,Maintenance Supervisor,Energy Management,New York,Bank of ACME,Work Order Completion,76
+Brian Hansen,martinezthomas@hotmail.com,Maintenance Supervisor,Energy Management,New York,Bank of ACME,Work Order Completion,43
+Brian Hansen,martinezthomas@hotmail.com,Maintenance Supervisor,Energy Management,New York,Bank of ACME,Preventative Maintenance,25
+Brian Hansen,martinezthomas@hotmail.com,Maintenance Supervisor,Energy Management,New York,Bank of ACME,Preventative Maintenance,96
+Mrs. Tracie Stephens DDS,rileycrystal@ruiz.com,Facility Coordinator,Energy Management,Houston,TechSphere Inc.,Maintenance Schedules,10
+Mrs. Tracie Stephens DDS,rileycrystal@ruiz.com,Facility Coordinator,Energy Management,Houston,TechSphere Inc.,Facility Utilization,88
+Emily Smith,james37@burns-garza.net,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,Lease Expirations,98
+Emily Smith,james37@burns-garza.net,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,Lease Expirations,59
+Emily Smith,james37@burns-garza.net,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,New Leases,76
+Emily Smith,james37@burns-garza.net,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,Lease Expirations,75
+Alicia Ryan,dramos@gmail.com,Facility Coordinator,Project Management,Miami,Skyline Properties,Maintenance Schedules,82
+Alicia Ryan,dramos@gmail.com,Facility Coordinator,Project Management,Miami,Skyline Properties,Maintenance Schedules,62
+Chase Ramos,kathrynharrison@yahoo.com,Leasing Manager,Facilities Management,Houston,Quantum Dynamics,New Leases,62
+Chase Ramos,kathrynharrison@yahoo.com,Leasing Manager,Facilities Management,Houston,Quantum Dynamics,Lease Expirations,69
+Jeffrey Dunn,tracy54@valenzuela-kramer.com,Technician,Energy Management,Seattle,EverGrow Farms,Equipment Monitoring,51
+Jeffrey Dunn,tracy54@valenzuela-kramer.com,Technician,Energy Management,Seattle,EverGrow Farms,Equipment Monitoring,68
+Jeffrey Dunn,tracy54@valenzuela-kramer.com,Technician,Energy Management,Seattle,EverGrow Farms,Equipment Monitoring,43
+Monique Hodges,pattersonjulie@house.com,Technician,Energy Management,San Francisco,Quantum Dynamics,Equipment Monitoring,48
+David Cole,gyoung@hotmail.com,Technician,Facilities Management,Chicago,Quantum Dynamics,Equipment Monitoring,48
+David Cole,gyoung@hotmail.com,Technician,Facilities Management,Chicago,Quantum Dynamics,Equipment Monitoring,27
+David Cole,gyoung@hotmail.com,Technician,Facilities Management,Chicago,Quantum Dynamics,Work Order Status,25
+David Cole,gyoung@hotmail.com,Technician,Facilities Management,Chicago,Quantum Dynamics,Equipment Monitoring,65
+Darryl Curtis,edwardsmichael@dunlap-matthews.info,Maintenance Supervisor,Project Management,Houston,TechSphere Inc.,Preventative Maintenance,25
+Nathaniel Griffin,jamescampbell@hotmail.com,Maintenance Supervisor,Energy Management,Dallas,NexaRetail,Work Order Completion,55
+Nathaniel Griffin,jamescampbell@hotmail.com,Maintenance Supervisor,Energy Management,Dallas,NexaRetail,Work Order Completion,47
+Nathaniel Griffin,jamescampbell@hotmail.com,Maintenance Supervisor,Energy Management,Dallas,NexaRetail,Work Order Completion,59
+Patrick Stewart,lopezalexander@green.org,Chief Engineer,Project Management,New York,NexaRetail,Equipment Health,61
+Gerald Carter,colin29@smith-vasquez.com,Leasing Manager,Energy Management,Dallas,StreamView Media,New Leases,100
+Gerald Carter,colin29@smith-vasquez.com,Leasing Manager,Energy Management,Dallas,StreamView Media,New Leases,41
+Gerald Carter,colin29@smith-vasquez.com,Leasing Manager,Energy Management,Dallas,StreamView Media,Lease Expirations,87
+Patrick Haas,ruizkevin@gmail.com,Technician,Facilities Management,Miami,Bank of ACME,Work Order Status,22
+Patrick Haas,ruizkevin@gmail.com,Technician,Facilities Management,Miami,Bank of ACME,Work Order Status,4
+Patrick Haas,ruizkevin@gmail.com,Technician,Facilities Management,Miami,Bank of ACME,Equipment Monitoring,7
+Patrick Haas,ruizkevin@gmail.com,Technician,Facilities Management,Miami,Bank of ACME,Equipment Monitoring,68
+Kim Decker,harmonjoe@hotmail.com,Portfolio Manager,Project Management,Miami,GreenLeaf Co.,Investment Returns,35
+Kim Decker,harmonjoe@hotmail.com,Portfolio Manager,Project Management,Miami,GreenLeaf Co.,Asset Performance,93
+Kim Decker,harmonjoe@hotmail.com,Portfolio Manager,Project Management,Miami,GreenLeaf Co.,Asset Performance,58
+Kim Decker,harmonjoe@hotmail.com,Portfolio Manager,Project Management,Miami,GreenLeaf Co.,Asset Performance,75
+Daniel Chambers,martinrachel@hawkins.info,Leasing Manager,Facilities Management,Atlanta,TechSphere Inc.,Lease Expirations,41
+Daniel Chambers,martinrachel@hawkins.info,Leasing Manager,Facilities Management,Atlanta,TechSphere Inc.,Lease Expirations,5
+Daniel Chambers,martinrachel@hawkins.info,Leasing Manager,Facilities Management,Atlanta,TechSphere Inc.,New Leases,50
+Larry Duncan,hthornton@lucas.com,Building Manager,Facilities Management,Los Angeles,StreamView Media,Occupancy Rate,79
+Larry Duncan,hthornton@lucas.com,Building Manager,Facilities Management,Los Angeles,StreamView Media,Occupancy Rate,50
+Franklin Gibson MD,grahamjamie@hotmail.com,Facility Coordinator,Energy Management,Houston,EverGrow Farms,Maintenance Schedules,17
+Franklin Gibson MD,grahamjamie@hotmail.com,Facility Coordinator,Energy Management,Houston,EverGrow Farms,Facility Utilization,86
+Franklin Gibson MD,grahamjamie@hotmail.com,Facility Coordinator,Energy Management,Houston,EverGrow Farms,Maintenance Schedules,57
+Bradley Jenkins,lmitchell@gmail.com,Leasing Manager,Facilities Management,Miami,Skyline Properties,New Leases,36
+Bradley Jenkins,lmitchell@gmail.com,Leasing Manager,Facilities Management,Miami,Skyline Properties,Lease Expirations,9
+Bradley Jenkins,lmitchell@gmail.com,Leasing Manager,Facilities Management,Miami,Skyline Properties,New Leases,23
+Bradley Jenkins,lmitchell@gmail.com,Leasing Manager,Facilities Management,Miami,Skyline Properties,Lease Expirations,69
+Virginia Walton,sergio44@luna.com,Account Director,Occupancy Management,San Francisco,NexaRetail,Revenue Metrics,34
+Virginia Walton,sergio44@luna.com,Account Director,Occupancy Management,San Francisco,NexaRetail,Revenue Metrics,83
+Virginia Walton,sergio44@luna.com,Account Director,Occupancy Management,San Francisco,NexaRetail,Client Accounts,63
+Virginia Walton,sergio44@luna.com,Account Director,Occupancy Management,San Francisco,NexaRetail,Client Accounts,25
+Gregory Brown,john59@yahoo.com,Leasing Manager,Lease Administration,Houston,EverGrow Farms,New Leases,78
+Gregory Brown,john59@yahoo.com,Leasing Manager,Lease Administration,Houston,EverGrow Farms,New Leases,87
+Gregory Brown,john59@yahoo.com,Leasing Manager,Lease Administration,Houston,EverGrow Farms,New Leases,23
+Audrey Hamilton,bsnow@hotmail.com,Asset Manager,Energy Management,Atlanta,Bank of ACME,Asset Valuation,90
+Audrey Hamilton,bsnow@hotmail.com,Asset Manager,Energy Management,Atlanta,Bank of ACME,Rent Collection,39
+Audrey Hamilton,bsnow@hotmail.com,Asset Manager,Energy Management,Atlanta,Bank of ACME,Asset Valuation,81
+Audrey Hamilton,bsnow@hotmail.com,Asset Manager,Energy Management,Atlanta,Bank of ACME,Asset Valuation,40
+Andrea Long,wilcoxaustin@hernandez-clark.com,Chief Engineer,Energy Management,Los Angeles,Skyline Properties,Energy Usage,53
+Ronald Pineda,stevenfloyd@hotmail.com,Leasing Manager,Project Management,San Francisco,NexaRetail,Lease Expirations,25
+Ronald Pineda,stevenfloyd@hotmail.com,Leasing Manager,Project Management,San Francisco,NexaRetail,New Leases,53
+Ronald Pineda,stevenfloyd@hotmail.com,Leasing Manager,Project Management,San Francisco,NexaRetail,Lease Expirations,14
+Ronald Pineda,stevenfloyd@hotmail.com,Leasing Manager,Project Management,San Francisco,NexaRetail,Lease Expirations,98
+Kevin Kennedy,kevinrodriguez@morgan.info,Leasing Manager,Occupancy Management,Dallas,NexaRetail,Lease Expirations,54
+Kevin Kennedy,kevinrodriguez@morgan.info,Leasing Manager,Occupancy Management,Dallas,NexaRetail,Lease Expirations,96
+Kevin Kennedy,kevinrodriguez@morgan.info,Leasing Manager,Occupancy Management,Dallas,NexaRetail,New Leases,69
+Diana Cooper,michaelcarlson@hotmail.com,Chief Engineer,Occupancy Management,Boston,GreenLeaf Co.,Energy Usage,100
+Diana Cooper,michaelcarlson@hotmail.com,Chief Engineer,Occupancy Management,Boston,GreenLeaf Co.,Energy Usage,20
+John Wright,deckervanessa@miller-harris.org,Leasing Manager,Project Management,New York,Bank of ACME,Lease Expirations,52
+John Wright,deckervanessa@miller-harris.org,Leasing Manager,Project Management,New York,Bank of ACME,New Leases,20
+John Wright,deckervanessa@miller-harris.org,Leasing Manager,Project Management,New York,Bank of ACME,Lease Expirations,36
+Christopher Wood,ashley27@horton.info,Account Director,Project Management,Los Angeles,Skyline Properties,Client Accounts,82
+Christopher Wood,ashley27@horton.info,Account Director,Project Management,Los Angeles,Skyline Properties,Revenue Metrics,36
+Christopher Wood,ashley27@horton.info,Account Director,Project Management,Los Angeles,Skyline Properties,Revenue Metrics,28
+Debra Davidson,nedwards@wilson-jenkins.com,Maintenance Supervisor,Energy Management,Dallas,GreenLeaf Co.,Preventative Maintenance,62
+Debra Davidson,nedwards@wilson-jenkins.com,Maintenance Supervisor,Energy Management,Dallas,GreenLeaf Co.,Work Order Completion,98
+Debra Davidson,nedwards@wilson-jenkins.com,Maintenance Supervisor,Energy Management,Dallas,GreenLeaf Co.,Work Order Completion,90
+Debra Davidson,nedwards@wilson-jenkins.com,Maintenance Supervisor,Energy Management,Dallas,GreenLeaf Co.,Preventative Maintenance,16
+Stephen Conway,marioscott@diaz.com,Portfolio Manager,Occupancy Management,Atlanta,GreenLeaf Co.,Asset Performance,15
+Stephen Conway,marioscott@diaz.com,Portfolio Manager,Occupancy Management,Atlanta,GreenLeaf Co.,Asset Performance,36
+Stephen Conway,marioscott@diaz.com,Portfolio Manager,Occupancy Management,Atlanta,GreenLeaf Co.,Asset Performance,100
+Frederick Goodman,veronicablevins@gmail.com,Account Director,Occupancy Management,Boston,TechSphere Inc.,Client Accounts,37
+Frederick Goodman,veronicablevins@gmail.com,Account Director,Occupancy Management,Boston,TechSphere Inc.,Client Accounts,50
+Frederick Goodman,veronicablevins@gmail.com,Account Director,Occupancy Management,Boston,TechSphere Inc.,Revenue Metrics,46
+Melissa Phillips,erincastro@hotmail.com,Facility Coordinator,Occupancy Management,Los Angeles,Quantum Dynamics,Maintenance Schedules,82
+Frank Davis,abbottanthony@yahoo.com,Maintenance Supervisor,Lease Administration,Dallas,EverGrow Farms,Work Order Completion,5
+Frank Davis,abbottanthony@yahoo.com,Maintenance Supervisor,Lease Administration,Dallas,EverGrow Farms,Preventative Maintenance,21
+Frank Davis,abbottanthony@yahoo.com,Maintenance Supervisor,Lease Administration,Dallas,EverGrow Farms,Work Order Completion,60
+Frank Davis,abbottanthony@yahoo.com,Maintenance Supervisor,Lease Administration,Dallas,EverGrow Farms,Preventative Maintenance,43
+Jeremy White,jamesharper@yahoo.com,Chief Engineer,Project Management,Los Angeles,StreamView Media,Equipment Health,83
+Amanda Wise,peter00@hotmail.com,Portfolio Manager,Project Management,Dallas,StreamView Media,Asset Performance,16
+Julie Wright,kyle91@yahoo.com,Portfolio Manager,Facilities Management,Chicago,GreenLeaf Co.,Investment Returns,9
+Tina Thompson,jhardy@martin-brown.com,Account Director,Occupancy Management,Atlanta,TechSphere Inc.,Revenue Metrics,27
+Tina Thompson,jhardy@martin-brown.com,Account Director,Occupancy Management,Atlanta,TechSphere Inc.,Revenue Metrics,68
+Tina Thompson,jhardy@martin-brown.com,Account Director,Occupancy Management,Atlanta,TechSphere Inc.,Revenue Metrics,78
+Tina Thompson,jhardy@martin-brown.com,Account Director,Occupancy Management,Atlanta,TechSphere Inc.,Client Accounts,56
+Tara Parker,kiddmary@ross.info,Technician,Lease Administration,Chicago,Skyline Properties,Equipment Monitoring,4
+Tara Parker,kiddmary@ross.info,Technician,Lease Administration,Chicago,Skyline Properties,Equipment Monitoring,99
+Tara Parker,kiddmary@ross.info,Technician,Lease Administration,Chicago,Skyline Properties,Equipment Monitoring,97
+Wesley Smith,lgarcia@gmail.com,Maintenance Supervisor,Lease Administration,Boston,NexaRetail,Work Order Completion,70
+Wesley Smith,lgarcia@gmail.com,Maintenance Supervisor,Lease Administration,Boston,NexaRetail,Work Order Completion,75
+Michael Bryant,logan86@hotmail.com,Portfolio Manager,Project Management,Seattle,NexaRetail,Asset Performance,67
+Danielle Wilson,daniel51@vasquez-brown.biz,Facility Coordinator,Energy Management,San Francisco,TechSphere Inc.,Maintenance Schedules,2
+Danielle Wilson,daniel51@vasquez-brown.biz,Facility Coordinator,Energy Management,San Francisco,TechSphere Inc.,Facility Utilization,95
+Danielle Wilson,daniel51@vasquez-brown.biz,Facility Coordinator,Energy Management,San Francisco,TechSphere Inc.,Maintenance Schedules,3
+Theodore Meza,jennifer77@yahoo.com,Facility Coordinator,Energy Management,Houston,Quantum Dynamics,Facility Utilization,14
+Theodore Meza,jennifer77@yahoo.com,Facility Coordinator,Energy Management,Houston,Quantum Dynamics,Maintenance Schedules,91
+Justin Odonnell,gilbertedwards@yahoo.com,Maintenance Supervisor,Facilities Management,Miami,Bank of ACME,Preventative Maintenance,15
+Justin Odonnell,gilbertedwards@yahoo.com,Maintenance Supervisor,Facilities Management,Miami,Bank of ACME,Work Order Completion,75
+Edward Martinez,lori69@meyer.info,Building Manager,Facilities Management,Dallas,GreenLeaf Co.,Occupancy Rate,85
+Edward Martinez,lori69@meyer.info,Building Manager,Facilities Management,Dallas,GreenLeaf Co.,Building Health,58
+Edward Martinez,lori69@meyer.info,Building Manager,Facilities Management,Dallas,GreenLeaf Co.,Building Health,11
+Gina Hahn,fernandezsteven@yahoo.com,Chief Engineer,Project Management,Houston,NexaRetail,Equipment Health,46
+Mary Burgess,elizabethwarner@coleman.com,Leasing Manager,Lease Administration,Miami,NexaRetail,New Leases,62
+Mary Burgess,elizabethwarner@coleman.com,Leasing Manager,Lease Administration,Miami,NexaRetail,Lease Expirations,68
+Edward Gibson,brianharris@nunez.info,Facility Coordinator,Project Management,New York,Quantum Dynamics,Maintenance Schedules,6
+Edward Gibson,brianharris@nunez.info,Facility Coordinator,Project Management,New York,Quantum Dynamics,Facility Utilization,16
+Edward Gibson,brianharris@nunez.info,Facility Coordinator,Project Management,New York,Quantum Dynamics,Maintenance Schedules,28
+Jamie Stanton,anthony89@james-ramos.com,Facility Coordinator,Facilities Management,Miami,Bank of ACME,Facility Utilization,23
+Michelle Bryant,beckycross@yahoo.com,Leasing Manager,Lease Administration,Dallas,GreenLeaf Co.,Lease Expirations,16
+Michelle Bryant,beckycross@yahoo.com,Leasing Manager,Lease Administration,Dallas,GreenLeaf Co.,New Leases,76
+Dawn Thompson,fmckinney@yahoo.com,Portfolio Manager,Lease Administration,San Francisco,EverGrow Farms,Investment Returns,92
+Dawn Thompson,fmckinney@yahoo.com,Portfolio Manager,Lease Administration,San Francisco,EverGrow Farms,Asset Performance,42
+Dawn Thompson,fmckinney@yahoo.com,Portfolio Manager,Lease Administration,San Francisco,EverGrow Farms,Investment Returns,59
+Stephanie Williams,megan24@gmail.com,Leasing Manager,Facilities Management,Chicago,Quantum Dynamics,Lease Expirations,51
+Stephanie Williams,megan24@gmail.com,Leasing Manager,Facilities Management,Chicago,Quantum Dynamics,Lease Expirations,65
+Adriana Martinez,aaronmckay@yahoo.com,Chief Engineer,Lease Administration,New York,TechSphere Inc.,Energy Usage,76
+Adriana Martinez,aaronmckay@yahoo.com,Chief Engineer,Lease Administration,New York,TechSphere Inc.,Equipment Health,83
+Adriana Martinez,aaronmckay@yahoo.com,Chief Engineer,Lease Administration,New York,TechSphere Inc.,Equipment Health,69
+Adriana Martinez,aaronmckay@yahoo.com,Chief Engineer,Lease Administration,New York,TechSphere Inc.,Energy Usage,0
+Desiree Smith,valentinescott@hotmail.com,Technician,Occupancy Management,Los Angeles,TechSphere Inc.,Equipment Monitoring,16
+Desiree Smith,valentinescott@hotmail.com,Technician,Occupancy Management,Los Angeles,TechSphere Inc.,Equipment Monitoring,4
+Desiree Smith,valentinescott@hotmail.com,Technician,Occupancy Management,Los Angeles,TechSphere Inc.,Work Order Status,19
+Desiree Smith,valentinescott@hotmail.com,Technician,Occupancy Management,Los Angeles,TechSphere Inc.,Work Order Status,96
+Jordan Lawrence,patriciahammond@gmail.com,Leasing Manager,Occupancy Management,Los Angeles,Skyline Properties,Lease Expirations,9
+Jordan Lawrence,patriciahammond@gmail.com,Leasing Manager,Occupancy Management,Los Angeles,Skyline Properties,Lease Expirations,2
+Phillip Price,james81@gmail.com,Account Director,Occupancy Management,San Francisco,Skyline Properties,Client Accounts,0
+Phillip Price,james81@gmail.com,Account Director,Occupancy Management,San Francisco,Skyline Properties,Client Accounts,18
+Phillip Price,james81@gmail.com,Account Director,Occupancy Management,San Francisco,Skyline Properties,Revenue Metrics,88
+Phillip Price,james81@gmail.com,Account Director,Occupancy Management,San Francisco,Skyline Properties,Revenue Metrics,40
+Karen Fernandez,oscar26@williams-clark.org,Portfolio Manager,Lease Administration,Boston,TechSphere Inc.,Investment Returns,62
+Karen Fernandez,oscar26@williams-clark.org,Portfolio Manager,Lease Administration,Boston,TechSphere Inc.,Investment Returns,91
+Karen Fernandez,oscar26@williams-clark.org,Portfolio Manager,Lease Administration,Boston,TechSphere Inc.,Asset Performance,39
+Karen Fernandez,oscar26@williams-clark.org,Portfolio Manager,Lease Administration,Boston,TechSphere Inc.,Asset Performance,37
+Leah Lang,amy94@hotmail.com,Building Manager,Project Management,Los Angeles,Bank of ACME,Building Health,56
+Leah Lang,amy94@hotmail.com,Building Manager,Project Management,Los Angeles,Bank of ACME,Building Health,74
+Leah Lang,amy94@hotmail.com,Building Manager,Project Management,Los Angeles,Bank of ACME,Occupancy Rate,41
+Elizabeth Wood,shannontimothy@smith-ho.com,Account Director,Project Management,Dallas,TechSphere Inc.,Client Accounts,88
+William Blackwell,gholden@gmail.com,Leasing Manager,Occupancy Management,Dallas,Skyline Properties,Lease Expirations,20
+William Blackwell,gholden@gmail.com,Leasing Manager,Occupancy Management,Dallas,Skyline Properties,Lease Expirations,39
+William Blackwell,gholden@gmail.com,Leasing Manager,Occupancy Management,Dallas,Skyline Properties,Lease Expirations,42
+William Blackwell,gholden@gmail.com,Leasing Manager,Occupancy Management,Dallas,Skyline Properties,Lease Expirations,76
+Marcus Tate,jcantu@welch-lee.com,Portfolio Manager,Project Management,Seattle,StreamView Media,Asset Performance,100
+Marcus Tate,jcantu@welch-lee.com,Portfolio Manager,Project Management,Seattle,StreamView Media,Asset Performance,65
+Marcus Tate,jcantu@welch-lee.com,Portfolio Manager,Project Management,Seattle,StreamView Media,Investment Returns,31
+Marcus Tate,jcantu@welch-lee.com,Portfolio Manager,Project Management,Seattle,StreamView Media,Investment Returns,8
+Angel Rodriguez,mpittman@marshall.com,Technician,Occupancy Management,Atlanta,NexaRetail,Work Order Status,61
+Ryan Mays,mlopez@houston.com,Building Manager,Facilities Management,Dallas,Skyline Properties,Occupancy Rate,70
+Ryan Mays,mlopez@houston.com,Building Manager,Facilities Management,Dallas,Skyline Properties,Building Health,71
+Steven Mercer,waltersbrandy@torres.com,Facility Coordinator,Energy Management,Seattle,Bank of ACME,Maintenance Schedules,3
+Steven Mercer,waltersbrandy@torres.com,Facility Coordinator,Energy Management,Seattle,Bank of ACME,Facility Utilization,48
+Steven Mercer,waltersbrandy@torres.com,Facility Coordinator,Energy Management,Seattle,Bank of ACME,Facility Utilization,63
+Steven Mercer,waltersbrandy@torres.com,Facility Coordinator,Energy Management,Seattle,Bank of ACME,Maintenance Schedules,99
+Harold Carrillo,adamslaura@lyons.com,Technician,Occupancy Management,Atlanta,Bank of ACME,Work Order Status,21
+Amanda Clark,eatonamy@ingram.info,Building Manager,Facilities Management,Atlanta,StreamView Media,Building Health,54
+Amanda Clark,eatonamy@ingram.info,Building Manager,Facilities Management,Atlanta,StreamView Media,Building Health,57
+Amanda Clark,eatonamy@ingram.info,Building Manager,Facilities Management,Atlanta,StreamView Media,Building Health,21
+Amanda Clark,eatonamy@ingram.info,Building Manager,Facilities Management,Atlanta,StreamView Media,Building Health,0
+Miss Rebecca Maldonado,ocrawford@hotmail.com,Technician,Occupancy Management,Dallas,Quantum Dynamics,Equipment Monitoring,94
+Miss Rebecca Maldonado,ocrawford@hotmail.com,Technician,Occupancy Management,Dallas,Quantum Dynamics,Work Order Status,1
+Miss Rebecca Maldonado,ocrawford@hotmail.com,Technician,Occupancy Management,Dallas,Quantum Dynamics,Work Order Status,38
+Tracy Reynolds,djohnson@yahoo.com,Portfolio Manager,Lease Administration,Los Angeles,StreamView Media,Asset Performance,30
+Nathaniel Stuart,sarah81@hotmail.com,Technician,Energy Management,Seattle,TechSphere Inc.,Equipment Monitoring,49
+Robert Winters,coxamy@thomas-chavez.com,Chief Engineer,Facilities Management,Miami,Skyline Properties,Energy Usage,66
+Robert Winters,coxamy@thomas-chavez.com,Chief Engineer,Facilities Management,Miami,Skyline Properties,Equipment Health,7
+Robert Winters,coxamy@thomas-chavez.com,Chief Engineer,Facilities Management,Miami,Skyline Properties,Energy Usage,21
+Scott Vega,kevin89@yahoo.com,Asset Manager,Facilities Management,Los Angeles,TechSphere Inc.,Rent Collection,84
+Scott Vega,kevin89@yahoo.com,Asset Manager,Facilities Management,Los Angeles,TechSphere Inc.,Rent Collection,89
+Scott Vega,kevin89@yahoo.com,Asset Manager,Facilities Management,Los Angeles,TechSphere Inc.,Rent Collection,29
+Jessica Fischer,gwood@hotmail.com,Building Manager,Project Management,Miami,Skyline Properties,Occupancy Rate,90
+Jessica Fischer,gwood@hotmail.com,Building Manager,Project Management,Miami,Skyline Properties,Occupancy Rate,93
+Jessica Fischer,gwood@hotmail.com,Building Manager,Project Management,Miami,Skyline Properties,Building Health,32
+Jessica Fischer,gwood@hotmail.com,Building Manager,Project Management,Miami,Skyline Properties,Occupancy Rate,56
+Johnathan Bennett,santanabrandon@hotmail.com,Portfolio Manager,Lease Administration,Houston,Quantum Dynamics,Asset Performance,18
+Johnathan Bennett,santanabrandon@hotmail.com,Portfolio Manager,Lease Administration,Houston,Quantum Dynamics,Investment Returns,88
+Michelle Mcdonald,jordan47@smith.com,Asset Manager,Project Management,Atlanta,NexaRetail,Rent Collection,96
+Michelle Mcdonald,jordan47@smith.com,Asset Manager,Project Management,Atlanta,NexaRetail,Asset Valuation,22
+Michelle Mcdonald,jordan47@smith.com,Asset Manager,Project Management,Atlanta,NexaRetail,Asset Valuation,68
+Tyler Hawkins,xmercer@horn-morris.info,Facility Coordinator,Lease Administration,Chicago,StreamView Media,Maintenance Schedules,97
+Tyler Hawkins,xmercer@horn-morris.info,Facility Coordinator,Lease Administration,Chicago,StreamView Media,Maintenance Schedules,84
+Patricia Martin,cynthiastrong@perkins.biz,Building Manager,Energy Management,Chicago,Skyline Properties,Building Health,76
+Patricia Martin,cynthiastrong@perkins.biz,Building Manager,Energy Management,Chicago,Skyline Properties,Occupancy Rate,41
+Brandon Ellis,mayala@yahoo.com,Maintenance Supervisor,Facilities Management,Houston,GreenLeaf Co.,Work Order Completion,54
+Brandon Ellis,mayala@yahoo.com,Maintenance Supervisor,Facilities Management,Houston,GreenLeaf Co.,Preventative Maintenance,43
+Justin Williams,blakemelissa@hotmail.com,Chief Engineer,Facilities Management,Dallas,StreamView Media,Equipment Health,35
+Justin Williams,blakemelissa@hotmail.com,Chief Engineer,Facilities Management,Dallas,StreamView Media,Energy Usage,36
+Betty Lin,youngrichard@gmail.com,Facility Coordinator,Occupancy Management,Boston,Skyline Properties,Facility Utilization,84
+Betty Lin,youngrichard@gmail.com,Facility Coordinator,Occupancy Management,Boston,Skyline Properties,Maintenance Schedules,70
+Betty Lin,youngrichard@gmail.com,Facility Coordinator,Occupancy Management,Boston,Skyline Properties,Maintenance Schedules,34
+Betty Lin,youngrichard@gmail.com,Facility Coordinator,Occupancy Management,Boston,Skyline Properties,Facility Utilization,2
+Vanessa Powell,lblake@gmail.com,Facility Coordinator,Project Management,Houston,TechSphere Inc.,Maintenance Schedules,84
+Kevin Cross,dorothyparks@gmail.com,Portfolio Manager,Occupancy Management,Seattle,Skyline Properties,Investment Returns,58
+Kevin Cross,dorothyparks@gmail.com,Portfolio Manager,Occupancy Management,Seattle,Skyline Properties,Asset Performance,45
+Kevin Cross,dorothyparks@gmail.com,Portfolio Manager,Occupancy Management,Seattle,Skyline Properties,Investment Returns,81
+Kevin Cross,dorothyparks@gmail.com,Portfolio Manager,Occupancy Management,Seattle,Skyline Properties,Investment Returns,6
+Dustin Hernandez,colemandanielle@gmail.com,Facility Coordinator,Energy Management,Chicago,Bank of ACME,Maintenance Schedules,0
+Dustin Hernandez,colemandanielle@gmail.com,Facility Coordinator,Energy Management,Chicago,Bank of ACME,Facility Utilization,72
+Dustin Hernandez,colemandanielle@gmail.com,Facility Coordinator,Energy Management,Chicago,Bank of ACME,Facility Utilization,22
+Dustin Hernandez,colemandanielle@gmail.com,Facility Coordinator,Energy Management,Chicago,Bank of ACME,Maintenance Schedules,78
+Jeffrey Little,kwalters@bonilla.info,Chief Engineer,Occupancy Management,Miami,Quantum Dynamics,Equipment Health,51
+Jeffrey Little,kwalters@bonilla.info,Chief Engineer,Occupancy Management,Miami,Quantum Dynamics,Energy Usage,7
+Jeffrey Little,kwalters@bonilla.info,Chief Engineer,Occupancy Management,Miami,Quantum Dynamics,Equipment Health,80
+Debbie Smith,jason54@hotmail.com,Building Manager,Facilities Management,Los Angeles,EverGrow Farms,Building Health,6
+William Smith,whitetara@johnson.com,Portfolio Manager,Project Management,Seattle,Skyline Properties,Asset Performance,95
+William Smith,whitetara@johnson.com,Portfolio Manager,Project Management,Seattle,Skyline Properties,Asset Performance,24
+William Smith,whitetara@johnson.com,Portfolio Manager,Project Management,Seattle,Skyline Properties,Investment Returns,0
+Stacey Flores,joseph42@becker.info,Account Director,Energy Management,Seattle,EverGrow Farms,Revenue Metrics,0
+Stacey Flores,joseph42@becker.info,Account Director,Energy Management,Seattle,EverGrow Farms,Revenue Metrics,54
+Stacey Flores,joseph42@becker.info,Account Director,Energy Management,Seattle,EverGrow Farms,Client Accounts,54
+Stacey Flores,joseph42@becker.info,Account Director,Energy Management,Seattle,EverGrow Farms,Client Accounts,89
+Rebecca Bullock,djones@scott.org,Asset Manager,Facilities Management,New York,TechSphere Inc.,Rent Collection,10
+Rebecca Bullock,djones@scott.org,Asset Manager,Facilities Management,New York,TechSphere Inc.,Rent Collection,85
+Rebecca Bullock,djones@scott.org,Asset Manager,Facilities Management,New York,TechSphere Inc.,Asset Valuation,88
+Rebecca Bullock,djones@scott.org,Asset Manager,Facilities Management,New York,TechSphere Inc.,Asset Valuation,63
+Haley Chen,williamramirez@hotmail.com,Portfolio Manager,Occupancy Management,New York,GreenLeaf Co.,Investment Returns,86
+Haley Chen,williamramirez@hotmail.com,Portfolio Manager,Occupancy Management,New York,GreenLeaf Co.,Asset Performance,97
+Haley Chen,williamramirez@hotmail.com,Portfolio Manager,Occupancy Management,New York,GreenLeaf Co.,Asset Performance,93
+Larry Buchanan,ddurham@hotmail.com,Building Manager,Lease Administration,San Francisco,Skyline Properties,Occupancy Rate,38
+Larry Buchanan,ddurham@hotmail.com,Building Manager,Lease Administration,San Francisco,Skyline Properties,Occupancy Rate,73
+Larry Buchanan,ddurham@hotmail.com,Building Manager,Lease Administration,San Francisco,Skyline Properties,Building Health,17
+Larry Buchanan,ddurham@hotmail.com,Building Manager,Lease Administration,San Francisco,Skyline Properties,Building Health,24
+Julie Anderson,ebony21@jordan.com,Portfolio Manager,Project Management,Los Angeles,StreamView Media,Asset Performance,68
+Michelle Farrell,gainesjustin@park-johnson.com,Facility Coordinator,Project Management,Seattle,Quantum Dynamics,Facility Utilization,48
+Michelle Farrell,gainesjustin@park-johnson.com,Facility Coordinator,Project Management,Seattle,Quantum Dynamics,Maintenance Schedules,20
+Cody Rivas,adamcole@david.com,Maintenance Supervisor,Occupancy Management,Dallas,Quantum Dynamics,Preventative Maintenance,96
+Jessica Kline,jmitchell@wheeler-campbell.com,Technician,Project Management,Los Angeles,NexaRetail,Equipment Monitoring,99
+Jessica Kline,jmitchell@wheeler-campbell.com,Technician,Project Management,Los Angeles,NexaRetail,Equipment Monitoring,17
+Angelica Novak,rdunlap@yahoo.com,Leasing Manager,Energy Management,Chicago,GreenLeaf Co.,New Leases,18
+Angelica Novak,rdunlap@yahoo.com,Leasing Manager,Energy Management,Chicago,GreenLeaf Co.,Lease Expirations,82
+Richard Gomez,jensenlori@werner.com,Leasing Manager,Occupancy Management,Seattle,Quantum Dynamics,New Leases,53
+Richard Gomez,jensenlori@werner.com,Leasing Manager,Occupancy Management,Seattle,Quantum Dynamics,New Leases,53
+Sherry Tran,moraleskarla@hendrix-anderson.com,Facility Coordinator,Energy Management,New York,Bank of ACME,Maintenance Schedules,8
+Nicole Hines,tara62@hotmail.com,Facility Coordinator,Energy Management,Los Angeles,GreenLeaf Co.,Maintenance Schedules,21
+Nicole Hines,tara62@hotmail.com,Facility Coordinator,Energy Management,Los Angeles,GreenLeaf Co.,Facility Utilization,40
+Nicole Hines,tara62@hotmail.com,Facility Coordinator,Energy Management,Los Angeles,GreenLeaf Co.,Maintenance Schedules,75
+Nicole Hines,tara62@hotmail.com,Facility Coordinator,Energy Management,Los Angeles,GreenLeaf Co.,Maintenance Schedules,66
+Kimberly Brooks,juan50@lewis.net,Maintenance Supervisor,Facilities Management,Houston,Bank of ACME,Work Order Completion,95
+Debra Jones,lbolton@tran-hanna.com,Portfolio Manager,Project Management,New York,Quantum Dynamics,Investment Returns,56
+Debra Jones,lbolton@tran-hanna.com,Portfolio Manager,Project Management,New York,Quantum Dynamics,Asset Performance,34
+Debra Jones,lbolton@tran-hanna.com,Portfolio Manager,Project Management,New York,Quantum Dynamics,Investment Returns,78
+Brian Kelly,ujones@hotmail.com,Building Manager,Occupancy Management,Miami,Skyline Properties,Occupancy Rate,87
+Brian Kelly,ujones@hotmail.com,Building Manager,Occupancy Management,Miami,Skyline Properties,Occupancy Rate,5
+Brian Kelly,ujones@hotmail.com,Building Manager,Occupancy Management,Miami,Skyline Properties,Occupancy Rate,97
+Theodore Collins,sean52@cannon-ponce.biz,Building Manager,Lease Administration,Miami,Quantum Dynamics,Building Health,53
+April Jackson,mcarpenter@chandler.biz,Chief Engineer,Lease Administration,Houston,Quantum Dynamics,Energy Usage,76
+April Jackson,mcarpenter@chandler.biz,Chief Engineer,Lease Administration,Houston,Quantum Dynamics,Equipment Health,10
+April Jackson,mcarpenter@chandler.biz,Chief Engineer,Lease Administration,Houston,Quantum Dynamics,Equipment Health,37
+Ashley Johnson,rmelendez@gmail.com,Maintenance Supervisor,Project Management,Seattle,TechSphere Inc.,Work Order Completion,27
+Ashley Johnson,rmelendez@gmail.com,Maintenance Supervisor,Project Management,Seattle,TechSphere Inc.,Preventative Maintenance,73
+Stephanie Nelson,gallegosmark@tran.com,Leasing Manager,Energy Management,Los Angeles,EverGrow Farms,Lease Expirations,66
+Jessica Johnson,heather86@mcbride.org,Building Manager,Project Management,San Francisco,TechSphere Inc.,Occupancy Rate,88
+Jessica Johnson,heather86@mcbride.org,Building Manager,Project Management,San Francisco,TechSphere Inc.,Building Health,99
+William Combs,nfowler@yahoo.com,Chief Engineer,Occupancy Management,Dallas,GreenLeaf Co.,Energy Usage,59
+William Combs,nfowler@yahoo.com,Chief Engineer,Occupancy Management,Dallas,GreenLeaf Co.,Equipment Health,37
+Sheena Avila,ganderson@hotmail.com,Chief Engineer,Energy Management,Seattle,NexaRetail,Equipment Health,67
+Sheena Avila,ganderson@hotmail.com,Chief Engineer,Energy Management,Seattle,NexaRetail,Equipment Health,88
+Sheena Avila,ganderson@hotmail.com,Chief Engineer,Energy Management,Seattle,NexaRetail,Energy Usage,55
+Sheena Avila,ganderson@hotmail.com,Chief Engineer,Energy Management,Seattle,NexaRetail,Energy Usage,14
+Christopher Day,carriemathews@gmail.com,Maintenance Supervisor,Facilities Management,Miami,GreenLeaf Co.,Work Order Completion,1
+Christopher Day,carriemathews@gmail.com,Maintenance Supervisor,Facilities Management,Miami,GreenLeaf Co.,Preventative Maintenance,2
+Kristopher Murray,nicholashoward@hotmail.com,Account Director,Lease Administration,San Francisco,Skyline Properties,Client Accounts,61
+Maria Williams,curtismelissa@jones-hill.com,Chief Engineer,Energy Management,San Francisco,NexaRetail,Energy Usage,69
+Maria Williams,curtismelissa@jones-hill.com,Chief Engineer,Energy Management,San Francisco,NexaRetail,Energy Usage,26
+Maria Williams,curtismelissa@jones-hill.com,Chief Engineer,Energy Management,San Francisco,NexaRetail,Equipment Health,39
+Susan Pugh,cynthia53@gmail.com,Asset Manager,Occupancy Management,Boston,NexaRetail,Rent Collection,60
+Susan Pugh,cynthia53@gmail.com,Asset Manager,Occupancy Management,Boston,NexaRetail,Rent Collection,32
+Susan Pugh,cynthia53@gmail.com,Asset Manager,Occupancy Management,Boston,NexaRetail,Asset Valuation,17
+Susan Pugh,cynthia53@gmail.com,Asset Manager,Occupancy Management,Boston,NexaRetail,Asset Valuation,10
+Mark Matthews,jonathan95@hotmail.com,Facility Coordinator,Energy Management,Los Angeles,NexaRetail,Facility Utilization,100
+Mark Matthews,jonathan95@hotmail.com,Facility Coordinator,Energy Management,Los Angeles,NexaRetail,Facility Utilization,16
+Tammy Foster,david84@gmail.com,Asset Manager,Lease Administration,Miami,TechSphere Inc.,Rent Collection,74
+Tammy Foster,david84@gmail.com,Asset Manager,Lease Administration,Miami,TechSphere Inc.,Asset Valuation,8
+David Solomon,carlamclaughlin@yahoo.com,Portfolio Manager,Energy Management,San Francisco,NexaRetail,Asset Performance,23
+Ralph Lamb,taylorjillian@yahoo.com,Leasing Manager,Energy Management,Seattle,StreamView Media,New Leases,87
+Ralph Lamb,taylorjillian@yahoo.com,Leasing Manager,Energy Management,Seattle,StreamView Media,New Leases,0
+Andrew Gray,bakerjason@gmail.com,Asset Manager,Energy Management,Miami,GreenLeaf Co.,Asset Valuation,55
+Andrew Gray,bakerjason@gmail.com,Asset Manager,Energy Management,Miami,GreenLeaf Co.,Rent Collection,64
+Brian Graves,kimberly30@yahoo.com,Building Manager,Occupancy Management,Chicago,StreamView Media,Building Health,76
+Brian Graves,kimberly30@yahoo.com,Building Manager,Occupancy Management,Chicago,StreamView Media,Building Health,20
+Megan Vasquez,dgross@gmail.com,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,New Leases,97
+Megan Vasquez,dgross@gmail.com,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,New Leases,100
+Megan Vasquez,dgross@gmail.com,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,New Leases,65
+Megan Vasquez,dgross@gmail.com,Leasing Manager,Energy Management,Seattle,TechSphere Inc.,Lease Expirations,82
+Nathan Bridges,hcoleman@bautista-carroll.com,Maintenance Supervisor,Project Management,Chicago,Quantum Dynamics,Preventative Maintenance,24
+Nathan Bridges,hcoleman@bautista-carroll.com,Maintenance Supervisor,Project Management,Chicago,Quantum Dynamics,Preventative Maintenance,98
+Paula Morrison,garciajason@logan.com,Account Director,Facilities Management,Seattle,Quantum Dynamics,Revenue Metrics,12
+Paula Morrison,garciajason@logan.com,Account Director,Facilities Management,Seattle,Quantum Dynamics,Client Accounts,33
+Paula Morrison,garciajason@logan.com,Account Director,Facilities Management,Seattle,Quantum Dynamics,Client Accounts,67
+Jerry Scott,andrewjohnson@sloan.biz,Building Manager,Lease Administration,Chicago,NexaRetail,Occupancy Rate,73
+Paul Allen,amanda30@yahoo.com,Chief Engineer,Occupancy Management,New York,Skyline Properties,Energy Usage,70
+Paul Allen,amanda30@yahoo.com,Chief Engineer,Occupancy Management,New York,Skyline Properties,Energy Usage,83
+Paul Allen,amanda30@yahoo.com,Chief Engineer,Occupancy Management,New York,Skyline Properties,Energy Usage,78
+Paul Allen,amanda30@yahoo.com,Chief Engineer,Occupancy Management,New York,Skyline Properties,Equipment Health,4
+Tara Cochran,christopher04@mendoza.com,Asset Manager,Project Management,Miami,Bank of ACME,Rent Collection,50
+Tara Cochran,christopher04@mendoza.com,Asset Manager,Project Management,Miami,Bank of ACME,Asset Valuation,94
+Tara Cochran,christopher04@mendoza.com,Asset Manager,Project Management,Miami,Bank of ACME,Rent Collection,74
+Tara Cochran,christopher04@mendoza.com,Asset Manager,Project Management,Miami,Bank of ACME,Rent Collection,41
+Jennifer Harrington,butlerjonathan@hotmail.com,Leasing Manager,Energy Management,Boston,StreamView Media,New Leases,96
+Jennifer Harrington,butlerjonathan@hotmail.com,Leasing Manager,Energy Management,Boston,StreamView Media,New Leases,17
+Jennifer Harrington,butlerjonathan@hotmail.com,Leasing Manager,Energy Management,Boston,StreamView Media,Lease Expirations,68
+Jordan Rivera,christiankelly@gmail.com,Leasing Manager,Lease Administration,Houston,TechSphere Inc.,New Leases,97
+Jordan Rivera,christiankelly@gmail.com,Leasing Manager,Lease Administration,Houston,TechSphere Inc.,Lease Expirations,95
+Jordan Rivera,christiankelly@gmail.com,Leasing Manager,Lease Administration,Houston,TechSphere Inc.,Lease Expirations,40
+Jordan Rivera,christiankelly@gmail.com,Leasing Manager,Lease Administration,Houston,TechSphere Inc.,New Leases,22
+Jennifer Glenn DDS,woodwardedward@gardner-lee.biz,Building Manager,Energy Management,Seattle,NexaRetail,Occupancy Rate,67
+Jennifer Glenn DDS,woodwardedward@gardner-lee.biz,Building Manager,Energy Management,Seattle,NexaRetail,Occupancy Rate,58
+Jennifer Glenn DDS,woodwardedward@gardner-lee.biz,Building Manager,Energy Management,Seattle,NexaRetail,Occupancy Rate,30
+Diana Wright,robertsonrobert@anthony.com,Maintenance Supervisor,Energy Management,San Francisco,Bank of ACME,Work Order Completion,21
+Bryan Jordan,washingtonkatie@gmail.com,Technician,Project Management,Miami,Skyline Properties,Work Order Status,63
+Bryan Jordan,washingtonkatie@gmail.com,Technician,Project Management,Miami,Skyline Properties,Work Order Status,25
+Bryan Jordan,washingtonkatie@gmail.com,Technician,Project Management,Miami,Skyline Properties,Work Order Status,80
+Bryan Jordan,washingtonkatie@gmail.com,Technician,Project Management,Miami,Skyline Properties,Work Order Status,14
+Mr. Jacob Lawson,arnolddeanna@lee.com,Technician,Energy Management,New York,TechSphere Inc.,Work Order Status,68
+Mr. Jacob Lawson,arnolddeanna@lee.com,Technician,Energy Management,New York,TechSphere Inc.,Work Order Status,64
+Mr. Jacob Lawson,arnolddeanna@lee.com,Technician,Energy Management,New York,TechSphere Inc.,Work Order Status,58
+Jose Campbell,ctaylor@yahoo.com,Asset Manager,Lease Administration,Dallas,EverGrow Farms,Asset Valuation,26
+Jose Campbell,ctaylor@yahoo.com,Asset Manager,Lease Administration,Dallas,EverGrow Farms,Asset Valuation,9
+Crystal Anderson,jon88@williams.com,Asset Manager,Energy Management,Seattle,GreenLeaf Co.,Asset Valuation,27
+Crystal Anderson,jon88@williams.com,Asset Manager,Energy Management,Seattle,GreenLeaf Co.,Rent Collection,52
+Crystal Anderson,jon88@williams.com,Asset Manager,Energy Management,Seattle,GreenLeaf Co.,Asset Valuation,75
+Kristina Peters,barnesmaria@harris-stone.com,Facility Coordinator,Lease Administration,Seattle,Bank of ACME,Facility Utilization,46
+Kristina Peters,barnesmaria@harris-stone.com,Facility Coordinator,Lease Administration,Seattle,Bank of ACME,Maintenance Schedules,84
+Whitney Richards,richard56@martinez.com,Facility Coordinator,Energy Management,Seattle,TechSphere Inc.,Facility Utilization,83
+Whitney Richards,richard56@martinez.com,Facility Coordinator,Energy Management,Seattle,TechSphere Inc.,Maintenance Schedules,62
+Dr. Karen Ortega MD,umiller@perez-chandler.org,Account Director,Occupancy Management,Houston,Skyline Properties,Revenue Metrics,19
+Kenneth Johnson,kelliejohnston@yahoo.com,Leasing Manager,Facilities Management,Los Angeles,GreenLeaf Co.,New Leases,89
+Kenneth Johnson,kelliejohnston@yahoo.com,Leasing Manager,Facilities Management,Los Angeles,GreenLeaf Co.,New Leases,58
+John Vega,juliajohnson@smith.biz,Technician,Lease Administration,Chicago,TechSphere Inc.,Work Order Status,68
+John Vega,juliajohnson@smith.biz,Technician,Lease Administration,Chicago,TechSphere Inc.,Work Order Status,83
+Kayla Gutierrez,grace40@yahoo.com,Facility Coordinator,Energy Management,San Francisco,EverGrow Farms,Facility Utilization,64
+Kayla Gutierrez,grace40@yahoo.com,Facility Coordinator,Energy Management,San Francisco,EverGrow Farms,Maintenance Schedules,58
+Kayla Gutierrez,grace40@yahoo.com,Facility Coordinator,Energy Management,San Francisco,EverGrow Farms,Maintenance Schedules,52
+Kayla Gutierrez,grace40@yahoo.com,Facility Coordinator,Energy Management,San Francisco,EverGrow Farms,Facility Utilization,53
+Mary Byrd,davidhamilton@yahoo.com,Technician,Lease Administration,Chicago,TechSphere Inc.,Work Order Status,9
+Mary Byrd,davidhamilton@yahoo.com,Technician,Lease Administration,Chicago,TechSphere Inc.,Equipment Monitoring,7
+Mary Byrd,davidhamilton@yahoo.com,Technician,Lease Administration,Chicago,TechSphere Inc.,Equipment Monitoring,62
+Albert Anderson,popejesse@gmail.com,Technician,Project Management,Seattle,Quantum Dynamics,Work Order Status,64
+Albert Anderson,popejesse@gmail.com,Technician,Project Management,Seattle,Quantum Dynamics,Work Order Status,24
+Albert Anderson,popejesse@gmail.com,Technician,Project Management,Seattle,Quantum Dynamics,Work Order Status,96
+Albert Anderson,popejesse@gmail.com,Technician,Project Management,Seattle,Quantum Dynamics,Work Order Status,59
+Steven Roberson,richardsonfranklin@terry.biz,Chief Engineer,Lease Administration,Dallas,TechSphere Inc.,Energy Usage,58
+Steven Roberson,richardsonfranklin@terry.biz,Chief Engineer,Lease Administration,Dallas,TechSphere Inc.,Energy Usage,54
+Steven Roberson,richardsonfranklin@terry.biz,Chief Engineer,Lease Administration,Dallas,TechSphere Inc.,Equipment Health,15
+Carlos Montgomery,kathleentaylor@boyd.net,Maintenance Supervisor,Project Management,Seattle,StreamView Media,Preventative Maintenance,59
+Kaitlin Campbell,padillaaimee@gray.com,Chief Engineer,Facilities Management,New York,TechSphere Inc.,Energy Usage,81
+Kaitlin Campbell,padillaaimee@gray.com,Chief Engineer,Facilities Management,New York,TechSphere Inc.,Equipment Health,93
+Brian Diaz,ginaking@martinez.biz,Technician,Energy Management,Dallas,Quantum Dynamics,Work Order Status,10
+Brian Diaz,ginaking@martinez.biz,Technician,Energy Management,Dallas,Quantum Dynamics,Work Order Status,0
+Mrs. Regina Armstrong,clarkjulian@yahoo.com,Portfolio Manager,Energy Management,Miami,Bank of ACME,Investment Returns,7
+Mrs. Regina Armstrong,clarkjulian@yahoo.com,Portfolio Manager,Energy Management,Miami,Bank of ACME,Investment Returns,97
+Mrs. Regina Armstrong,clarkjulian@yahoo.com,Portfolio Manager,Energy Management,Miami,Bank of ACME,Investment Returns,55
+Mrs. Regina Armstrong,clarkjulian@yahoo.com,Portfolio Manager,Energy Management,Miami,Bank of ACME,Investment Returns,6
+Kathleen Hamilton,wilsonjames@gmail.com,Maintenance Supervisor,Lease Administration,Dallas,Quantum Dynamics,Work Order Completion,46
+Kathleen Hamilton,wilsonjames@gmail.com,Maintenance Supervisor,Lease Administration,Dallas,Quantum Dynamics,Work Order Completion,8
+Kathleen Hamilton,wilsonjames@gmail.com,Maintenance Supervisor,Lease Administration,Dallas,Quantum Dynamics,Preventative Maintenance,76
+Kathleen Hamilton,wilsonjames@gmail.com,Maintenance Supervisor,Lease Administration,Dallas,Quantum Dynamics,Preventative Maintenance,47
+Lisa Valdez,hmartin@gmail.com,Account Director,Facilities Management,Houston,StreamView Media,Revenue Metrics,98
+Casey Barry,jmiller@hotmail.com,Leasing Manager,Project Management,Dallas,Skyline Properties,Lease Expirations,7
+Casey Barry,jmiller@hotmail.com,Leasing Manager,Project Management,Dallas,Skyline Properties,Lease Expirations,37
+Casey Barry,jmiller@hotmail.com,Leasing Manager,Project Management,Dallas,Skyline Properties,New Leases,84
+Casey Barry,jmiller@hotmail.com,Leasing Manager,Project Management,Dallas,Skyline Properties,New Leases,91
