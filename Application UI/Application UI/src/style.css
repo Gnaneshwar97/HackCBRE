@@ -1,0 +1,8 @@
+/* styles.css */
+.my-component {
+  font-family: 'Times New Roman',
+   display: 'flex',
+   align: 'left'
+
+  /* You can replace 'Your-Desired-Font' with the font family you want to use */
+};
